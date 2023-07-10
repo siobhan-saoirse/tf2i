@@ -14,6 +14,7 @@
 		"test_hardware"		1
 	}
 	supportsvr	0
+	icon			"resource/game"
 	FileSystem
 	{
 		SteamAppId		243750	// Source SDK Base 2013 Multiplayer
