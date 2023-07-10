@@ -42,6 +42,6 @@
 	}
 	"cp_contest"
 	{
-		"viewed"		"3"
+		"viewed"		"4"
 	}
 }
