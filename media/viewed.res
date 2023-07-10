@@ -38,6 +38,10 @@
 	}
 	"cp_staredown"
 	{
+		"viewed"		"4"
+	}
+	"cp_contest"
+	{
 		"viewed"		"2"
 	}
 }
