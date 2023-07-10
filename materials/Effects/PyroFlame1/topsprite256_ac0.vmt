@@ -1,0 +1,11 @@
+"Spritecard"
+{
+	"srgb?$overbrightfactor" "5"
+//	Spritecard_srgb
+ //   {	
+//		"$overbrightfactor" "5"
+ //   }
+	"$basetexture" "effects/PyroFlame1/topSprite256_AC0"
+	"$translucent" 1
+	"$addself" "1"
+}

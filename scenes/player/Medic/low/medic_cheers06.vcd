@@ -1,0 +1,39 @@
+// Choreo version 1
+actor "medic"
+{
+  channel "audio"
+  {
+    event speak "Medic.Cheers06"
+    {
+      time 0.000000 1.875011
+      param "Medic.Cheers06"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event expression "mad"
+    {
+      time 0.010417 1.895833
+      param "expressions"
+      param2 "mad"
+      event_ramp
+      {
+        0.2182 0.1594
+        0.7364 0.1848 "curve_easein_to_curve_easeout"
+        0.9394 0.4529 "curve_kochanek_to_curve_kochanek"
+        1.6879 0.4529 "curve_kochanek_to_curve_kochanek"
+      }
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "64"
+  "ExpressionTool" "100"
+  "RampTool" "66"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

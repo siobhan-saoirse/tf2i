@@ -1,0 +1,164 @@
+// Choreo version 1
+actor "medic"
+{
+  channel "audio"
+  {
+    event speak "Medic.SpecialCompleted11"
+    {
+      time 0.000000 4.000000
+      param "Medic.SpecialCompleted11"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "imported_flex"
+  {
+    event flexanimation "medic"
+    {
+      time 0.000000 3.076600
+      param ""
+      flexanimations samples_use_time defaultcurvetype=curve_linear_interp_to_curve_linear_interp
+      {
+        "NT" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          1.9000 0.0000
+          1.9500 0.5750
+          2.0000 1.0000
+          2.0500 0.7750
+          2.1000 0.1500
+          2.1500 0.0000
+        }
+        "ER" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.9000 0.0000
+          0.9500 0.0624
+          1.0000 0.5828
+          1.0500 0.8325
+          1.2500 0.8325
+          1.3000 0.7909
+          1.3500 0.2706
+          1.4000 0.0000
+          2.6500 0.0000
+          2.7000 0.1665
+          2.7500 0.1665
+          2.8000 0.0000
+        }
+        "EE" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "Y" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          1.2500 0.0000
+          1.3000 0.0500
+          1.3500 0.6750
+          1.4000 1.0000
+          1.7000 1.0000
+          1.8000 0.0000
+        }
+        "SH" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          1.2500 0.0000
+          2.8000 0.0000
+        }
+        "silence" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "OH" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "AW" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "OO" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          2.6500 0.0000
+          2.7000 0.1500
+          2.7500 0.2000
+          2.8000 0.0000
+        }
+        "DS" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          1.7000 0.0000
+          1.8000 1.0000
+          1.9000 1.0000
+          1.9500 0.4250
+          2.0000 0.0000
+        }
+        "PP" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "MB" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "UH" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "AE" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "AH" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          2.0000 0.0000
+          2.0500 0.2250
+          2.1000 0.8500
+          2.1500 1.0000
+          2.6500 1.0000
+          2.7000 0.6500
+          2.7500 0.0250
+          2.8000 0.0000
+        }
+        "FV" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "WQ" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "TH" leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        "eyes_updown" leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        "eyes_rightleft" leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+      }
+    }
+  }
+  channel "imported sounds"
+  {
+    event speak "Medic.SpecialCompleted09"
+    {
+      time 0.000000 3.076600
+      param "Medic.SpecialCompleted09"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "64"
+  "ExpressionTool" "100"
+  "RampTool" "66"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

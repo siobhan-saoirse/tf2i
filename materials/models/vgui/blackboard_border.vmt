@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/vgui/blackboard_border"
+	"$model" "1"
+//	"$translucent" "1"
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Overlays/patch005"
+	"$decal" 1
+	"$decalscale" .25
+	"$translucent" 1
+	"$alpha" .5
+	"%keywords" "tf"
+}

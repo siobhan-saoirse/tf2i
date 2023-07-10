@@ -1,0 +1,24 @@
+// Choreo version 1
+actor "medic"
+{
+  channel "audio"
+  {
+    event expression "evilHappy"
+    {
+      time 0.000000 1.000000
+      param "player\medic\emotion\emotion"
+      param2 "evilHappy"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "64"
+  "ExpressionTool" "100"
+  "RampTool" "66"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

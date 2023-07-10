@@ -1,0 +1,6 @@
+"UnLitGeneric"
+{
+	"$basetexture"	"models/effects/cappoint_logo_neutral"
+//	"$additive" "1"
+	"$model" "1"
+}

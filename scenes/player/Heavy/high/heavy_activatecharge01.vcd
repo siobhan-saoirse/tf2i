@@ -1,0 +1,46 @@
+// Choreo version 1
+event stoppoint "end"
+{
+  time 4.000000 -1.000000
+  param "noaction"
+}
+actor "heavy"
+{
+  channel "audio"
+  {
+    event speak "Heavy.ActivateCharge01"
+    {
+      time 0.000000 1.181315
+      param "Heavy.ActivateCharge01"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "emotion"
+  {
+    event expression "eyes_angry"
+    {
+      time 0.007937 1.202381
+      param "player\heavy\emotion\emotion"
+      param2 "eyes_angry"
+      event_ramp
+      {
+        0.1242 1.0000
+        0.5667 1.0000
+        0.9579 1.0000
+      }
+    }
+  }
+}
+
+scalesettings
+{
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "RampTool" "56"
+  "ExpressionTool" "100"
+  "CChoreoView" "200"
+}
+fps 60
+snap off

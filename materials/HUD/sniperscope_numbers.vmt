@@ -1,0 +1,63 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "HUD/sniperscope_numbers"
+	"$texture2" "HUD/sniperscope_numbers2"
+	"$translucent" "1"
+	"$additive" "1"
+	"$ignorez" "1"
+	"$nofog" "1"
+
+	"$chargevalue"		"[0 0]"
+	"$chargeone"		"1"
+	"$chargetemp"		"0"
+	"$chargeoffset"		"0.8"
+	"$chargeoffset2"	"0.6"
+	"$chargescale"		"[1 0.25]"
+	"Proxies"
+	{
+		"SniperRifleCharge"
+		{
+			"resultVar"	"$chargetemp"
+		}
+		"Subtract"
+		{
+			"srcVar1"	"$chargeone"
+			"srcVar2"	"$chargetemp"
+			"resultVar"	"$chargetemp"
+		}
+		"Multiply"
+		{
+			"srcVar1"	"$chargetemp"
+			"srcVar2"	"$chargeoffset"
+			"resultVar"	"$chargetemp"
+		}
+		"Clamp"
+		{
+			"srcVar1"	"$chargetemp"
+			"min"		"0.0"
+			"max"		"1.0"
+			"resultVar"	"$chargetemp"
+		}
+		"Add"
+		{
+			"srcVar1"	"$chargeoffset2"
+			"srcVar2"	"$chargetemp"
+			"resultVar"	"$chargetemp"
+		}
+		"Equals"
+		{
+			"srcVar1"	"$chargetemp"
+			"resultVar"	"$chargevalue[1]"
+		}
+		"TextureTransform"
+		{
+			"scaleVar"	"$chargescale"
+			"translateVar"	"$chargevalue"
+			"resultVar" 	"$basetexturetransform"
+		}
+
+	}
+
+}
+
+

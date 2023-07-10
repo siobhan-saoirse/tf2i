@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Overlays/drain001"
+	"$decal" "1"
+	"$translucent" 1
+	"%keywords" "tf"
+}

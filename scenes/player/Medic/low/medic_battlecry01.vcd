@@ -1,0 +1,39 @@
+// Choreo version 1
+actor "medic"
+{
+  channel "audio"
+  {
+    event speak "Medic.BattleCry01"
+    {
+      time 0.000000 1.309025
+      param "Medic.BattleCry01"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event expression "mad"
+    {
+      time 0.000000 1.322917
+      param "expressions"
+      param2 "mad"
+      event_ramp
+      {
+        0.2394 0.3949
+        0.5394 0.3116
+        0.7788 0.5217
+        1.0545 0.4855
+      }
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "64"
+  "ExpressionTool" "100"
+  "RampTool" "66"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

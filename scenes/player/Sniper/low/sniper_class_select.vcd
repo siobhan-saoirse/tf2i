@@ -1,0 +1,38 @@
+// Choreo version 1
+event loop "end loop"
+{
+  time 4.653000 -1.000000
+  param "2.700000"
+  loopcount "-1"
+}
+actor "sniper"
+{
+  channel "body"
+  {
+  }
+  channel "sequence"
+  {
+    event sequence "animation"
+    {
+      time 0.000000 2.666667
+      param "SelectionMenu_Anim01"
+      fixedlength
+    }
+    event sequence "idle"
+    {
+      time 2.668000 4.668000
+      param "SelectionMenu_Idle"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "264"
+  "RampTool" "34"
+  "ExpressionTool" "74"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"signs/hazard_yellow001_strip"
+	"$surfaceprop"	"default"
+	"$translucent"	1
+	"$decal"	1
+}

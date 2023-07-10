@@ -1,0 +1,40 @@
+// Choreo version 1
+actor "medic"
+{
+  channel "audio"
+  {
+    event speak "Medic.BattleCry03"
+    {
+      time 0.000000 1.126168
+      param "Medic.BattleCry03"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event expression "mad"
+    {
+      time 0.000000 1.156250
+      param "expressions"
+      param2 "mad"
+      event_ramp
+      {
+        0.2394 0.2283 "curve_kochanek_early_to_curve_kochanek_early"
+        0.5303 0.2826 "curve_kochanek_early_to_curve_kochanek_early"
+        0.6273 0.4275 "curve_kochanek_early_to_curve_kochanek_early"
+        0.8515 0.4891
+        1.0515 0.4239 "curve_kochanek_early_to_curve_kochanek_early"
+      }
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "64"
+  "ExpressionTool" "100"
+  "RampTool" "66"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

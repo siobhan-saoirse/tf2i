@@ -1,0 +1,29 @@
+"Refract"
+{
+	"%keywords" "tf"
+	"$refractamount" ".02"
+	"$refracttint" "{255 115 15}"
+	"$normalmap" "effects/invuln_overlay_normal"
+	"$bumpframe" "0"
+	"$bluramount" "1"
+	"$refracttinttexture" "effects/invulnoverlay/invuln_overlay"
+	"Proxies"
+	{
+		"sine"
+		{
+			"sinemax" ".1"
+			"sinemin" "-.1"
+			"sineperiod" ".81"
+			"resultvar" "$refractamount"
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$refracttinttexture"
+			"animatedtextureframenumvar" "$refracttinttextureframe"
+			"animatedtextureframerate" 44
+		}
+
+
+	}
+
+}

@@ -1,0 +1,1 @@
+Objective: Both teams are fighting for the five capture areas on the map. Each point must be captured in order, starting with your team's base.

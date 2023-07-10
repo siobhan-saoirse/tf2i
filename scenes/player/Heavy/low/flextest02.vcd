@@ -1,0 +1,54 @@
+// Choreo version 1
+actor "heavy"
+{
+  channel "audio"
+  {
+  }
+  channel "emotion"
+  {
+    event flexanimation "flex"
+    {
+      time 0.027778 5.555556
+      param ""
+      event_ramp
+      {
+        0.6917 1.0000 "curve_easein_to_curve_easeout"
+        1.5250 0.0140
+        2.5750 0.9860
+        3.6750 0.0210
+        4.7083 1.0000 "curve_easein_to_curve_easeout"
+      }
+      flexanimations samples_use_time defaultcurvetype=curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+      {
+        "mad" 
+        {
+          0.0829 0.0000 "curve_default_to_curve_default"
+          0.5958 0.0000 "curve_default_to_curve_default"
+          1.2833 0.0000 "curve_default_to_curve_default"
+          2.0375 0.0000 "curve_default_to_curve_default"
+          2.7417 0.0000 "curve_default_to_curve_default"
+          3.5917 0.0000 "curve_default_to_curve_default"
+          4.2875 0.0000 "curve_default_to_curve_default"
+          4.8625 0.0000 "curve_default_to_curve_default"
+        }
+        "happybig" 
+        {
+          0.0829 0.0000 "curve_default_to_curve_default"
+          0.2125 0.9700 "curve_default_to_curve_default"
+          5.3208 0.9700 "curve_default_to_curve_default"
+        }
+      }
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "72"
+  "ExpressionTool" "48"
+  "RampTool" "24"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

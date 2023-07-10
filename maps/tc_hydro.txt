@@ -1,0 +1,3 @@
+Objective: Territory Control
+
+Fight for the opposing team's capture area. There are 6 capture areas on the map, but only two are accessible during each round. The rounds will continue until one team owns all capture areas.

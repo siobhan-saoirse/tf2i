@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/props_hydro/hydraulic_door"
+	"$bumpmap" "Models\props_hydro\hydraulic_door_normal"
+	"$basemapalphaphongmask" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".25"	
+	"$phongfresnelranges"	"[.7 15 20]"
+
+	
+}

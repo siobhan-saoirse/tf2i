@@ -1,0 +1,79 @@
+// Choreo version 1
+actor "heavy"
+{
+  channel "audio"
+  {
+    event speak "Heavy.NiceShot02"
+    {
+      time 0.130000 1.825057
+      param "Heavy.NiceShot02"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "emotion"
+  {
+    event expression "eyes_crunch"
+    {
+      time 0.003333 0.313333
+      param "player\heavy\emotion\emotion"
+      param2 "eyes_crunch"
+      event_ramp
+      {
+        0.1226 0.9301
+        0.2042 0.9790
+      }
+    }
+    event expression "eyes_wideopen"
+    {
+      time 0.223333 0.873333
+      param "player\heavy\emotion\emotion"
+      param2 "eyes_wideopen"
+      event_ramp
+      {
+        0.0659 0.7483 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
+        0.1976 0.9231
+        0.3459 0.4266
+        0.5459 0.0000
+      }
+    }
+    event expression "happyBig"
+    {
+      time 0.596667 1.886667
+      param "player\heavy\emotion\emotion"
+      param2 "happyBig"
+      event_ramp
+      {
+        0.2512 0.7273 "curve_easein_to_curve_easeout"
+        0.4293 0.6643
+        0.6098 0.6573
+        0.7308 0.7622 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
+        1.0249 0.7832 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
+      }
+    }
+    event expression "happyEvil_big"
+    {
+      time 1.643333 4.113334
+      param "player\heavy\emotion\emotion"
+      param2 "happyEvil_big"
+      event_ramp
+      {
+        0.2537 0.7622 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
+        0.5756 0.8811 "curve_easein_to_curve_easein"
+        1.6015 0.7972 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
+      }
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "200"
+  "ExpressionTool" "100"
+  "RampTool" "82"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

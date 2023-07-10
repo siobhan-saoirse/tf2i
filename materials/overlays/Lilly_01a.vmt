@@ -1,0 +1,52 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "overlays/Lilly_01a"
+	"$translucent" 1
+	"$decal" 1
+	"%keywords" "tf"
+
+	"LightmappedGeneric_DX9_HDR"
+	{
+		"$basetexture" "overlays/Lilly_01hdr"
+	}
+
+ "$temp" "[0 0]"
+ "$curr" 0.0
+ "$curr2" 0.0
+
+ "Proxies"
+ {
+		"Sine"
+		{
+			"sineperiod" "11"
+			"sinemin" -0.005
+			"sinemax" 0.005
+			"resultVar" "$curr"
+		}
+		"Sine"
+		{
+			"sineperiod" "7"
+			"sinemin" 0.005
+			"sinemax" -0.005
+			"resultVar" "$curr2"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$curr2"
+			"resultVar" "$temp[0]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$curr"
+			"resultVar" "$temp[1]"
+		}
+
+ 
+		"TextureTransform"
+		{
+			"translateVar" "$temp"
+			"resultVar" "$basetexturetransform"
+		}
+	}  
+}

@@ -1,0 +1,24 @@
+//
+// Team Fortress - Civilian Non-Player Class
+//
+PlayerClass
+{
+	// Attributes.
+	"name"			"civilian"
+	"model"			"models/player/scout.mdl"
+	"localize_name"	"TF_Class_Name_Civilian"
+	"speed_max"		"240"
+	"health_max"		"50"
+	"armor_max"		"0"
+
+	// Grenades.
+
+	// Weapons.
+
+	// Ammo.
+	AmmoMax
+	{
+		"tf_ammo_grenades1"	"4"
+		"tf_ammo_grenades2"	"4"
+	}	
+}

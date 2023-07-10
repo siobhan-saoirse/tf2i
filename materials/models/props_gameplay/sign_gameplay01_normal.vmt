@@ -1,0 +1,5 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"models/props_gameplay/sign_gameplay01_normal"
+	"$surfaceprop"	"default"
+}

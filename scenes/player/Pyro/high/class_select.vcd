@@ -1,0 +1,81 @@
+// Choreo version 1
+event loop "idle"
+{
+  time 2.828000 -1.000000
+  param "2.329000"
+  loopcount "-1"
+}
+actor "pyro"
+{
+  channel "body"
+  {
+    event sequence "intro"
+    {
+      time 0.000000 0.000000
+      param "selectionMenu_StartPose"
+      fixedlength
+    }
+    event sequence "intro"
+    {
+      time 0.000000 0.000000
+      param "selectionMenu_StartPose"
+      fixedlength
+    }
+    event sequence "intro"
+    {
+      time 0.000000 0.000000
+      param "selectionMenu_StartPose"
+      fixedlength
+    }
+    event sequence "intro"
+    {
+      time 0.000000 0.000000
+      param "selectionMenu_StartPose"
+      fixedlength
+    }
+    event sequence "intro"
+    {
+      time 0.000000 0.000000
+      param "selectionMenu_StartPose"
+      fixedlength
+    }
+    event sequence "intro"
+    {
+      time 0.000000 0.000000
+      param "selectionMenu_StartPose"
+      fixedlength
+    }
+  }
+  channel "sequence"
+  {
+    event sequence "intro"
+    {
+      time 0.000000 0.000000
+      param "selectionMenu_StartPose"
+      fixedlength
+    }
+    event sequence "animation"
+    {
+      time 0.000000 2.333333
+      param "selectionMenu_Anim01"
+      fixedlength
+    }
+    event sequence "idle"
+    {
+      time 2.328054 2.828054
+      param "selectionMenu_Idle"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "204"
+  "RampTool" "34"
+  "ExpressionTool" "74"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

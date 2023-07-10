@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_spytech/siren"
+	"$bumpmap" "models\props_spytech\siren_normal"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 1 1]"
+	//"$alpha" "1"
+
+}

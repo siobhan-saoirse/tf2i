@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Nature/rockground002"
+	"$bumpmap" "Nature/rockground002_height-ssbump"
+	"$ssbump" "1"
+	"%keywords" "tf"
+	"$surfaceprop" "dirt"
+}

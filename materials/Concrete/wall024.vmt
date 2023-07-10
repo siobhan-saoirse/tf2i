@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Concrete/wall024"
+	"$detail" "Concrete/concrete_macro001"
+	"$detailscale" 8
+	"%keywords" "tf"
+}

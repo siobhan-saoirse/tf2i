@@ -1,0 +1,43 @@
+// Choreo version 1
+actor "heavy"
+{
+  channel "facial"
+  {
+    event expression "xp01"
+    {
+      time 0.093333 0.946667
+      param "base_expressions"
+      param2 "test01"
+      event_ramp
+      {
+        0.2240 0.9769
+        0.6233 0.9711
+      }
+    }
+  }
+  channel "audio"
+  {
+    event speak "Player.MeleeDeath"
+    {
+      time 0.115385 1.003548
+      param "Player.MeleeDeath"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "emotion"
+  {
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "200"
+  "RampTool" "100"
+  "ExpressionTool" "74"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

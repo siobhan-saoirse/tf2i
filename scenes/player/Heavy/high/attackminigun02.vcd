@@ -1,0 +1,70 @@
+// Choreo version 1
+actor "heavy"
+{
+  channel "audio"
+  {
+  }
+  channel "emotion"
+  {
+    event expression "idleface"
+    {
+      time 0.000000 7.374999
+      param "player\heavy\emotion\emotion"
+      param2 "mad"
+      event_ramp
+      {
+        0.2565 1.0000 "curve_easein_to_curve_easeout"
+        2.4188 1.0000
+        6.8761 0.9925 "curve_easein_to_curve_easeout"
+        7.3750 0.0000 "curve_easein_to_curve_easeout"
+      }
+    }
+    event expression "happysmall02"
+    {
+      time 6.412039 11.467594
+      param "player\heavy\emotion\emotion"
+      param2 "happysmall02"
+      event_ramp
+      {
+        0.3219 0.7974
+        0.4837 0.9925 "curve_easein_to_curve_easeout"
+        0.7562 0.9173
+        3.2373 0.9925
+        3.2969 1.0000
+        3.5719 0.8045
+        3.9718 1.0000
+        4.7438 0.9901
+      }
+    }
+    event expression "happybig"
+    {
+      time 2.361111 6.861111
+      param "player\heavy\emotion\emotion"
+      param2 "happybig"
+      event_ramp
+      {
+        0.4687 0.2306 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
+        0.7625 0.4060
+        1.1219 0.4812
+        1.8562 0.5263
+        2.1688 0.5865
+        2.4562 0.5414
+        3.7688 0.7822
+        4.4001 0.6127
+      }
+    }
+  }
+  faceposermodel "C:\dev\main\game\tf\models\player\heavy.mdl"
+}
+
+scalesettings
+{
+  "SceneRampTool" "100"
+  "GestureTool" "100"
+  "RampTool" "64"
+  "ExpressionTool" "100"
+  "CChoreoView" "48"
+}
+fps 60
+snap off
+ignorePhonemes off

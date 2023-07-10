@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\items/ammo_box1"
+	"$bumpmap" "models/items/ammo_box_normal"
+	"$selfillum" "1"
+
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"	
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges" "[0.25 0.5 1]"
+}

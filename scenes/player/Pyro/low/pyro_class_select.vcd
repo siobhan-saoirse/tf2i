@@ -1,0 +1,43 @@
+// Choreo version 1
+event loop "loop4eva"
+{
+  time 8.000000 -1.000000
+  param "7.000000"
+  loopcount "-1"
+}
+actor "pyro"
+{
+  channel "body"
+  {
+    event sequence "Stand_PRIMARY"
+    {
+      time 0.000000 1.159457
+      param "Stand_PRIMARY"
+    }
+    event sequence "taunt01"
+    {
+      time 0.862745 2.829412
+      param "taunt01"
+      fixedlength
+    }
+  }
+  channel "sequence"
+  {
+    event sequence "Stand_PRIMARY"
+    {
+      time 2.644258 8.328924
+      param "Stand_PRIMARY"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "68"
+  "RampTool" "34"
+  "ExpressionTool" "74"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

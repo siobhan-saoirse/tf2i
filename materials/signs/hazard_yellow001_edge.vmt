@@ -1,0 +1,8 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"signs/hazard_yellow001_edge"
+	"$decal" "1"
+	"$decalscale" .125
+	"$translucent" 1
+	"%keywords" "tf"
+}

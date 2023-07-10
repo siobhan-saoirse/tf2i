@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "Metal/Chicken_Wire001"
+	"$surfaceprop" "metal"
+	"%keywords" "tf"
+
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.15"
+
+	// This thins out too much with alpha to coverage. Leave this off.
+	//"$AllowAlphaToCoverage" "1"
+}

@@ -1,0 +1,431 @@
+// Choreo version 1
+actor "medic"
+{
+  channel "imported_flex"
+  {
+    event flexanimation "medic"
+    {
+      time 0.000000 1.561500
+      param ""
+      flexanimations samples_use_time defaultcurvetype=curve_linear_interp_to_curve_linear_interp
+      {
+        "CloseLidUp" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "CloseLidLo" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "InnerSquint" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "OuterSquint" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "BrowInV" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "BrowOutV" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "Frown" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "NoseV" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "NostrilFlare" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "CheekV" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "CheekH" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "JawD" leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+          0.1000 0.8316
+          0.1500 0.6134
+          0.2000 0.5000
+          0.3500 0.4571
+          0.4000 0.3040
+          0.4500 0.4169
+          0.5000 0.7269
+          0.5500 0.8228
+          0.6500 0.2734
+          0.8000 0.5698
+          1.0000 0.5000
+          1.0500 0.3714
+          1.1500 0.5000
+          1.4500 0.5000
+        }
+        "JawH" leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        "JawV" leftedge curve_linear_interp_to_curve_linear_interp 0.712 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.7124
+          0.0500 0.6587
+          0.1000 0.3075
+          0.1500 0.6225
+          0.3000 0.8888
+          0.3500 0.8853
+          0.4000 0.6790
+          0.4500 0.6393
+          0.5000 0.4129
+          0.5500 0.2982
+          0.6000 0.5305
+          0.7000 0.7285
+          0.7500 0.9348
+          0.8500 0.4604
+          1.0500 0.5593
+          1.1500 0.9430
+          1.2500 0.9430
+          1.3500 0.5558
+          1.4000 0.6112
+          1.4500 0.5000
+        }
+        "LipsV" combo leftedge curve_linear_interp_to_curve_linear_interp 0.694 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.6944
+          0.0500 0.9681
+          0.2500 0.8054
+          0.3000 0.5872
+          0.3500 0.5693
+          0.4000 0.8168
+          0.4500 0.6591
+          0.5500 0.8931
+          0.6000 0.8161
+          0.7500 0.9974
+          0.8000 0.8850
+          0.8500 0.5744
+          1.0000 0.4500
+          1.0500 0.6079
+          1.1000 0.9532
+          1.2500 1.0000
+          1.3000 0.5500
+          1.3500 0.2542
+          1.4000 0.3792
+          1.4500 0.2625
+          1.5000 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "LipUpV" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.2000 0.5000
+          0.2500 0.5566
+          0.3000 0.8398
+          0.3500 0.8968
+          0.4000 0.6962
+          0.5500 0.5000
+          0.6500 0.6221
+          0.7500 0.5033
+          1.0000 0.5000
+          1.0500 0.5693
+          1.1500 0.5000
+          1.4500 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "LipLoV" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+          0.1000 0.5627
+          0.2000 0.5000
+          0.2500 0.5460
+          0.3000 0.7760
+          0.3500 0.8152
+          0.4000 0.6264
+          0.6000 0.5396
+          1.4500 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "Smile" combo leftedge curve_linear_interp_to_curve_linear_interp 0.102 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.1020
+          0.0500 0.1466
+          0.1000 0.0128
+          0.1500 0.1470
+          0.2500 0.2542
+          0.3000 0.5155
+          0.3500 0.5115
+          0.4000 0.1240
+          0.4500 0.3720
+          0.5500 0.0000
+          0.6500 0.0151
+          0.7500 0.2486
+          0.8500 0.0000
+          1.0500 0.0000
+          1.1500 0.2550
+          1.2500 0.2550
+          1.3500 0.0191
+          1.4500 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "multi_Smile" leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        "Platysmus" combo leftedge curve_linear_interp_to_curve_linear_interp 0.192 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.1924
+          0.0500 0.2766
+          0.1000 0.0241
+          0.1500 0.2767
+          0.2000 0.3800
+          0.3000 0.3778
+          0.3500 0.3110
+          0.4000 0.0754
+          0.4500 0.1548
+          0.5500 0.0000
+          0.6000 0.0760
+          0.6500 0.0285
+          0.7000 0.1684
+          0.7500 0.4690
+          0.8000 0.2886
+          0.8500 0.0000
+          1.0500 0.0000
+          1.1500 0.4810
+          1.2500 0.4810
+          1.3500 0.0361
+          1.4000 0.0962
+          1.4500 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "FoldLipUp" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.1000 0.5000
+          0.2500 0.5849
+          0.3500 0.4356
+          0.4000 0.2056
+          0.5000 0.5000
+          0.5500 0.5347
+          0.6000 0.5014
+          0.6500 0.1669
+          0.7000 0.2608
+          0.7500 0.4908
+          1.0000 0.5000
+          1.0500 0.3068
+          1.1000 0.3344
+          1.1500 0.5000
+          1.4000 0.4264
+          1.4500 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "FoldLipLo" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.1000 0.5000
+          0.2000 0.5980
+          0.3000 0.5245
+          0.3500 0.4125
+          0.4000 0.1000
+          0.5000 0.5000
+          0.5500 0.5350
+          0.6000 0.4630
+          0.6500 0.0449
+          0.7000 0.1750
+          0.7500 0.4875
+          1.0000 0.5000
+          1.0500 0.2375
+          1.1000 0.2750
+          1.1500 0.5000
+          1.3000 0.5000
+          1.3500 0.4000
+          1.4500 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "PuckerLipUp" combo leftedge curve_linear_interp_to_curve_linear_interp 0.200 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.2000
+          0.0500 0.0000
+          0.1000 0.0000
+          0.2000 0.4720
+          0.2500 0.4130
+          0.3000 0.1180
+          0.3500 0.0413
+          0.4000 0.1888
+          0.5000 0.0000
+          0.5500 0.0144
+          0.6000 0.2036
+          0.6500 0.2537
+          0.7500 0.0059
+          1.0000 0.0000
+          1.0500 0.1239
+          1.1500 0.0000
+          1.4500 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "PuckerLipLo" combo leftedge curve_linear_interp_to_curve_linear_interp 0.200 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.2000
+          0.0500 0.0000
+          0.1000 0.0000
+          0.2000 0.2830
+          0.2500 0.2476
+          0.3000 0.0708
+          0.3500 0.0578
+          0.4000 0.2640
+          0.5000 0.0000
+          0.5500 0.0208
+          0.6500 0.3265
+          0.7500 0.0082
+          1.0000 0.0000
+          1.0500 0.1733
+          1.1000 0.1485
+          1.1500 0.0000
+          1.4000 0.0660
+          1.4500 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "LipCnrTwst" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "Dimple" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "LipStick" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.0000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "PuffLipUp" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.9500 0.0000
+          1.0500 0.1052
+          1.1000 0.0000
+          1.2500 0.0000
+          1.3500 0.3814
+          1.4500 0.2499
+          1.5000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "PuffLipLo" combo leftedge curve_linear_interp_to_curve_linear_interp 0.000 rightedge curve_linear_interp_to_curve_linear_interp 0.000 
+        {
+          0.9500 0.0000
+          1.0500 0.0938
+          1.1000 0.0000
+          1.2500 0.0000
+          1.3500 0.3400
+          1.4500 0.2228
+          1.5000 0.0000
+        }
+        {
+          0.0000 0.5000
+        }
+        "ScalpD" combo leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        {
+          0.0000 0.5000
+        }
+        "eyes_updown" leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+        "eyes_rightleft" leftedge curve_linear_interp_to_curve_linear_interp 0.500 rightedge curve_linear_interp_to_curve_linear_interp 0.500 
+        {
+          0.0000 0.5000
+        }
+      }
+    }
+  }
+  channel "imported sounds"
+  {
+    event speak "Scout.Jeers08"
+    {
+      time 0.000000 1.561500
+      param "Scout.Jeers08"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  faceposermodel "models\player\hwm\medic.mdl"
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+}
+fps 60
+snap off

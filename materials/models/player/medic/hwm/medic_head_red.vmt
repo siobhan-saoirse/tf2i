@@ -1,0 +1,83 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models/player/medic/hwm/medic_head"
+	// wrinkle maps need to have $bumpmap enabled to show up
+	"$compress"    "models/player/medic/hwm/medic_head_compress"
+	"$stretch"     "models/player/medic/hwm/medic_head_stretch"
+	// $bumpmap is a shared 16x16 flat normal map, and is needed or lightwarp won't shade correctly.
+	"$bumpmap"     "models/player/shared/shared_normal"
+		
+	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
+	"$detailscale" "5"
+	"$detailblendfactor" .01
+	"$detailblendmode" 6
+	"$bbqamount" "1"	
+	"$one" "1.9"
+
+	"$burnlevel" "0"
+
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[0.007 0.4 5]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"$cloakColorTint" "[1 0.5 0.4]"
+	"Proxies"
+	{
+		"spy_invis"
+		{
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$detail"
+			"animatedtextureframenumvar" "$detailframe"
+			"animatedtextureframerate" 30
+		}
+
+		"BurnLevel"
+		{
+			"resultVar" "$burnlevel"
+		}
+		"Equals"
+		{
+			"srcVar1" "$bbqamount" 
+			"resultVar" "$color[0]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$bbqamount" 
+			"resultVar" "$color[1]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$bbqamount" 
+			"resultVar" "$color[2]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$burnlevel"
+			"resultVar" "$detailblendfactor"
+		}
+
+		"Subtract"
+		{
+			"srcVar1" "$one"
+			"srcVar2" "$burnlevel"
+			"resultVar" "$bbqamount"
+		}
+	
+
+	}
+}
+

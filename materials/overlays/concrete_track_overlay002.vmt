@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "overlays/concrete_track_overlay002"
+	"$decal" "1"
+	"$decalscale" .125
+	"$translucent" 1
+	"%keywords" "tf"
+}

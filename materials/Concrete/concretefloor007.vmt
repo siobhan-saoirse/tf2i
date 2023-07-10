@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "Concrete/concretefloor007"
+	"$bumpmap" "Concrete/concretefloor007_height-ssbump"
+        "$ssbump" "1"
+	"%keywords" "tf"
+}

@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_gameplay/cap_point_base"
+	"$bumpmap" "Models/props_gameplay/cap_point_base_normal"
+
+//	"$selfillum" "0"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1" 
+	"$envmaptint" "[1 1 1]"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 1.5 4]" 
+
+	//"$rimlight" "1"
+	//"$rimlightboost" "5"
+	//"$rimlightexponent" "10"
+
+
+
+	
+}

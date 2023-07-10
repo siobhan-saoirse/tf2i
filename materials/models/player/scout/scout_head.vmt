@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models/player/scout/scout_head"
+//	"$bumpmap" "models/player/scout/scout_head_normal"
+		
+	"$phong" "1"
+	"$phongexponent" "20"
+	//"$phongexponenttexture" "models/player/scout/scout_head"
+	"$phongboost" "2"	
+//	"$lightwarptexture" "models/player/scout/scout_head_lightwarp"
+	"$phongfresnelranges"	"[1 5 20]"
+	"$halflambert" "1"
+	
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+}

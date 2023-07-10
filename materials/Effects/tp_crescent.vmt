@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"Effects/tp_crescent"
+	"$additive"	1
+	"$vertexcolor"	1
+	"$vertexalpha"	1
+}

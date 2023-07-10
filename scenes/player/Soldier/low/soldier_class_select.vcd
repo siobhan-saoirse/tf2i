@@ -1,0 +1,33 @@
+// Choreo version 1
+event loop "looooop"
+{
+  time 9.958333 -1.000000
+  param "6.833000"
+  loopcount "-1"
+}
+actor "soldier"
+{
+  channel "body"
+  {
+  }
+  channel "sequence"
+  {
+    event sequence "selectionMenu_all"
+    {
+      time 0.000000 10.000000
+      param "selectionMenu_all"
+      fixedlength
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "80"
+  "RampTool" "34"
+  "ExpressionTool" "74"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

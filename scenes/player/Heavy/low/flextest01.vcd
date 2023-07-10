@@ -1,0 +1,50 @@
+// Choreo version 1
+actor "heavy"
+{
+  channel "audio"
+  {
+  }
+  channel "emotion"
+  {
+    event flexanimation "flex"
+    {
+      time 0.027778 5.555556
+      param ""
+      event_ramp
+      {
+        0.6917 1.0000 "curve_easein_to_curve_easeout"
+        4.7083 1.0000 "curve_easein_to_curve_easeout"
+      }
+      flexanimations samples_use_time defaultcurvetype=curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+      {
+        "mad" 
+        {
+          0.0829 0.0000 "curve_default_to_curve_default"
+          0.5958 1.0000 "curve_default_to_curve_default"
+          1.2833 1.0000 "curve_default_to_curve_default"
+          2.0375 0.9700 "curve_default_to_curve_default"
+          2.7417 1.0000 "curve_default_to_curve_default"
+          3.5917 0.9700 "curve_default_to_curve_default"
+          4.2875 1.0000 "curve_default_to_curve_default"
+          4.8625 0.9600 "curve_default_to_curve_default"
+        }
+        "happybig" 
+        {
+          0.0829 0.0000 "curve_default_to_curve_default"
+        }
+      }
+    }
+  }
+  faceposermodel "C:\dev\main\game\tf\models\player\heavy.mdl"
+}
+
+scalesettings
+{
+  "CChoreoView" "72"
+  "ExpressionTool" "48"
+  "RampTool" "24"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

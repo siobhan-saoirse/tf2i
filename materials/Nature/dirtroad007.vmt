@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Nature/dirtroad007"
+	"$decal" "1"
+	"$translucent" 1
+
+	"%keywords" "tf"
+}

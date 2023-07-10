@@ -1,0 +1,8 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"overlays/foliagedirt02"
+	"$decalscale" .25
+	"$translucent"	1
+	"$decal"	1
+	"%keywords" "tf"
+}

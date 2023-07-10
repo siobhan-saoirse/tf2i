@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/soldier/soldier_head_base"
+//	"$compress"    "models/player/soldier/soldier_head_compress"
+//	"$stretch"     "models/player/soldier/soldier_head_stretch"
+//	"$bumpmap"     "models/player/soldier/soldier_head_base_normal"
+
+	"$phong" "1"
+//	"$phongexponenttexture" "models/player/soldier/soldier_head_base_exponent"
+	"$phongboost" "2"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"$cloakColorTint" "[0.4 0.5 1]"
+	"Proxies"
+	{
+		"spy_invis"
+		{
+		}
+	}
+
+}

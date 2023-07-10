@@ -1,0 +1,27 @@
+<!-- dmx encoding keyvalues2 1 format model 1 -->
+"DmePresetGroup"
+{
+	"id" "elementid" "153cf57c-b34d-4e31-87af-347ff3edbca2"
+	"name" "string" "default_low"
+	"presets" "element_array" 
+	[
+		"DmePreset"
+		{
+			"id" "elementid" "701911c4-c74e-46bd-b3da-e2f598c2b680"
+			"name" "string" "default_face"
+			"controlValues" "element_array" 
+			[
+				"DmElement"
+				{
+					"id" "elementid" "6b2df752-e7ab-460a-8955-1040cf71ebc7"
+					"name" "string" "defaultFace"
+					"value" "float" "1"
+				}
+			]
+			"procedural" "int" "0"
+		}
+	]
+	"visible" "bool" "1"
+	"readonly" "bool" "0"
+}
+

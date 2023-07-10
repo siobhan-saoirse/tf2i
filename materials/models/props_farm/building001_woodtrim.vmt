@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/props_farm/building001"
+	"$detail" "models/props_farm/building001_woodtrim"
+	"$detailscale" "4"
+	"$detailblendmode" "4"
+	"$surfaceprop"	"metal"
+	"%keywords" "tf"
+}
