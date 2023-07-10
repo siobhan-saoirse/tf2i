@@ -1,7 +1,7 @@
 "GameInfo"
 {
 	game	"Early Fortress 2"
-	gamelogo 1
+	gamelogo 0
 	type multiplayer_only
 	nomodels 1
 	nohimodel 1

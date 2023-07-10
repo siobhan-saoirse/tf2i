@@ -14,7 +14,7 @@
 	}
 	"hunted2"
 	{
-		"viewed"		"2"
+		"viewed"		"4"
 	}
 	"ctf_2fort"
 	{
@@ -26,7 +26,7 @@
 	}
 	"cp_well"
 	{
-		"viewed"		"1"
+		"viewed"		"3"
 	}
 	"trade_plaza_2_bot"
 	{
@@ -34,6 +34,6 @@
 	}
 	"achievement_engineer"
 	{
-		"viewed"		"1"
+		"viewed"		"3"
 	}
 }
