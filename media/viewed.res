@@ -18,7 +18,7 @@
 	}
 	"ctf_2fort"
 	{
-		"viewed"		"3"
+		"viewed"		"4"
 	}
 	"itemtest"
 	{
@@ -26,11 +26,11 @@
 	}
 	"cp_well"
 	{
-		"viewed"		"3"
+		"viewed"		"4"
 	}
 	"trade_plaza_2_bot"
 	{
-		"viewed"		"1"
+		"viewed"		"2"
 	}
 	"achievement_engineer"
 	{
@@ -42,10 +42,22 @@
 	}
 	"cp_contest"
 	{
-		"viewed"		"5"
+		"viewed"		"9"
 	}
 	"rock3"
 	{
+		"viewed"		"5"
+	}
+	"lfe_devtesting"
+	{
 		"viewed"		"3"
+	}
+	"botbattle"
+	{
+		"viewed"		"2"
+	}
+	"trade_plaza_2"
+	{
+		"viewed"		"1"
 	}
 }
