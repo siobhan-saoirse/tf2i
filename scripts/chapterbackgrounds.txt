@@ -2,9 +2,11 @@
 {
 	1	"background01"
 	2	"background02"
+	3	"title_blue"
 }
 "BackgroundMaps"
 {
 	1	"background_2fort"
 	2	"background_gravelpit"
+	3	"background_mvm"
 }
