@@ -1,6 +1,7 @@
 "GameInfo"
 {
 	game	"Early Fortress 2"
+	title	"Early Fortress 2"
 	gamelogo 0
 	type multiplayer_only
 	nomodels 1
@@ -12,7 +13,7 @@
 		"test_speakers"		1
 		"test_hardware"		1
 	}
-	supportsvr	1
+	supportsvr	0
 	FileSystem
 	{
 		SteamAppId		243750	// Source SDK Base 2013 Multiplayer
