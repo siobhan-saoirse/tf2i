@@ -36,4 +36,8 @@
 	{
 		"viewed"		"3"
 	}
+	"cp_staredown"
+	{
+		"viewed"		"2"
+	}
 }
