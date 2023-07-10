@@ -1,4 +1,4 @@
-Welcome to Team Fortress 2
+Welcome to Early Fortress 2
 
 Our map rotation is:
 - Gravel Pit
@@ -9,3 +9,7 @@ Our map rotation is:
 - Hydro
 - Well (CTF)
 - Badlands
+- Nightfall (CP)
+- Staredown
+- Rock3
+- Contest

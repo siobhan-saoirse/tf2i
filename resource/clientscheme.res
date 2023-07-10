@@ -305,8 +305,9 @@ Scheme
 		"ProgressBarFg"			"255 30 13 255"
 
 		// Top-left corner of the menu on the main screen
-		"Main.Menu.X"		"32"
-		"Main.Menu.Y"		"248"
+		"Main.Menu.X"			"53"
+		"Main.Menu.X_hidef"		"76"
+		"Main.Menu.Y"			"240"
 
 		// Blank space to leave beneath the menu on the main screen
 		"Main.BottomBorder"	"32"

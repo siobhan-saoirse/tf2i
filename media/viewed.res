@@ -46,7 +46,7 @@
 	}
 	"rock3"
 	{
-		"viewed"		"5"
+		"viewed"		"7"
 	}
 	"lfe_devtesting"
 	{
@@ -57,6 +57,14 @@
 		"viewed"		"2"
 	}
 	"trade_plaza_2"
+	{
+		"viewed"		"1"
+	}
+	"cp_granary"
+	{
+		"viewed"		"1"
+	}
+	"ctf_well"
 	{
 		"viewed"		"1"
 	}
