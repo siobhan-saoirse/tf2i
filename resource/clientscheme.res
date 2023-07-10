@@ -86,18 +86,6 @@ Scheme
 		"DisguiseMenuIconRed"	"192 56 63 255"
 		"DisguiseMenuIconBlue"	"92 128 166 255"
 
-		// Top-left corner of the "Half-Life 2" on the main screen
-		"Main.Title1.X"			"53"
-		"Main.Title1.Y"			"190"
-		"Main.Title1.Y_hidef"	"184"
-		"Main.Title1.Color"	"255 255 255 255"
-
-		// Top-left corner of secondary title e.g. "DEMO" on the main screen
-		"Main.Title2.X"				"291"
-		"Main.Title2.Y"				"207"
-		"Main.Title2.Y_hidef"		"242"
-		"Main.Title2.Color"	"255 255 255 200"
-
  		"MatchmakingDialogTitleColor"			"200 184 151 255"
  		"MatchmakingMenuItemBackground"			"46 43 42 255"
  		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"	
@@ -181,6 +169,18 @@ Scheme
 		Menu.ArmedTextColor				"TanDark"
 		Menu.ArmedBgColor				"TanLight"
 		Menu.TextInset					"6"
+
+		// Top-left corner of the "Half-Life 2" on the main screen
+		"Main.Title1.X"			"53"
+		"Main.Title1.Y"			"190"
+		"Main.Title1.Y_hidef"	"184"
+		"Main.Title1.Color"	"255 255 255 255"
+
+		// Top-left corner of secondary title e.g. "DEMO" on the main screen
+		"Main.Title2.X"				"291"
+		"Main.Title2.Y"				"207"
+		"Main.Title2.Y_hidef"		"242"
+		"Main.Title2.Color"	"255 255 255 200"
 
 		Chat.TypingText					"Orange"
 
