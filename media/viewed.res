@@ -42,10 +42,10 @@
 	}
 	"cp_contest"
 	{
-		"viewed"		"4"
+		"viewed"		"5"
 	}
 	"rock3"
 	{
-		"viewed"		"2"
+		"viewed"		"3"
 	}
 }
