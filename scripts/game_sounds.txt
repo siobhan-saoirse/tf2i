@@ -413,21 +413,6 @@
 }
 
 
-"npc_citizen.die"
-{
-	"channel"	"CHAN_VOICE"
-	"volume"	"0.8"
-	"soundlevel"  "SNDLVL_75dB"
-
-	"rndwave"
-	{
-		"wave"	"player/pl_pain5.wav"
-		"wave"	"player/pl_pain6.wav"
-		"wave"	"player/pl_pain7.wav"
-	}
-}
-
-
 // ------------------------------------------------------------------------------------ //
 // AMBIENT
 // ------------------------------------------------------------------------------------ //
