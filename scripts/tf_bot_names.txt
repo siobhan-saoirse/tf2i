@@ -91,4 +91,6 @@
 	"name" "Gritty
 	"name" "Primeval Warrior"
 	"name" "Captain Vance"
+	"name" "Dario Casali"
+	"name" "Potato Pizza"
 }
