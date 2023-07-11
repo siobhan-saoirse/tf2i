@@ -1,8 +1,8 @@
 "GameInfo"
 {
 	game	"Early Fortress 2"
-	title	"Early Fortress 2"
-	gamelogo 0
+	title	""
+	gamelogo 1
 	type multiplayer_only
 	nomodels 1
 	nohimodel 1
