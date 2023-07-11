@@ -88,7 +88,7 @@
 	"name" "Glorified Toaster with Legs"
 	"name" "Lambdagon"
 	"name" "The Consul"
-	"name" "Gritty
+	"name" "Gritty"
 	"name" "Primeval Warrior"
 	"name" "Captain Vance"
 	"name" "Dario Casali"
