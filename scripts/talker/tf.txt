@@ -17,6 +17,17 @@ criterion "IsFiringMinigun" "minigunfiretime" ">0.0" required
 // Pyro
 //------------------------------------------------------------------------------------------------------------
 
+	response "CivTauntMelee"
+	{
+		scene "scenes/Player/Heavy/low/taunt03.vcd"
+		scene "scenes/Player/Heavy/low/taunt03_v1.vcd"
+		scene "scenes/Player/Heavy/low/taunt03_v2.vcd"
+	}
+	rule CivTauntPlayerMelee
+	{
+		criteria ConceptPlayerTaunt IsCivilian WeaponIsBottle
+		response CivTauntMelee
+	}
 	response "PyroTauntPrimary"
 	{
 		scene "scenes/Player/Pyro/low/taunt01_v1.vcd"

@@ -233,6 +233,7 @@ criterion "IsHeadShot" "customdeath" "headshot" "required"
 criterion "ConceptKilledPlayer" "Concept" "TLK_KILLED_PLAYER" required
 criterion "KilledPlayerDelay" "worldDontKilledPlayer" "!=1" "required"
 
+criterion "IsCivilian" "playerclass" "Civilian" "required"
 criterion "IsScout" "playerclass" "Scout" "required" 
 criterion "IsSniper" "playerclass" "Sniper" "required"
 criterion "IsSoldier" "playerclass" "Soldier" "required"
@@ -243,6 +244,7 @@ criterion "IsPyro" "playerclass" "Pyro" "required"
 criterion "IsSpy" "playerclass" "Spy" "required"
 criterion "IsEngineer" "playerclass" "Engineer" "required"
 
+criterion "IsNotCivilian" "playerclass" "!=Civilian" "required" 
 criterion "IsNotScout" "playerclass" "!=Scout" "required" 
 criterion "IsNotSniper" "playerclass" "!=Sniper" "required"
 criterion "IsNotSoldier" "playerclass" "!=Soldier" "required"
@@ -445,6 +447,7 @@ criterion "IsMap_d3_c17_09" "map" "d3_c17_09" "required"
 #include "talker/npc_alyx.txt"
 
 #include "talker/tf.txt"
+#include "talker/civilian.txt"
 #include "talker/heavy.txt"
 #include "talker/scout.txt"
 #include "talker/engineer.txt"

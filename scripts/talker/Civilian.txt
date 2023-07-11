@@ -1,0 +1,44 @@
+
+Response PlayerCivilianMedic
+{
+	speak "TFPlayer.SaveMe"
+}
+Rule PlayerCivilianMedic
+{
+	criteria ConceptPlayerMedic IsCivilian
+	Response PlayerCivilianMedic
+}
+
+//--------------------------------------------------------------------------------------------------------------
+// Auto Speech Pain
+//--------------------------------------------------------------------------------------------------------------
+Response PlayerAttackerPainCivilian
+{
+	speak "TFPlayer.AttackerPain"
+}
+Rule PlayerAttackerPainCivilian
+{
+	criteria ConceptAttackerPain IsCivilian
+	Response PlayerAttackerPainCivilian
+}
+
+
+Response PlayerOnFireCivilian
+{
+	speak "TFPlayer.FirePain"
+}
+Rule PlayerOnFireCivilian
+{ 
+	criteria ConceptFire IsCivilian
+	Response PlayerOnFireCivilian
+}
+
+Response PlayerPainCivilian
+{
+	speak "TFPlayer.Pain"
+}
+Rule PlayerPainCivilian
+{
+	criteria ConceptPain IsCivilian
+	Response PlayerPainCivilian
+}
