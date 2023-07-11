@@ -5,3 +5,6 @@ maps/graphs/cp_contest.ain
 media/viewed.res
 modelsounds.cache
 cfg/config.cfg
+GameState.txt
+tf2_playerstats.dmx
+demoheader.tmp
