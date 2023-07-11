@@ -14,6 +14,7 @@ PlayerClass
 	// Grenades.
 
 	// Weapons.
+	"weapon1"		"TF_WEAPON_BOTTLE"
 
 	// Ammo.
 	AmmoMax
