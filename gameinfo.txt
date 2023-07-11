@@ -65,7 +65,6 @@
 			// but only while you are connected that server and on that map.
 			game+download			|gameinfo_path|download
 			game				"|all_source_engine_paths|..\Team Fortress 2\tf"
-			game				"|all_source_engine_paths|..\Team Fortress 2\tf\download"
 			game				"|all_source_engine_paths|..\Team Fortress 2\tf\tf2_misc.vpk"
 			game				"|all_source_engine_paths|..\Team Fortress 2\tf\tf2_sound_misc.vpk"
 			game				"|all_source_engine_paths|..\Team Fortress 2\tf\tf2_textures.vpk"
