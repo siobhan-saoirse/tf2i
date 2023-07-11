@@ -61,6 +61,7 @@ particles_manifest
 		"file"		"!particles/buildingdamage.pcf"
 		"file"		"particles/hl2/antlion_blood.pcf"
 		"file"		"particles/hl2/water_impact.pcf"
+		"file"		"particles/hl2/blood_impact.pcf"
 		"file"		"particles/hl2/fire_01.pcf"
 		"file"		"particles/hl2/burning_fx.pcf"
 		"file"		"particles/hl2/combineball.pcf"
