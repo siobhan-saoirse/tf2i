@@ -1,14 +1,7 @@
 particles_manifest
 {
 		"file"		"!particles/error.pcf"
-		"file"		"particles/hl2/antlion_blood.pcf"
-		"file"		"particles/hl2/blood_impact.pcf"
-		"file"		"particles/hl2/water_impact.pcf"
 		"file"		"particles/hl2/fire_01.pcf"
-		"file"		"particles/hl2/burning_fx.pcf"
-		"file"		"particles/hl2/combineball.pcf"
-		"file"		"particles/hl2/vortigaunt_fx.pcf"
-		"file"		"particles/hl2/rocket_fx.pcf"
 		"file"		"!particles/2007/rockettrail.pcf"
 		"file"		"particles/2007/smoke_blackbillow.pcf"
 		"file"		"!particles/2007/teleport_status.pcf"
