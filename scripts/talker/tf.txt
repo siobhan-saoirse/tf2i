@@ -19,9 +19,7 @@ criterion "IsFiringMinigun" "minigunfiretime" ">0.0" required
 
 	response "CivTauntMelee"
 	{
-		scene "scenes/Player/Heavy/low/taunt03.vcd"
 		scene "scenes/Player/Heavy/low/taunt03_v1.vcd"
-		scene "scenes/Player/Heavy/low/taunt03_v2.vcd"
 	}
 	rule CivTauntPlayerMelee
 	{
