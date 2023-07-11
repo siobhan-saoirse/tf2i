@@ -1,6 +1,14 @@
 particles_manifest
 {
 		"file"		"!particles/error.pcf"
+		"file"		"particles/hl2/antlion_blood.pcf"
+		"file"		"particles/hl2/blood_impact.pcf"
+		"file"		"particles/hl2/water_impact.pcf"
+		"file"		"particles/hl2/fire_01.pcf"
+		"file"		"particles/hl2/burning_fx.pcf"
+		"file"		"particles/hl2/combineball.pcf"
+		"file"		"particles/hl2/vortigaunt_fx.pcf"
+		"file"		"particles/hl2/rocket_fx.pcf"
 		"file"		"!particles/2007/rockettrail.pcf"
 		"file"		"particles/2007/smoke_blackbillow.pcf"
 		"file"		"!particles/2007/teleport_status.pcf"
@@ -32,8 +40,6 @@ particles_manifest
 		"file"		"!particles/2007/impact_fx.pcf"
 		"file"		"!particles/rockettrail.pcf"
 		"file"		"particles/smoke_blackbillow.pcf"
-		"file"		"particles/hl2/antlion_blood.pcf"
-		"file"		"particles/hl2/blood_impact.pcf"
 		"file"		"!particles/teleport_status.pcf"
 		"file"		"!particles/explosion.pcf"
 		"file"		"!particles/player_recent_teleport.pcf"
@@ -61,11 +67,5 @@ particles_manifest
 		"file"		"!particles/sparks.pcf"
 		"file"		"!particles/flag_particles.pcf"
 		"file"		"!particles/buildingdamage.pcf"
-		"file"		"particles/hl2/water_impact.pcf"
-		"file"		"particles/hl2/fire_01.pcf"
-		"file"		"particles/hl2/burning_fx.pcf"
-		"file"		"particles/hl2/combineball.pcf"
-		"file"		"particles/hl2/vortigaunt_fx.pcf"
-		"file"		"particles/hl2/rocket_fx.pcf"
 }
 
