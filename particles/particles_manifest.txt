@@ -70,7 +70,7 @@ particles_manifest
 		"file"		"!particles/water.pcf"
 	// ep2
 
-		"file"		"particles/error.pcf"
+	//	"file"		"particles/error.pcf"
 		"file"		"particles/explosion.pcf"
 		"file"		"particles/blood_impact.pcf"
 		"file"		"particles/vehicle.pcf"
