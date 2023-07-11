@@ -41,6 +41,12 @@
 			game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
 			game				|all_source_engine_paths|hl2/hl2_misc.vpk
 			platform			|all_source_engine_paths|platform/platform_misc.vpk
+			//Episode 2	
+			game "|all_source_engine_paths|..\Source SDK Base 2013 Singleplayer\ep2\ep2_sound_vo_english.vpk"	
+			game "|all_source_engine_paths|..\Source SDK Base 2013 Singleplayer\ep2\ep2_pak.vpk"
+			//Episode1
+			game "|all_source_engine_paths|..\Source SDK Base 2013 Singleplayer\episodic\ep1_pak.vpk"
+			game "|all_source_engine_paths|..\Source SDK Base 2013 Singleplayerepisodic\ep1_sound_vo_english.vpk"
 
 			// Mount in shared loose files.
 			game				|all_source_engine_paths|hl2
