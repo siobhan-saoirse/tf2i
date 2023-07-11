@@ -48,7 +48,6 @@ particles_manifest
 		"file"		"!particles/cig_smoke.pcf"
 		"file"		"!particles/crit.pcf"
 		"file"		"!particles/medicgun_beam.pcf"
-		"file"		"!particles/water.pcf"
 		"file"		"!particles/stickybomb.pcf"
 		"file"		"!particles/buildingdamage.pcf"
 		"file"		"!particles/nailtrails.pcf"
