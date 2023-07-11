@@ -59,6 +59,13 @@ particles_manifest
 		"file"		"!particles/sparks.pcf"
 		"file"		"!particles/flag_particles.pcf"
 		"file"		"!particles/buildingdamage.pcf"
+		"file"		"particles/hl2/antlion_blood.pcf"
+		"file"		"particles/hl2/water_impact.pcf"
+		"file"		"particles/hl2/fire_01.pcf"
+		"file"		"particles/hl2/burning_fx.pcf"
+		"file"		"particles/hl2/combineball.pcf"
+		"file"		"particles/hl2/vortigaunt_fx.pcf"
+		"file"		"particles/hl2/rocket_fx.pcf"
 		"file"		"particles/hl2/fire_01.pcf"
 }
 
