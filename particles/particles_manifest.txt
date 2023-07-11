@@ -1,7 +1,6 @@
 particles_manifest
 {
 		"file"		"!particles/error.pcf"
-		"file"		"particles/hl2/fire_01.pcf"
 		"file"		"!particles/2007/rockettrail.pcf"
 		"file"		"particles/2007/smoke_blackbillow.pcf"
 		"file"		"!particles/2007/teleport_status.pcf"
@@ -60,5 +59,6 @@ particles_manifest
 		"file"		"!particles/sparks.pcf"
 		"file"		"!particles/flag_particles.pcf"
 		"file"		"!particles/buildingdamage.pcf"
+		"file"		"particles/hl2/fire_01.pcf"
 }
 
