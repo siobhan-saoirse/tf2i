@@ -7,8 +7,8 @@ PlayerClass
 	"name"			"civilian"
 	"model"			"models/player/scout.mdl"
 	"localize_name"	"TF_Class_Name_Civilian"
-	"speed_max"		"270"
-	"health_max"		"150"
+	"speed_max"		"240"
+	"health_max"		"50"
 	"armor_max"		"0"
 
 	// Grenades.
