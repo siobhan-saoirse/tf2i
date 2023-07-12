@@ -20,7 +20,7 @@ PlayerClass
 
 	// Weapons.
 	"weapon1"		"TF_WEAPON_SHOVEL"
-	"weapon2"		"TF_WEAPON_SHOTGUN_SOLDIER"
+	"weapon2"		"TF_WEAPON_SHOTGUN_SECONDARY"
 	"weapon3"		"TF_WEAPON_ROCKETLAUNCHER"
 	
 	//"DontDoNewJump"	"1"
