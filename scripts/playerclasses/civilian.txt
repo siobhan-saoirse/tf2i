@@ -22,4 +22,9 @@ PlayerClass
 		"tf_ammo_grenades1"	"4"
 		"tf_ammo_grenades2"	"4"
 	}	
+	// Death Sounds
+	"sound_death"				"TFPlayer.AttackerPain"
+	"sound_crit_death"				"TFPlayer.CritDeath"
+	"sound_melee_death"			"TFPlayer.CritDeath"
+	"sound_explosion_death"			"TFPlayer.CritDeath"
 }
