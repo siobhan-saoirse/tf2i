@@ -26,5 +26,5 @@ PlayerClass
 	"sound_death"				"TFPlayer.AttackerPain"
 	"sound_crit_death"				"TFPlayer.CritDeath"
 	"sound_melee_death"			"TFPlayer.CritDeath"
-	"sound_explosion_death"			"TFPlayer.CritDeath"
+	"sound_explosion_death"			"TFPlayer.Pain"
 }
