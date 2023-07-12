@@ -80,7 +80,7 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"#GameUI_DeveloperConsoleCheck"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"cl_cmdrate"
