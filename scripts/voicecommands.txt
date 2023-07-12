@@ -97,6 +97,15 @@
 			"subtitle"				"No"
 		}
 		
+		"item_9"
+		{
+			"concept"				"TLK_PLAYER_THANKS"
+			"menu_label"				"#Voice_Menu_Thanks"
+			"show_subtitle"				"1"
+			"distance_check_subtitle"		"1"
+			"subtitle"				"Thanks!"
+			"activity"				"ACT_MP_GESTURE_VC_THUMBSUP"
+		}
 
 	}
 
