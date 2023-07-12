@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Tue Jul 13 17:43:58 AM
+// File generated:  Tue Jul 11 22:08:49 AM
 //
 //
 // Cvar	-	Setting
@@ -54,35 +54,56 @@ DESCRIPTION INFO_OPTIONS
 		{ BOOL }
 		{ "1" }
 	}
-	
+
 	"tf_medigun_autoheal"
 	{
 		"#TF_medigun_autoheal"
 		{ BOOL }
 		{ "0" }
 	}
-	
+
 	"cl_autorezoom"
 	{
 		"#TF_autozoom"
 		{ BOOL }
 		{ "1" }
 	}
-	
+
 	"hud_takesshots"
 	{
 		"#game_takesshots"
 		{ BOOL }
 		{ "0" }
-	}	
+	}
 
 	"con_enable"
 	{
 		"#GameUI_DeveloperConsoleCheck"
 		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_cmdrate"
+	{
+		"Command Rate (may reduce or increase ping)"
+		{ SLIDER 0 100 }
+		{ "30" }
+	}
+
+	"cl_interp"
+	{
+		"Interpolation"
+		{ SLIDER 0 0.5 }
 		{ "0" }
 	}
-	
+
+	"cl_interp_ratio"
+	{
+		"Interpolation Ratio"
+		{ SLIDER 1 2 }
+		{ "2" }
+	}
+
 	"cl_wpn_sway_interp"
 	{
 		"Weapon sway interp"
@@ -96,5 +117,26 @@ DESCRIPTION INFO_OPTIONS
 		{ SLIDER 0 5 }
 		{ "5" }
 	}
-}
 
+	"category1"
+	{
+		"#TF_OptionCategory_Communication"
+		{ CATEGORY }
+	} 
+
+	"voice_modenable"
+	{
+		"Enable Voice Chat"
+		"#Tooltip_EnableVoiceChat"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"hud_saytext_time"
+	{
+		"Text Chat Time"
+		{ SLIDER 0 12 }
+		{ "12" }
+	}
+
+}
