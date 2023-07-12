@@ -10,6 +10,5 @@ Our map rotation is:
 - Well (CTF)
 - Badlands
 - Nightfall (CP)
-- Staredown
 - Rock3
 - Contest

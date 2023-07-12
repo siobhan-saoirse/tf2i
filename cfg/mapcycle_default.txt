@@ -7,6 +7,5 @@ tc_hydro
 ctf_well
 cp_badlands
 cp_nightfall
-cp_staredown
 cp_contest
 rock3
