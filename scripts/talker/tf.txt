@@ -23,7 +23,7 @@ criterion "IsFiringMinigun" "minigunfiretime" ">0.0" required
 	}
 	rule CivTauntPlayerMelee
 	{
-		criteria ConceptPlayerTaunt IsCivilian WeaponIsBottle
+		criteria ConceptPlayerTaunt IsCivilian
 		response CivTauntMelee
 	}
 	response "PyroTauntPrimary"

@@ -1,7 +1,7 @@
 
 Response PlayerCivilianMedic
 {
-	speak "TFPlayer.SaveMe"
+	scene "scenes/Player/saveme.vcd" 
 }
 Rule PlayerCivilianMedic
 {
@@ -14,7 +14,7 @@ Rule PlayerCivilianMedic
 //--------------------------------------------------------------------------------------------------------------
 Response PlayerAttackerPainCivilian
 {
-	speak "TFPlayer.AttackerPain"
+	scene "scenes/Player/painsevere.vcd" 
 }
 Rule PlayerAttackerPainCivilian
 {
@@ -25,7 +25,7 @@ Rule PlayerAttackerPainCivilian
 
 Response PlayerOnFireCivilian
 {
-	speak "TFPlayer.FirePain"
+	scene "scenes/Player/fire.vcd" 
 }
 Rule PlayerOnFireCivilian
 { 
@@ -35,7 +35,7 @@ Rule PlayerOnFireCivilian
 
 Response PlayerPainCivilian
 {
-	speak "TFPlayer.Pain"
+	scene "scenes/Player/painsharp.vcd" 
 }
 Rule PlayerPainCivilian
 {
