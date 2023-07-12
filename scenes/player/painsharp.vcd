@@ -1,5 +1,5 @@
 // Choreo version 1
-actor "medic"
+actor "civilian"
 {
   channel "audio"
   {
@@ -10,30 +10,6 @@ actor "medic"
       fixedlength
       cctype "cc_master"
       cctoken ""
-    }
-    event expression "pain"
-    {
-      time 0.000000 2.354167
-      param "player\medic\emotion\emotion"
-      param2 "pain"
-      event_ramp
-      {
-        0.0667 0.6071 "curve_kochanek_to_curve_kochanek"
-        0.2636 0.6429 "curve_kochanek_to_curve_kochanek"
-        2.2330 0.5951 "curve_kochanek_to_curve_kochanek"
-      }
-    }
-    event expression "er"
-    {
-      time 0.010417 0.645834
-      param "player\medic\phonemes\phonemes_strong"
-      param2 "er"
-      event_ramp
-      {
-        0.1061 0.7321 "curve_kochanek_to_curve_kochanek"
-        0.2667 0.7321 "curve_kochanek_to_curve_kochanek"
-        0.4000 0.1696
-      }
     }
   }
 }
