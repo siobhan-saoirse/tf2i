@@ -63,7 +63,7 @@ DESCRIPTION SERVER_OPTIONS
 	}
 
 	"mp_timelimit"
-	{
+	{ 
 		"#TF_Timelimit"
 		{ NUMBER 0 -1 }
 		{ "30" }
@@ -78,6 +78,24 @@ DESCRIPTION SERVER_OPTIONS
 	"mp_maxrounds"
 	{
 		"#TF_MaxRounds"
+		{ NUMBER 0 -1 }
+		{ "0" }
+	}
+	"mp_stalemate_enable"
+	{
+		"Sudden Death"
+		{ BOOL }
+		{ "1" }
+	}
+	"mp_flashlight"
+	{
+		"Flashlight"
+		{ BOOL }
+		{ "1" }
+	}
+	"tf_bot_quota"
+	{
+		"Number of Bots"
 		{ NUMBER 0 -1 }
 		{ "0" }
 	}
