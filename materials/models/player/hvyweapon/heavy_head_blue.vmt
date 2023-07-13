@@ -24,7 +24,7 @@
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
 	"$phongfresnelranges"	"[.3 1 8]"
 	"$halflambert" "0"
-	"$phongexponenttexture" "models/player/hvyweapon/hvyweapon_head_exponent"
+	"$phongexponenttexture" "models/player/hvyweapon/heavy_head_exponent"
 
 	// Rim lighting parameters
 	"$rimlight" "1"												// To enable rim lighting (requires phong)
