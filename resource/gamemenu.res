@@ -18,6 +18,12 @@
 		"command" "OpenPlayerListDialog"
 		"OnlyInGame" "1"
 	} 
+	"3.1"
+	{
+		"label" "---------------------------"
+		"command" ""
+		"OnlyInGame" "1"
+	}
 	"4"
 	{
 		"label" "#GameUI_GameMenu_FindServers" 
@@ -28,15 +34,20 @@
 		"label" "#GameUI_GameMenu_CreateServer"
 		"command" "OpenCreateMultiplayerGameDialog"
 	}
-	"7"
+	"5.1"
 	{
-		"label"	"#GameUI_LoadCommentary"
-		"command" "OpenLoadSingleplayerCommentaryDialog"
+		"label" "---------------------------"
+		"command" ""
 	}
-	"8"
+	"9.2"
 	{
-		"label" "#GameUI_ReportBug"
-		"command" "engine bug"
+		"label" "Character and Loadout Menu (coming soon)"
+		"command" ""
+	}
+	"9.1"
+	{
+		"label" "---------------------------"
+		"command" ""
 	}
 	"9"
 	{
@@ -47,6 +58,12 @@
 	{
 		"label" "#GameUI_GameMenu_PlayerStats"
 		"command" "engine showstatsdlg"
+	}
+	"10.1"
+	{
+		"label" "---------------------------"
+		"command" ""
+		"OnlyInGame" "1"
 	}
 	"11"
 	{
