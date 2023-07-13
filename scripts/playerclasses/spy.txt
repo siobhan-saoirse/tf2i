@@ -8,8 +8,8 @@ PlayerClass
 	"model"			"models/player/spy.mdl"
 	"model_hwm"		"models/player/hwm/spy.mdl"
 	"localize_name"	"TF_Class_Name_Spy"
+	"speed_max"		"320"
 //	"speed_max"		"300"
-	"speed_max"		"300"
 //	"health_max"		"90"
 //	"armor_max"		"100"
 	"health_max"		"125"
@@ -17,7 +17,7 @@ PlayerClass
 
 	// Grenades.
 	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
-//	"grenade2"		"TF_WEAPON_GRENADE_SMOKE_BOMB"
+	"grenade2"		"TF_WEAPON_GRENADE_SMOKE_BOMB"
 
 	// Weapons.
 	"weapon1"		"TF_WEAPON_KNIFE"
