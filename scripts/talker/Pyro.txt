@@ -442,6 +442,7 @@ Rule PlayerDispenserHerePyro
 Response PlayerIncomingPyro
 {
 	scene "scenes/Player/Pyro/low/Incoming01.vcd" 
+	scene "scenes/Player/Pyro/low/IncomingGroup01.vcd" 
 }
 Rule PlayerIncomingPyro
 {
