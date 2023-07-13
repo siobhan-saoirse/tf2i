@@ -707,3 +707,14 @@ Rule PlayerTauntsSpy
 	Response PlayerTauntsSpy
 }
 
+Response PlayerThanksSpy
+{
+	scene "scenes/Player/Spy/low/Thanks01.vcd" 
+	scene "scenes/Player/Spy/low/Thanks02.vcd" 
+	scene "scenes/Player/Spy/low/Thanks03.vcd" 
+}
+Rule PlayerThanksSpy
+{
+	criteria ConceptPlayerThanks IsSpy
+	Response PlayerThanksSpy
+}

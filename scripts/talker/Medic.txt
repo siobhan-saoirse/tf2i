@@ -782,3 +782,14 @@ Rule PlayerTauntsMedic
 	Response PlayerTauntsMedic
 }
 
+
+Response PlayerThanksMedic
+{
+	scene "scenes/Player/Medic/low/Thanks01.vcd" 
+	scene "scenes/Player/Medic/low/Thanks02.vcd" 
+}
+Rule PlayerThanksMedic
+{
+	criteria ConceptPlayerThanks IsMedic
+	Response PlayerThanksMedic
+}

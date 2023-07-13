@@ -577,3 +577,12 @@ Rule PlayerTauntsPyro
 	Response PlayerTauntsPyro
 }
 
+Response PlayerThanksPyro
+{
+	scene "scenes/Player/Pyro/low/Thanks01.vcd" 
+}
+Rule PlayerThanksPyro
+{
+	criteria ConceptPlayerThanks IsPyro
+	Response PlayerThanksPyro
+}

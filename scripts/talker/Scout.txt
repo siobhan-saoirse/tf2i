@@ -763,3 +763,14 @@ Rule PlayerTauntsScout
 	Response PlayerTauntsScout
 }
 
+
+Response PlayerThanksScout
+{
+	scene "scenes/Player/Scout/low/Thanks01.vcd" 
+	scene "scenes/Player/Scout/low/Thanks02.vcd" 
+}
+Rule PlayerThanksScout
+{
+	criteria ConceptPlayerThanks IsScout
+	Response PlayerThanksScout
+}

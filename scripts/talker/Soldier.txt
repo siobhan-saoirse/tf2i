@@ -739,3 +739,15 @@ Rule PlayerTauntsSoldier
 	Response PlayerTauntsSoldier
 }
 
+
+Response PlayerThanksSoldier
+{
+	scene "scenes/Player/Soldier/low/Thanks01.vcd" 
+	scene "scenes/Player/Soldier/low/Thanks02.vcd" 
+}
+Rule PlayerThanksSoldier
+{
+	criteria ConceptPlayerThanks IsSoldier
+	Response PlayerThanksSoldier
+}
+

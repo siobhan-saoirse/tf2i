@@ -761,3 +761,15 @@ Rule PlayerTauntsHeavy
 	Response PlayerTauntsHeavy
 }
 
+
+Response PlayerThanksHeavy
+{
+	scene "scenes/Player/Heavy/low/Thanks01.vcd" 
+	scene "scenes/Player/Heavy/low/Thanks02.vcd" 
+	scene "scenes/Player/Heavy/low/Thanks03.vcd" 
+}
+Rule PlayerThanksHeavy
+{
+	criteria ConceptPlayerThanks IsHeavy
+	Response PlayerThanksHeavy
+}

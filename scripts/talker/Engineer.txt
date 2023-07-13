@@ -827,3 +827,13 @@ Rule PlayerTauntsEngineer
 	Response PlayerTauntsEngineer
 }
 
+Response PlayerThanksEngineer
+{
+	scene "scenes/Player/Engineer/low/Thanks01.vcd" 
+}
+Rule PlayerThanksEngineer
+{
+	criteria ConceptPlayerThanks IsEngineer
+	Response PlayerThanksEngineer
+}
+

@@ -763,3 +763,14 @@ Rule PlayerTauntsSniper
 	Response PlayerTauntsSniper
 }
 
+
+Response PlayerThanksSniper
+{
+	scene "scenes/Player/Sniper/low/Thanks01.vcd" 
+	scene "scenes/Player/Sniper/low/Thanks02.vcd" 
+}
+Rule PlayerThanksSniper
+{
+	criteria ConceptPlayerThanks IsSniper
+	Response PlayerThanksSniper
+}

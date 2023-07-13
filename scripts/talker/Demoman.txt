@@ -745,3 +745,13 @@ Rule PlayerTauntsDemoman
 	Response PlayerTauntsDemoman
 }
 
+Response PlayerThanksDemoman
+{
+	scene "scenes/Player/Demoman/low/Thanks01.vcd" 
+	scene "scenes/Player/Demoman/low/Thanks02.vcd" 
+}
+Rule PlayerThanksDemoman
+{
+	criteria ConceptPlayerThanks IsDemoman
+	Response PlayerThanksDemoman
+}
