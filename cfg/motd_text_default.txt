@@ -12,3 +12,4 @@ Our map rotation is:
 - Nightfall (CP)
 - Rock3
 - Contest
+- Staredown

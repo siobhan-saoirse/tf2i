@@ -9,3 +9,4 @@ cp_badlands
 cp_nightfall
 cp_contest
 rock3
+cp_staredown
