@@ -5,7 +5,7 @@
 //	"$bumpmap" "models/player/scout/scout_head_normal"
 		
 	"$phong" "1"
-	"$phongexponent" "20"
+	//"$phongexponent" "20"
 	//"$phongexponenttexture" "models/player/scout/scout_head"
 	"$phongboost" "2"	
 //	"$lightwarptexture" "models/player/scout/scout_head_lightwarp"

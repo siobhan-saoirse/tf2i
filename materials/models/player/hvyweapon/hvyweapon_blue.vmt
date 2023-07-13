@@ -18,10 +18,10 @@
 
 
 	"$phong" "1"
-	"$phongexponent" "20"
+	//"$phongexponent" "20"
 	"$phongboost" ".3"	
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
-	$phongexponenttexture "models/player/hvyweapon/hvyweapon_exponent"
+	"$phongexponenttexture" "models/player/hvyweapon/hvyweapon_exponent"
 	"$phongfresnelranges"	"[.3 1 8]"
 	"$halflambert" "0"
 

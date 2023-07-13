@@ -6,7 +6,7 @@
 
 	"$phong" "1"
 	//"$phongexponenttexture" "models\player\soldier\soldier_exponent"
-	"$phongexponent" "5"
+	//"$phongexponent" "5"
 	"$phongboost" ".01"	
 	"$lightwarptexture" "models/player/engineer/engineer_hands_lightwarp"
 	"$phongfresnelranges"	"[.3 1 10]"

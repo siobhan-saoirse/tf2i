@@ -4,7 +4,7 @@
 	"$basemapalphaphongmask" "1"
 
 	"$phong" "1"
-	"$phongexponent" "80"
+	//"$phongexponent" "80"
 	"$phongboost" ".2"	
 	"$lightwarptexture" "models\player\engineer\engineer_hands_lightwarp"
 	"$phongfresnelranges"	"[1 5 10]"

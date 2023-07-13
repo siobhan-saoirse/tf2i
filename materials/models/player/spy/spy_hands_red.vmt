@@ -6,7 +6,7 @@
 		
 	"$phong" "1"
 	"$phongexponenttexture" "models/player/spy/spy_hands_exponent"
-	//"$phongexponent" "5"
+	////"$phongexponent" "5"
 	"$phongboost" ".25"	
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
 	"$phongfresnelranges"	"[.5 .5 10]"

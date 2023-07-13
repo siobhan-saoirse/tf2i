@@ -4,7 +4,7 @@
 	"$bumpmap" "models\player\sniper\sniper_hand_normal"
 
 	"$phong" "1"
-	"$phongexponent" "4"
+	//"$phongexponent" "4"
 	"$phongboost" ".15"	
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
 	"$phongfresnelranges"	"[1 5 10]"
