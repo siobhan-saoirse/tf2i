@@ -31,7 +31,7 @@ WeaponData
 	"bucket_position"	"1"
 	
 	"ExplosionSound"	"Weapon_Grenade_Pipebomb.Explode"
-	"ExplosionEffect"	"ExplosionCore"
+	"ExplosionEffect"	"ExplosionCore_rocket"
 
 	// Animation.
 	"viewmodel"		"models/weapons/v_models/v_grenadelauncher_demo.mdl"

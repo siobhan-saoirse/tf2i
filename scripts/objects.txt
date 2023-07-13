@@ -60,7 +60,7 @@ objects
 		StatusName			"Teleporter Entrance"
 		BuildTime			20
 		MaxObjects			1
-		Cost				125
+		Cost				75
 		CostMultiplier		1
 		UpgradeCost			0
 		MaxUpgradeLevel		0
@@ -87,7 +87,7 @@ objects
 		StatusName			"Teleporter Exit"
 		BuildTime			20
 		MaxObjects			1
-		Cost				125
+		Cost				75
 		CostMultiplier		1
 		UpgradeCost			0
 		MaxUpgradeLevel		0
@@ -113,7 +113,7 @@ objects
 		ClassName			obj_attachment_sapper
 		StatusName			"Object Sapper"
 		BuildTime			0.1
-		MaxObjects			1
+		MaxObjects			-1
 		Cost				0
 		CostMultiplier		1
 		UpgradeCost			0

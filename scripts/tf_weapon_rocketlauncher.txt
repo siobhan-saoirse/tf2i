@@ -44,7 +44,7 @@ WeaponData
 	SoundData
 	{
 		"single_shot"	"Weapon_RPG.Single"
-//		"reload"		"Weapon_RPG.WorldReload"
+		"reload"		"Weapon_RPG.WorldReload"
 		"burst"			"Weapon_RPG.SingleCrit"	
 	}
 

@@ -16,6 +16,7 @@ WeaponData
 	"ProjectileType"	"projectile_bullet"
 	"BrassModel"		"models/weapons/shells/shell_minigun.mdl"
 	"UseRapidFireCrits"	"1"
+	"DoInstantEjectBrass"	"1"
 	"TracerEffect"		"bullet_tracer01"
 
 	// Ammo & Clip.

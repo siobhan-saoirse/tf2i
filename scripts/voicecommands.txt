@@ -87,6 +87,7 @@
 			"menu_label"				"#Voice_Menu_Yes"
 			"show_subtitle"				"1"
 			"subtitle"				"Yes"
+			"activity"				"ACT_MP_GESTURE_VC_NODYES"
 		}
 		
 		"item_8"
@@ -95,11 +96,12 @@
 			"menu_label"				"#Voice_Menu_No"	
 			"show_subtitle"				"1"
 			"subtitle"				"No"
+			"activity"				"ACT_MP_GESTURE_VC_NODNO"
 		}
 		
 		"item_9"
 		{
-			"concept"				"TLK_PLAYER_THANKS"
+			"concept"				"TLK_PLAYER_GOODJOB"
 			"menu_label"				"#Voice_Menu_Thanks"
 			"show_subtitle"				"1"
 			"distance_check_subtitle"		"1"

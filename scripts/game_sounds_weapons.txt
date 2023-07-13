@@ -1824,7 +1824,7 @@
 	"channel"	"CHAN_ITEM"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".35"
-	"wave"		"weapons/sniper_bolt_forward.wav"
+	"wave"		"weapons/sniper_bolt_back.wav"
 }
 
 "Weapon_SniperRifle.BoltBack"
@@ -1832,7 +1832,7 @@
 	"channel"	"CHAN_ITEM"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".35"
-	"wave"		"weapons/sniper_bolt_back.wav"
+	"wave"		"weapons/sniper_bolt_forward.wav"
 }
 
 // ------------------------------------------------------------------------------------ //

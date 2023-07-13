@@ -6,7 +6,7 @@
 }
 "BackgroundMaps"
 {
-	1	"background_2fort"
-	2	"background_gravelpit"
-	3	"background_mvm"
+	1	"background01"
+	2	"background01"
+	3	"background01"
 }

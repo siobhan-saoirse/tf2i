@@ -14,7 +14,7 @@ WeaponData
 	"Spread"			"0.025"
 	"TimeFireDelay"		"0.5"
 	"ProjectileType"	"projectile_bullet"
-	"DoInstantEjectBrass"	"0"
+	"DoInstantEjectBrass"	"1"
 	"HasTeamSkins_Viewmodel"			"1"
 	"TracerEffect"		"bullet_pistol_tracer01"
 
