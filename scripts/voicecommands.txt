@@ -16,7 +16,6 @@
 
 // "distance_check_subtitle"    - if set to 1, only teammates in the PAS will get the subtitle, ie, if they hear the sound
 
-
 "voicemenus"
 {
 	"menu_1"
@@ -33,12 +32,12 @@
 		
 		"item_2"
 		{
-			"concept"				"TLK_PLAYER_HELP"
-			"menu_label"				"#Voice_Menu_Help"
+			"concept"				"TLK_PLAYER_THANKS"		
+			"menu_label"				"#Voice_Menu_Thanks"
 			"show_subtitle"				"1"
 			"distance_check_subtitle"		"1"
-			"subtitle"				"Help!"
-			"activity"				"ACT_MP_GESTURE_VC_HANDMOUTH"
+			"subtitle"				"Thanks!"
+			"activity"				"ACT_MP_GESTURE_VC_THUMBSUP"
 		}
 		
 		"item_3"
@@ -87,7 +86,6 @@
 			"menu_label"				"#Voice_Menu_Yes"
 			"show_subtitle"				"1"
 			"subtitle"				"Yes"
-			"activity"				"ACT_MP_GESTURE_VC_NODYES"
 		}
 		
 		"item_8"
@@ -96,17 +94,12 @@
 			"menu_label"				"#Voice_Menu_No"	
 			"show_subtitle"				"1"
 			"subtitle"				"No"
-			"activity"				"ACT_MP_GESTURE_VC_NODNO"
 		}
 		
 		"item_9"
 		{
-			"concept"				"TLK_PLAYER_GOODJOB"
-			"menu_label"				"#Voice_Menu_Thanks"
-			"show_subtitle"				"1"
-			"distance_check_subtitle"		"1"
-			"subtitle"				"Thanks!"
-			"activity"				"ACT_MP_GESTURE_VC_THUMBSUP"
+			"concept"				"TLK_PLAYER_TAUNTS"		
+			"menu_label"				"#Voice_Menu_Taunt"
 		}
 
 	}
@@ -179,7 +172,13 @@
 			"distance_check_subtitle"		"1"
 			"menu_label"				"#Voice_Menu_ChargeReady"
 			"activity"				"ACT_MP_GESTURE_VC_THUMBSUP"	
-		}	
+		}
+	
+		"item_9"
+		{
+			"concept"				"TLK_PLAYER_TAUNTS"		
+			"menu_label"				"#Voice_Menu_Taunt"
+		}
 	}
 
 
@@ -187,8 +186,12 @@
 	{
 		"item_1"
 		{
-			"concept"				"TLK_PLAYER_TAUNTS"		
-			"menu_label"				"#Voice_Menu_Taunt"
+			"concept"				"TLK_PLAYER_HELP"
+			"menu_label"				"#Voice_Menu_Help"
+			"show_subtitle"				"1"
+			"distance_check_subtitle"		"1"
+			"subtitle"				"Help!"
+			"activity"				"ACT_MP_GESTURE_VC_HANDMOUTH"
 		}
 
 		"item_2"
@@ -238,6 +241,11 @@
 			"activity"				"ACT_MP_GESTURE_VC_THUMBSUP"
 		}
 		
+		"item_9"
+		{
+			"concept"				"TLK_PLAYER_TAUNTS"		
+			"menu_label"				"#Voice_Menu_Taunt"
+		}
 
 	}
 }
