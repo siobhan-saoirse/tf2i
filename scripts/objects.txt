@@ -113,7 +113,7 @@ objects
 		ClassName			obj_attachment_sapper
 		StatusName			"Object Sapper"
 		BuildTime			0.1
-		MaxObjects			-1
+		MaxObjects			1
 		Cost				0
 		CostMultiplier		1
 		UpgradeCost			0
