@@ -9679,6 +9679,17 @@
 	"wave"			"vo/pyro_Incoming01.wav"
 }
 
+"Pyro.IncomingGroup01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_95dB"
+
+	"wave"			"vo/pyro_IncomingGroup01.wav"
+}
+
 "Pyro.Jeers01"
 {
 	"channel"		"CHAN_VOICE"
