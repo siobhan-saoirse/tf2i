@@ -32,6 +32,7 @@
 
 	// Cloaking
 	"$cloakPassEnabled" "1"
+	$phongexponenttexture "models/player/spy/spy_exponent"
 
 	"Proxies"
 	{

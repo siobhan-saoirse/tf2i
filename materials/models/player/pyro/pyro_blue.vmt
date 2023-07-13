@@ -21,6 +21,7 @@
 	"$phongexponent" "15"
 	"$phongboost" "1"	
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	$phongexponenttexture "models/player/pyro/pyro_exponent"
 	"$phongfresnelranges"	"[2 1 5]"
 	"$halflambert" "1"
 
