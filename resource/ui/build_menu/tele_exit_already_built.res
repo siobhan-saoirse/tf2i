@@ -4,7 +4,7 @@
 {
 	"ItemNameLabel"
 	{	
-		"labelText"		"#TF_Object_tele_exit"
+		"labelText"		"#TF_Object_tele_exit_360"
 	}
 	
 	"NumberLabel"

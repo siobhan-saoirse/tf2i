@@ -4,7 +4,7 @@
 {
 	"ItemNameLabel"
 	{	
-		"labelText"		"#TF_Object_Tele_Exit"
+		"labelText"		"#TF_Object_Tele_Exit_360"
 	}
 	
 	"BuildingIcon"	

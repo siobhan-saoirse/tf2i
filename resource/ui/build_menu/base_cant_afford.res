@@ -15,6 +15,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Object_Sentry"
+		"labelText_lodef"		"#TF_Object_Sentry_360"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -43,7 +44,7 @@
 		"font"			"Default"
 		"fgcolor"		"RedSolid"
 		"xpos"			"10"
-		"ypos"			"25"
+		"ypos"			"48"
 		"zpos"			"2"
 		"wide"			"80"
 		"tall"			"18"
@@ -52,7 +53,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Build_Cant_Afford"
-		"textAlignment"	"Left"
+		"textAlignment"	"Center"
 	}
 	
 	"MetalIcon"	

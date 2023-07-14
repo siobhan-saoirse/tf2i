@@ -23,18 +23,23 @@ Scheme
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"		"188 112 0 128"
 		
-		"White"				"255 255 255 255"
+		"White"				"235 235 235 255"
 		"Red"				"192 28 0 140"
 		"RedSolid"			"192 28 0 255"
 		"Blue"				"0 28 162 140"
 		"Yellow"			"251 235 202 255"
 		"TransparentYellow"	"251 235 202 140"
-		"Black"				"0 0 0 255"
+		//"Black"				"0 0 0 255"
+		//Changed black to a NTSC safe color
+		
+		"Black"				"46 43 42 255"
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
+		"FooterBGBlack"		"52 48 55 255"
 		
 		"HUDBlueTeam"		"104 124 155 127"
 		"HUDRedTeam"		"180 92 77 127"
+		"HUDSpectator"		"124 124 124 127"
 		"HUDBlueTeamSolid"	"104 124 155 255"
 		"HUDRedTeamSolid"	"180 92 77 255"
 		"HUDDeathWarning"	"255 0 0 255"
@@ -62,7 +67,7 @@ Scheme
 		"HudTimerProgressWarning"	"240 30 30 255"
 		
 		"TanDark"				"117 107 94 255"
-		"TanLight"				"251 235 202 255"
+		"TanLight"				"235 226 202 255"
 		"TanDarker"				"46 43 42 255"
 		
 		// Building HUD Specific
@@ -82,11 +87,12 @@ Scheme
 		"DisguiseMenuIconBlue"	"92 128 166 255"
 
  		"MatchmakingDialogTitleColor"			"200 184 151 255"
- 		"MatchmakingMenuItemBackground"			"200 184 151 255"	
- 		"MatchmakingMenuItemSelectedBackground"	"179 82 22 255"	
-		"MatchmakingMenuItemTitleColor"			"0 0 0 255"
-		"MatchmakingMenuItemDescriptionColor"	"64 64 64 255"
-		"MatchmakingMenuItemDisabledColor"		"62 58 55 255"
+ 		"MatchmakingMenuItemBackground"			"46 43 42 255"
+ 		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"	
+		"MatchmakingMenuItemTitleColor"			"200 184 151 255"
+		"MatchmakingMenuItemDescriptionColor"	"200 184 151 255"
+		
+		"HTMLBackground"						"95 92 101 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -113,9 +119,9 @@ Scheme
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
 		CheckButton.Check				"Orange"				// color of the check itself
 
-		ComboBoxButton.ArrowColor		"Orange"
-		ComboBoxButton.ArmedArrowColor	"Orange"
-		ComboBoxButton.BgColor			"TransparentBlack"
+		ComboBoxButton.ArrowColor		"TanLight"
+		ComboBoxButton.ArmedArrowColor	"TanLight"
+		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 
 		Frame.BgColor					"TransparentBlack"
@@ -158,11 +164,23 @@ Scheme
 		ListPanel.SelectedOutOfFocusBgColor	"Red"
 		ListPanel.EmptyListInfoTextColor	"Orange"
 
-		Menu.TextColor					"Orange"
+		Menu.TextColor					"TanLight"
 		Menu.BgColor					"TransparentBlack"
-		Menu.ArmedTextColor				"Orange"
-		Menu.ArmedBgColor				"Red"
+		Menu.ArmedTextColor				"TanDark"
+		Menu.ArmedBgColor				"TanLight"
 		Menu.TextInset					"6"
+
+		// Top-left corner of the "Half-Life 2" on the main screen
+		"Main.Title1.X"			"53"
+		"Main.Title1.Y"			"190"
+		"Main.Title1.Y_hidef"	"184"
+		"Main.Title1.Color"	"255 255 255 255"
+
+		// Top-left corner of secondary title e.g. "DEMO" on the main screen
+		"Main.Title2.X"				"291"
+		"Main.Title2.Y"				"207"
+		"Main.Title2.Y_hidef"		"242"
+		"Main.Title2.Color"	"255 255 255 200"
 
 		Chat.TypingText					"Orange"
 
@@ -197,10 +215,10 @@ Scheme
 		ScrollBarButton.BgColor				"Blank"
 		ScrollBarButton.ArmedFgColor		"Gray"
 		ScrollBarButton.ArmedBgColor		"Blank"
-		ScrollBarButton.DepressedFgColor	"Gray"
+		ScrollBarButton.DepressedFgColor	"Black"
 		ScrollBarButton.DepressedBgColor	"Blank"
 
-		ScrollBarSlider.FgColor				"Blank"		// nob color
+		ScrollBarSlider.FgColor				"Gray"		// nob color
 		ScrollBarSlider.BgColor				"Blank"		// slider background color
 
 		SectionedListPanel.HeaderTextColor	"Orange"
@@ -225,9 +243,9 @@ Scheme
 		TextEntry.CursorColor		"Gray"
 		TextEntry.DisabledTextColor	"Gray"
 		TextEntry.DisabledBgColor	"Blank"
-		TextEntry.SelectedTextColor	"Gray"
-		TextEntry.SelectedBgColor	"Red"
-		TextEntry.OutOfFocusSelectedBgColor	"Red"
+		TextEntry.SelectedTextColor	"TanLight"
+		TextEntry.SelectedBgColor	"Blank"
+		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"
 
 		ToggleButton.SelectedTextColor	"Orange"
@@ -286,24 +304,10 @@ Scheme
 
 		"ProgressBarFg"			"255 30 13 255"
 
-		// Top-left corner of the "Counter-Strike" on the main screen
-		"Main.Title1.X"		"32"
-		"Main.Title1.Y"		"180"
-		"Main.Title1.Color"	"255 255 255 255"
-
-		// Top-left corner of the "SOURCE" on the main screen
-		"Main.Title2.X"		"380"
-		"Main.Title2.Y"		"205"
-		"Main.Title2.Color"	"255 255 255 80"
-
-		// Top-left corner of the "BETA" on the main screen
-		"Main.Title3.X"		"460"
-		"Main.Title3.Y"		"-10"
-		"Main.Title3.Color"	"255 255 0 255"
-
 		// Top-left corner of the menu on the main screen
-		"Main.Menu.X"		"32"
-		"Main.Menu.Y"		"248"
+		"Main.Menu.X"			"53"
+		"Main.Menu.X_hidef"		"76"
+		"Main.Menu.Y"			"240"
 
 		// Blank space to leave beneath the menu on the main screen
 		"Main.BottomBorder"	"32"
@@ -450,7 +454,7 @@ Scheme
 			"5"
 			{
 				"name"		"Verdana"
-				"tall"		"24"
+				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1200 6000"
@@ -628,6 +632,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"24"
+				"tall_lodef"	"80"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -637,6 +642,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"32"
+				"tall_hidef"	"120"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -676,6 +682,7 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"44"
+				"tall_lodef"	"52"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -687,6 +694,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"36"
+				"tall_hidef"	"48"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -703,11 +711,45 @@ Scheme
 				"antialias" "1"
 			}
 		}	
+		"HudFontMediumBigBold"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"30"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}		
 		"HudFontMedium"
 		{
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"24"
+				"tall_lodef"		"28"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"HudFontMediumSecondary"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"24"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"HudFontMediumBold"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -720,6 +762,21 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"18"
+				"tall_hidef"	"24"
+				"tall_lodef"	"18"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"HudFontMediumSmallSecondary"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"18"
+				"tall_hidef"	"24"
+				"tall_lodef"	"20"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -731,11 +788,23 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"14"
-				"weight"	"400"
+				"tall_lodef"	"16"
+				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
 			}
 		}	
+		"HudFontSmallBold"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"HudFontSmallest"
 		{
 			"1"
@@ -747,14 +816,27 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"HudFontSmallestBold"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		GameUIButtons
 		{
-			"1"	[$X360]
+			"1"	//[$X360]
 			{
 				"bitmap"	"1"
 				"name"		"Buttons"
 				"scalex"	"1.0"
+				"scalex_lodef"		"0.75"
 				"scaley"	"1.0"
+				"scaley_lodef"		"0.75"
 			}
 		}
 		GameUIButtonsSmall
@@ -767,12 +849,37 @@ Scheme
 				"scaley"	"0.5"
 			}
 		}
+		GameUIButtonsSmallest
+		{
+			"1"	[$X360]
+			{
+				"bitmap"	"1"
+				"name"		"Buttons"
+				"scalex"	"0.4"
+				"scaley"	"0.4"
+			}
+		}
+		"GameUIButtonText"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"18"
+				"tall_hidef"	"24"
+				"tall_lodef"	"18"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"HudClassHealth"
 		{
 			"1"
 			{
 				"name"		"TF2"
 				"tall"		"16"
+				"tall_hidef"	"22"
+				"tall_lodef"	"22"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -793,8 +900,33 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Verdana"
 				"tall"		"9"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"ClockSubTextSuddenDeath"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"8"
+				"tall_hidef"	"9"
+				"tall_lodef"	"10"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"ClockSubTextTiny"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"8"
+				"tall_hidef"	"7"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -929,7 +1061,8 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma"
-				"tall"		"16"
+				"tall"		"24"
+				"tall_hidef"	"32"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -939,7 +1072,8 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma"
-				"tall"		"16"
+				"tall"		"24"
+				"tall_hidef"	"32"
 				"weight"	"500"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -950,7 +1084,8 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma"
-				"tall"		"16"
+				"tall"		"24"
+				"tall_hidef"	"32"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -960,9 +1095,21 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma"
-				"tall"		"16"
+				"tall"		"24"
+				"tall_hidef"	"32"
 				"weight"	"900"
 				"italic"	"1"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_Small"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"16"
+				"tall_hidef"	"24"
+				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
@@ -972,7 +1119,7 @@ Scheme
 			"1"
 			{
 				"name"		"Marlett"
-				"tall"		"11"
+				"tall"		"20"
 				"weight"	"0"
 				"symbol"	"1"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -994,6 +1141,7 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"11"
+				"tall_lodef"	"14"
 				"antialias" "1"
 				"weight"	"500"
 			}
@@ -1012,10 +1160,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Professor"
-				"tall"		"28"
-				"antialias" "1"
-				"weight"	"500"
+				"name"			"TF2 Professor"
+				"tall"			"28"
+				"tall_lodef"	"48"
+				"tall_hidef"	"48"
+				"antialias"		"1"
+				"weight"		"500"
+				"weight_lodef"	"800"
+				"weight_hidef"	"1000"
 			}
 		}
 		"ChalkboardTitleMedium"
@@ -1024,6 +1176,8 @@ Scheme
 			{
 				"name"		"TF2 Professor"
 				"tall"		"24"
+				"tall_lodef"	"36"
+				"tall_hidef"	"36"
 				"antialias" "1"
 				"weight"	"500"
 			}
@@ -1032,10 +1186,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Professor"
-				"tall"		"14"
-				"antialias" "1"
-				"weight"	"500"
+				"name"			"TF2 Professor"
+				"tall"			"14"
+				"tall_lodef"	"32"
+				"tall_hidef"	"32"
+				"antialias"		"1"
+				"weight"		"500"
 			}
 		}
 		"ScoreboardVerySmall"
@@ -1044,9 +1200,11 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"8"
+				"tall_hidef"	"10"
+				"tall_lodef"	"14"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
 		"ScoreboardSmall"
@@ -1055,9 +1213,11 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"10"
+				"tall_hidef"	"12"
+				"tall_lodef"	"14"
 				"weight"	"400"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
 		"ScoreboardMediumSmall"
@@ -1090,21 +1250,76 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"20"
+				"tall_hidef"	"24"
+				"tall_lodef"	"24"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
 		}
+		"ScoreboardTeamNameLarge"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"34"
+				"tall_hidef"	"38"
+				"tall_lodef"	"38"
+				"weight"	"500"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+
 		"ScoreboardTeamScore"
 		{
 			"1"
 			{
 				"name"		"TF2"
 				"tall"		"52"
+				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
-				"additive"	"0"
+				"yres"		"1 599"
+				"antialias" "1"
+			}
+			"2"
+			{
+				"name"		"TF2"
+				"tall"		"72"
+				"tall_hidef"	"120"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"400"
+				"yres"		"600 767"
+				"antialias" "1"
+			}
+			"3"
+			{
+				"name"		"TF2"
+				"tall"		"100"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"400"
+				"yres"		"768 1023"
+				"antialias" "1"
+			}
+			"4"
+			{
+				"name"		"TF2"
+				"tall"		"140"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"400"
+				"yres"		"1024 1199"
+				"antialias" "1"
+			}
+			"5"
+			{
+				"name"		"TF2"
+				"tall"		"180"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"400"
+				"yres"		"1200 10000"
 				"antialias" "1"
 			}
 		}
@@ -1200,8 +1415,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial Black"
-				"tall"		"8"
+				"name"			"Arial Black"
+				"tall"			"8"
+				"tall_lodef"	"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
 				"antialias"		"1"
@@ -1214,8 +1430,10 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"14"
+				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
+				"weight_lodef"	"600"
 				"antialias"		"1"
 			}
 		}			
@@ -1237,7 +1455,9 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"7"
+				"tall"		"8"
+				"tall_hidef"	"10"
+				"tall_lodef"	"12"
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -1249,8 +1469,10 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"9"
+				"tall_hidef"	"10"
+				"tall_lodef"	"16"
 				"weight"	"400"
-				"additive"	"1"
+				"additive"	"0"
 				"antialias" 	"1"
 			}
 		}		
@@ -1258,18 +1480,66 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
-				"tall"		"28"
-				"weight"	"900"
+				"name"		"TF2 Build"
+				"tall"		"36"
+				"tall_lodef"		"28"
+				"weight"	"500"
+			}
+		}
+		MatchmakingDialogSessionOptionsTitle
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"30"
+				"tall_lodef"		"22"
+				"weight"	"500"
 			}
 		}
 		MatchmakingDialogMenuLarge
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"20"
+				"name"		"TF2 Secondary"
+				"tall"		"28"
+				"tall_lodef"	"24"
+				"weight"	"500"
+			}
+		}
+		MatchmakingDialogMenuBrowserHostname
+		{
+			"1"			// brower item hostname
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"22"
 				"weight"	"900"
+			}
+		}
+		MatchmakingDialogMenuBrowserDetails
+		{
+			"1"			// browser item players and map name
+			{
+				"name"		"Trebuchet MS"
+				"tall"		"18"
+				"weight"	"900"
+			}
+		}		
+		MatchmakingDialogMenuMedium
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"22"
+				"weight"	"500"
+			}
+		}
+		MatchmakingDialogMenuMediumSmall
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"18"
+				"weight"	"500"
 			}
 		}
 		MatchmakingDialogMenuSmall
@@ -1277,8 +1547,103 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
+				"tall"		"22"
+				"tall_lodef"		"18"
+				"weight"	"900"
+			}
+		}
+		MatchmakingDialogMenuSmallest
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"18"
+				"tall_lodef"		"18"
+				"weight"	"900"
+			}
+		}
+		RankingDialogHeaders
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"15"
+				"weight"	"900"
+			}
+		}
+		
+		"TeamMenuBold"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"36"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"TeamMenu"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"11"
+				"weight"	"600"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}		
+		"IntroMenuCaption"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"18"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}			
+		"AchievementNotification"
+		{
+			"1"
+			{
+				"name"		"Trebuchet MS"
 				"tall"		"14"
 				"weight"	"900"
+				"antialias" "1"
+			}
+		}
+		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
+		"DefaultVerySmallFallBack"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"10"
+				"weight"	"0"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"		"480 599"
+				"antialias"	"1"
+			}
+			"2"
+			{
+				"name"		"Verdana"
+				"tall"		"12"
+				"weight"	"0"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"		"600 1199"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"Verdana"
+				"tall"		"15"
+				"weight"	"0"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"		"1200 6000"
+				"antialias"	"1"
 			}
 		}
 	}
@@ -1290,54 +1655,14 @@ Scheme
 	Borders
 	{
 		NoBorder
-			{
-			"inset" "0 0 1 1"
-			Left
-			{
-				"1"
-				{
-					"color" "Blank"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Blank"
-					"offset" "1 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Blank"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Blank"
-					"offset" "0 0"
-				}
-			}
-		}
-			
-		BaseBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
-					"color" "Border.Dark"
-					"offset" "0 1"
+					"color" "Blank"
+					"offset" "0 0"
 				}
 			}
 
@@ -1345,8 +1670,8 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Bright"
-					"offset" "1 0"
+					"color" "Blank"
+					"offset" "0 0"
 				}
 			}
 
@@ -1354,7 +1679,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Dark"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
@@ -1363,21 +1688,26 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Bright"
+					"color" "Blank"
 					"offset" "0 0"
 				}
 			}
 		}
 		
-		TitleButtonBorder
+		TeamMenuBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
-					"color" "Border.Bright"
-					"offset" "0 1"
+					"color" "Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Black"
+					"offset" "0 0"
 				}
 			}
 
@@ -1385,8 +1715,13 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Dark"
-					"offset" "1 0"
+					"color" "Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Black"
+					"offset" "0 0"
 				}
 			}
 
@@ -1394,7 +1729,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Bright"
+					"color" "Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Black"
 					"offset" "0 0"
 				}
 			}
@@ -1403,332 +1743,29 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Dark"
+					"color" "Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Black"
 					"offset" "0 0"
 				}
 			}
 		}
-
-		TitleButtonDisabledBorder
-		{
-			"inset" "0 0 1 1"
-			Left
-			{
-				"1"
-				{
-					"color" "BgColor"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "BgColor"
-					"offset" "1 0"
-				}
-			}
-			Top
-			{
-				"1"
-				{
-					"color" "BgColor"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "BgColor"
-					"offset" "0 0"
-				}
-			}
-		}
-
-		TitleButtonDepressedBorder
-		{
-			"inset" "1 1 1 1"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "1 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-		}
-
+		
 		ScrollBarButtonBorder
 		{
-			"inset" "1 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "1 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
+			"inset" "0 0 0 0"
+			"backgroundtype" "2"
 		}
 
 		ScrollBarButtonDepressedBorder
 		{
-			"inset" "2 2 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "1 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-		}
-		
-		FrameBorder
-		{
-			"inset" "0 0 1 1"
-			Left
-			{
-				"1"
-				{
-					"color" "ControlBG"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "ControlBG"
-					"offset" "0 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "ControlBG"
-					"offset" "0 1"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "ControlBG"
-					"offset" "0 0"
-				}
-			}
+			"inset" "0 0 0 0"
+			"backgroundtype" "2"
 		}
 
-		TabBorder
-		{
-			"inset" "0 0 1 1"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "1 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-		}
-
-		TabActiveBorder
-		{
-			"inset" "0 0 1 0"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "1 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "ControlBG"
-					"offset" "6 2"
-				}
-			}
-		}
-
-
-		ToolTipBorder
-		{
-			"inset" "0 0 1 0"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "1 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
-		}
-		
 		ButtonBorder
 		{
 			"inset" "0 0 0 0"
@@ -1755,7 +1792,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Dark"
+					"color" "TanLight"
 					"offset" "0 1"
 				}
 			}
@@ -1764,7 +1801,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Bright"
+					"color" "TanLight"
 					"offset" "1 0"
 				}
 			}
@@ -1773,7 +1810,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Dark"
+					"color" "TanLight"
 					"offset" "0 0"
 				}
 			}
@@ -1782,86 +1819,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-		}
-
-		MenuBorder
-		{
-			"inset" "1 1 1 1"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 1"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "1 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
-		}
-		BrowserBorder
-		{
-			"inset" "0 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
-
-			Right
-			{
-				"1"
-				{
-					"color" "Border.Bright"
-					"offset" "0 0"
-				}
-			}
-
-			Top
-			{
-				"1"
-				{
-					"color" "Border.Dark"
-					"offset" "0 0"
-				}
-			}
-
-			Bottom
-			{
-				"1"
-				{
-					"color" "Border.Bright"
+					"color" "TanLight"
 					"offset" "0 0"
 				}
 			}
@@ -1873,12 +1831,64 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-		"1"		"resource/tf.ttf"
-		"2"		"resource/tfd.ttf"
-		"3"		"resource/TF2.ttf"
-		"4"		"resource/TF2Secondary.ttf"
-		"5"		"resource/TF2Professor.ttf"
-		"6"		"resource/TF2Build.ttf"
+		"1" "resource/tf.ttf"
+		"2" "resource/tfd.ttf"
+		"3"
+		{
+			"font" "resource/TF2.ttf"
+			"name" "TF2"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
+		"4" 
+		{
+			"font" "resource/TF2Secondary.ttf"
+			"name" "TF2 Secondary"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
+		"5" 
+		{
+			"font" "resource/TF2Professor.ttf"
+			"name" "TF2 Professor"
+			"russian"
+			{
+				"range" "0x0000 0x00FF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0x00FF"
+			}
+		}	
+		"6" 
+		{
+			"font" "resource/TF2Build.ttf"
+			"name" "TF2 Build"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"turkish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
 	}
 
 }

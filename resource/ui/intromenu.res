@@ -31,12 +31,16 @@
 		"tabPosition"		"0"
 	}
 
-	"ok"
+	"Skip" [$WIN32] 
 	{
 		"ControlName"		"CTFButton"
-		"fieldName"		"skipbutton"
+		"fieldName"		"Skip"
 		"xpos"			"r190"
+		"xpos_lodef"			"r222"
+		"xpos_hidef"			"r232"
 		"ypos"			"r40"
+		"ypos_lodef"			"r64"
+		"ypos_hidef"			"r54"
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
@@ -51,16 +55,18 @@
 		"brighttext"		"0"
 		"wrap"		"0"
 		"command"		"skip"
-		"default"		"1"
 		"font"			"MenuSmallFont"
 	}	
 	
-	"Back"
+	"Back" [$WIN32] 
 	{
 		"ControlName"	"CTFButton"
 		"fieldName"		"Back"
 		"xpos"			"40"
+		"xpos_hidef"			"50"
 		"ypos"			"r40"
+		"ypos_lodef"			"r64"
+		"ypos_hidef"			"r54"
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
@@ -83,9 +89,13 @@
 		"fieldName"		"ShadedBar"
 		"xpos"			"0"
 		"ypos"			"r50"
+		"ypos_lodef"			"r74"
+		"ypos_hidef"			"r65"
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
+		"tall_lodef"			"74"
+		"tall_hidef"			"65"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -99,16 +109,17 @@
 	{
 		"ControlName"	"CTFVideoPanel"
 		"fieldName"		"VideoPanel"
-		"xpos"			"c-155"
-		"ypos"			"c-160"
+		"xpos"			"c-145"
+		"ypos"			"c-183"
 		"zpos"			"3"		
-		"wide"			"320"
-		"tall"			"240"
+		"wide"			"300"
+		"tall"			"225"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"delay"			"2.0"
+		"start_delay"	"2.0"
+		"end_delay"		"2.0"
 	}
 	
 	"MenuBG"
@@ -134,6 +145,8 @@
 			"angles_y" "180"
 			"angles_z" "0"
 			"origin_x" "290"
+			"origin_x_lodef" "320"
+			"origin_x_hidef" "310"
 			"origin_y" "0"
 			"origin_z" "-39"
 			
@@ -145,10 +158,70 @@
 			
 			"animation"
 			{
+				"name"			"UpSlow"
+				"sequence"		"screenup_slow"
+			}
+			
+			"animation"
+			{
 				"name"			"Down"
 				"sequence"		"screendown"
 				"default"		"1"
 			}
 		}
 	}					
+	
+	"VideoCaption"
+	{
+		"ControlName"	"CTFLabel"
+		"fieldName"		"VideoCaption"
+		"xpos"			"c-145"
+		"ypos"			"c40"
+		"zpos"			"6"
+		"wide"			"295"
+		"tall"			"70"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		"labelText"		" "
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"IntroMenuCaption"
+		"fgcolor"		"White"
+		"wrap"			"1"
+	}
+	
+	"Footer" [$X360]
+	{
+		"ControlName"		"CTFFooter"
+		"fieldName"			"Footer"
+		"zpos"				"6"
+		"tall"				"80"
+		"button_separator"	"10"
+		"button_separator_lodef"	"5"
+		"buttongap"			"50"
+		"textadjust"		"3"
+		"buttonoffsety"		"20"
+		"buttonoffsety_hidef"		"0"
+		"buttonoffsety_lodef"		"18"
+		"fonttext"			"MatchmakingDialogMenuLarge"
+		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
+		"fgcolor"			"HudOffWhite" 	
+		
+		"button"
+		{
+			"name"		"intro"
+			"text"		"#GameUI_Back"
+			"icon"		"#GameUI_Icons_B_BUTTON"	
+		}
+		
+		"button"
+		{
+			"name"		"continue"
+			"text"		"#Button_SkipIntro_360"
+			"icon"		"#GameUI_Icons_A_BUTTON"	
+		}
+	}	
 }

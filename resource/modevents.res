@@ -53,6 +53,7 @@
 		"customkill"	"short"		// type of custom kill
 		"assister"	"short"		// user ID of assister
 		"dominated"	"short"		// did killer dominate victim with this kill
+		"assister_dominated" "short"	// did assister dominate victim with this kill
 		"revenge"	"short"		// did killer get revenge on victim with this kill
 		"assister_revenge" "short"	// did assister get revenge on victim with this kill
 	}
@@ -75,7 +76,11 @@
 	{
 		"reason"	"string"	// why the game is over ( timelimit, winlimit )
 	}
-
+	"ctf_flag_captured"
+	{
+		"capping_team"			"short"
+		"capping_team_score"	"short"
+	}
 	"controlpoint_initialized"
 	{
 	}
@@ -126,7 +131,7 @@
 
 	"teamplay_round_start"			// round restart
 	{
-		// nothing for now
+		"full_reset"	"bool"		// is this a full reset of the map
 	}
 	
 	"teamplay_round_active"			// called when round is active, players can move
@@ -175,6 +180,8 @@
 		"flagcaplimit"	"short"		// if win reason was flag cap limit, the value of the flag cap limit
 		"full_round"	"short"		// was this a full round or a mini-round
 		"round_time"	"float"		// elapsed time of this round
+		"losing_team_num_caps"	"short"	// # of caps this round by losing team
+		"was_sudden_death" "byte"	// did a team win this after entering sudden death
 	}
 
 	"teamplay_update_timer"
@@ -183,7 +190,7 @@
 
 	"teamplay_round_stalemate"
 	{
-		// nothing for now
+		"reason"	"byte"		// why the stalemate is occuring
 	}
 	
 	"teamplay_overtime_begin"
@@ -233,10 +240,19 @@
 		"seconds_added"	"short"		// how many seconds were added to the round timer	
 	}
 
+	"teamplay_point_startcapture"
+	{
+		"cp"		"byte"			// index of the point that was captured
+		"cpname"	"string"		// name of the point
+		"team"		"byte"			// which team capped
+		"cappers"	"string"		// string where each character is a player index of someone that capped
+	}
+
 	"teamplay_point_captured"
 	{
 		"cp"		"byte"			// index of the point that was captured
 		"cpname"	"string"		// name of the point
+		"team"		"byte"			// which team capped
 		"cappers"	"string"		// string where each character is a player index of someone that capped
 	}
 
@@ -249,7 +265,7 @@
 	"teamplay_flag_event"
 	{
 		"player"	"short"			// player this event involves
-		"eventtype"	"short"			// pick up, capture, defend
+		"eventtype"	"short"			// pick up, capture, defend, dropped
 	}
 	"teamplay_win_panel"		
 	{
@@ -272,32 +288,10 @@
 		"player_3_points"	"short"
 	}
 	
-	"teamplay_stat_panel"	
+	"teamplay_teambalanced_player"
 	{
-		"userid"			"short"		// user ID of player to get panel		
-		"class"				"short"		// class player was playing
-		"alive"				"long"		// is player currently alive
-		"shots_hit"			"long"
-		"shots_fired"			"long"
-		"kills"				"long"
-		"deaths"			"long"
-		"captures"			"long"
-		"defenses"			"long"
-		"buildings_destroyed"		"long"
-		"new_dominations"		"long"
-		"revenge"			"long"
-		"points_scored"			"long"
-		"num_headshots"			"long"
-		"damage_dealt"			"long"
-		"play_time"			"long"
-		"healed"			"long"
-		"num_invulnerable"		"long"
-		"killassists"			"long"
-		"num_backstabs"			"long"
-		"health_leached"		"long"
-		"num_buildings"			"long"
-		"num_sentry_kills"		"long"
-		"num_teleports"			"long"
+		"player"	"short"		// entindex of the player
+		"team"		"byte"		// which team the player is being moved to
 	}
 
 	"show_freezepanel"
@@ -346,5 +340,39 @@
 	{
 	}
 
+	"player_stats_updated"
+	{
+		"forceupload"	"bool"
+	}
+	"playing_commentary"
+	{
+	}
+	
+	"player_chargedeployed"
+	{
+		"userid"	"short"		// user ID who changed class
+	}
+	
+	"player_builtobject"
+	{
+		"userid"	"short"		// user ID of the spy
+		"object"	"byte"
+	}
+	
+	"achievement_earned"
+	{
+		"player"		"byte"		// entindex of the player
+		"achievement"	"short"		// achievement ID
+	}
+	
+	"nav_blocked"
+	{
+		"area"		"long"
+		"blocked"	"bool"
+	}
+	
+	"spec_target_updated"
+	{
+	}
 }
 
