@@ -13,7 +13,7 @@ WeaponData
 	"BulletsPerShot"	"1"
 	"Spread"			"0.025"
 	"TimeFireDelay"		"0.5"
-	"ProjectileType"	"projectile_syringe"
+	"ProjectileType"	"projectile_nail"
 	"DoInstantEjectBrass"	"1"
 	"HasTeamSkins_Viewmodel"			"1"
 	"TracerEffect"		"bullet_pistol_tracer01"
