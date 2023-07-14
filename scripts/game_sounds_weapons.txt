@@ -1843,7 +1843,13 @@
 	"channel"	"CHAN_WEAPON"	
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		"misc/null.wav"
+	"pitch"			"95,105"
+	"rndwave"
+	{
+		"wave"	"#physics/surfaces/underwater_impact_bullet1.wav"
+		"wave"	"#physics/surfaces/underwater_impact_bullet2.wav"
+		"wave"	"#physics/surfaces/underwater_impact_bullet3.wav"
+	}
 }
 
 "Weapon_Tranq.Reload"

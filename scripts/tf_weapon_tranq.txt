@@ -31,7 +31,7 @@ WeaponData
 	"bucket_position"	"2"
 
 	// Animation.
-	"viewmodel"		"models/weapons/v_models/v_revolver_spy.mdl"
+	"viewmodel"		"models/weapons/v_hands.mdl"
 	"playermodel"		"models/weapons/w_models/w_tranq.mdl"
 	"anim_prefix"		"ac"
 
@@ -45,8 +45,8 @@ WeaponData
 	{
 		"reload"		"Weapon_Tranq.WorldReload"
 		"empty"			"Weapon_Tranq.ClipEmpty"	
-		"single_shot"		"Weapon_Revolver.Single"
-		"burst"			"Weapon_Revolver.SingleCrit"
+		"single_shot"		"Weapon_Tranq.Single"
+		"burst"			"Weapon_Tranq.SingleCrit"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.
