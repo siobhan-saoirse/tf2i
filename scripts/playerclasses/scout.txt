@@ -23,7 +23,7 @@ PlayerClass
 	"weapon1"		"TF_WEAPON_BAT"
 	"weapon2"		"TF_WEAPON_PISTOL_SCOUT"
 	"weapon3"		"TF_WEAPON_SCATTERGUN"
-	"weapon4"		"TF_WEAPON_NAILGUN"
+//	"weapon4"		"TF_WEAPON_NAILGUN"
 
 	AmmoMax
 	{
