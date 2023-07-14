@@ -1444,6 +1444,24 @@
 	"wave"		")weapons/scatter_gun_shoot_crit.wav"
 }
 
+"Weapon_Scatter_Gun.Double"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"pitch"		"87,95"
+	"wave"		")weapons/scatter_gun_double_shoot.wav"
+}
+
+"Weapon_Scatter_Gun.DoubleCrit"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"pitch"		"87,95"
+	"wave"		")weapons/scatter_gun_double_shoot_crit.wav"
+}
+
 "Weapon_Scatter_Gun.Empty"
 {
 	"channel"	"CHAN_STATIC"
