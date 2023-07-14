@@ -1846,7 +1846,18 @@
 	"pitch"			"95,105"
 	"rndwave"
 	{
-		"wave"	")weapons/dartgun.wav"
+		"wave"	")weapons/tranq_shoot.wav"
+	}
+}
+"Weapon_Tranq.SingleCrit"
+{
+	"channel"	"CHAN_WEAPON"	
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"pitch"			"95,105"
+	"rndwave"
+	{
+		"wave"	")weapons/tranq_shoot_crit.wav"
 	}
 }
 
