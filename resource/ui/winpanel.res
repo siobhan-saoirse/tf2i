@@ -23,7 +23,6 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/winpanel_blue_bg_team"
-			"image_lodef"	"../hud/winpanel_blue_bg_team_lodef"
 			"scaleImage"		"1"
 		}
 		"RedScoreBG"
@@ -39,7 +38,6 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/winpanel_red_bg_team"
-			"image_lodef"	"../hud/winpanel_red_bg_team_lodef"
 			"scaleImage"		"1"
 		}
 		"BlueTeamLabel"
@@ -53,8 +51,6 @@
 			"ypos"			"25"
 			"wide"			"50"
 			"tall"			"20"
-			"tall_lodef"	"24"
-			"tall_hidef"	"24"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -67,13 +63,11 @@
 			"font"			"ScoreboardTeamScore"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
-			"xpos"			"95"
+			"xpos"			"105"
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
-			"tall_hidef"	"75"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -87,13 +81,11 @@
 			"fgcolor"		"Black"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
-			"xpos"			"96"
+			"xpos"			"106"
 			"ypos"			"1"
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
-			"tall_hidef"	"75"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -110,8 +102,6 @@
 			"ypos"			"25"
 			"wide"			"50"
 			"tall"			"20"
-			"tall_lodef"	"24"
-			"tall_hidef"	"24"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -124,13 +114,11 @@
 			"font"			"ScoreboardTeamScore"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
-			"xpos"			"207"
+			"xpos"			"197"
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
-			"tall_hidef"	"75"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -144,13 +132,11 @@
 			"fgcolor"		"Black"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
-			"xpos"			"208"
+			"xpos"			"198"
 			"ypos"			"1"
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"50"
-			"tall_lodef"	"80"
-			"tall_hidef"	"75"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -253,7 +239,7 @@
 	{	
 		"ControlName"		"CTFLabel"
 		"fieldName"		"WinReasonLabel"
-		"font"			"ScoreboardVerySmall"
+		"font"			"ScoreboardSmall"
 		"xpos"			"0"
 		"ypos"			"89"
 		"zpos"			"1"
@@ -302,7 +288,6 @@
 		"enabled"		"1"
 		"tabPosition"	"0"	
 		"fillcolor"		"0 0 0 150"
-		"fillcolor_lodef"		"0 0 0 200"
 		"PaintBackgroundType"	"0"
 	}
 	"TopPlayersLabel"
@@ -329,10 +314,10 @@
 		"ControlName"		"CTFLabel"
 		"fieldName"		"PointsThisRoundLabel"
 		"font"			"ScoreboardVerySmall"
-		"xpos"			"136"
+		"xpos"			"174"
 		"ypos"			"114"
 		"zpos"			"3"
-		"wide"			"140"
+		"wide"			"100"
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -360,7 +345,7 @@
 		"fillcolor"		"250 234 201 255"
 		"PaintBackgroundType"	"0"
 	}
-	"Player1Avatar"		[$WIN32]
+	"Player1Avatar"
 	{
 		"ControlName"		"CAvatarImagePanel"
 		"fieldName"		"Player1Avatar"
@@ -379,12 +364,10 @@
 	{	
 		"ControlName"		"CTFLabel"
 		"fieldName"		"Player1Name"
-		"xpos"			"36"	[$WIN32]
-		"xpos"			"14"	[$X360]
+		"xpos"			"36"
 		"ypos"			"132"
 		"zpos"			"3"
-		"wide"			"128"	[$WIN32]
-		"wide"			"150"	[$X360]
+		"wide"			"128"
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -417,7 +400,7 @@
 	{	
 		"ControlName"		"CTFLabel"
 		"fieldName"		"Player1Score"
-		"xpos"			"240"
+		"xpos"			"220"
 		"ypos"			"132"
 		"zpos"			"3"
 		"wide"			"30"
@@ -431,7 +414,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
-	"Player2Avatar"		[$WIN32]
+	"Player2Avatar"
 	{
 		"ControlName"		"CAvatarImagePanel"
 		"fieldName"		"Player2Avatar"
@@ -450,12 +433,10 @@
 	{	
 		"ControlName"		"CTFLabel"
 		"fieldName"		"Player2Name"
-		"xpos"			"36"	[$WIN32]
-		"xpos"			"14"	[$X360]
+		"xpos"			"36"
 		"ypos"			"150"
 		"zpos"			"3"
-		"wide"			"128"	[$WIN32]
-		"wide"			"150"	[$X360]
+		"wide"			"128"
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -488,7 +469,7 @@
 	{	
 		"ControlName"		"CTFLabel"
 		"fieldName"		"Player2Score"
-		"xpos"			"240"
+		"xpos"			"220"
 		"ypos"			"150"
 		"zpos"			"3"
 		"wide"			"30"
@@ -502,7 +483,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
-	"Player3Avatar"		[$WIN32]
+	"Player3Avatar"
 	{
 		"ControlName"		"CAvatarImagePanel"
 		"fieldName"		"Player3Avatar"
@@ -521,12 +502,10 @@
 	{	
 		"ControlName"		"CTFLabel"
 		"fieldName"		"Player3Name"
-		"xpos"			"36"	[$WIN32]
-		"xpos"			"14"	[$X360]
+		"xpos"			"36"
 		"ypos"			"168"
 		"zpos"			"3"
-		"wide"			"128"	[$WIN32]
-		"wide"			"150"	[$X360]
+		"wide"			"128"
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -559,7 +538,7 @@
 	{	
 		"ControlName"		"CTFLabel"
 		"fieldName"		"Player3Score"
-		"xpos"			"240"
+		"xpos"			"220"
 		"ypos"			"168"
 		"zpos"			"3"
 		"wide"			"30"

@@ -50,7 +50,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"#TF_NotBuilt"
+		"labelText"		"Object Not Built"
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"

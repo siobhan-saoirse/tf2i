@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"CallerBG"
-		"xpos"			"0"
+		"xpos"			"8"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"30"

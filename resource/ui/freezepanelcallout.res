@@ -11,7 +11,7 @@
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/freezecam_black_bg"
+		"image"			"../hud/freezecam_blue_bg"
 		"scaleImage"		"1"	
 		"teambg_2"		"../hud/freezecam_blue_bg"	// Reversed, due to showing killer's name
 		"teambg_3"		"../hud/freezecam_red_bg"	// Reversed, due to showing killer's name	
@@ -21,7 +21,7 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ArrowIcon"
 		"xpos"			"20"
-		"ypos"			"34"
+		"ypos"			"35"
 		"zpos"			"3"
 		"wide"			"20"
 		"tall"			"10"
@@ -34,11 +34,11 @@
 	{	
 		"ControlName"		"CTFLabel"
 		"fieldName"		"CalloutLabel"
-		"font"			"HudFontSmallest"
-		"xpos"			"15"
+		"font"			"TFFontMedium"
+		"xpos"			"20"
 		"ypos"			"15"
 		"zpos"			"2"
-		"wide"			"70"
+		"wide"			"60"
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
