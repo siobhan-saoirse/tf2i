@@ -19,13 +19,13 @@ WeaponData
 	"HasTeamSkins_Worldmodel"	"1"
 
 	// Ammo & Clip.
-	"primary_ammo"		"TF_AMMO_PRIMARY"
+	"primary_ammo"		"TF_AMMO_METAL"
 	"secondary_ammo"	"None"
 	clip_size		40
 	default_clip		40
 
 	// Buckets.
-	"bucket"		"0"
+	"bucket"		"1"
 	"bucket_position"	"2"
 
 
