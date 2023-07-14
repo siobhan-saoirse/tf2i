@@ -23,7 +23,7 @@ PlayerClass
 	"weapon2"		"TF_WEAPON_REVOLVER"
 	"weapon3"		"TF_WEAPON_PDA_SPY"
 	"weapon4"		"TF_WEAPON_INVIS"
-//	"weapon5"		"TF_WEAPON_TRANQ"
+	"weapon5"		"TF_WEAPON_TRANQ"
 	
 	// Buildables
 	"buildable1"	"OBJ_ATTACHMENT_SAPPER"
