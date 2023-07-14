@@ -23,7 +23,7 @@ WeaponData
 	"primary_ammo"		"TF_AMMO_PRIMARY"
 	"secondary_ammo"	"None"
 	"clip_size"			"1"
-	"default_clip"		"1"
+	"default_clip"		"1" 
 	"MaxAmmo"			"24"
 
 	// Buckets.
