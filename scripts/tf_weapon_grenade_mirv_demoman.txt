@@ -43,7 +43,7 @@
 	{
 		"weapon"
 		{
-				"file"		"sprites/bucket_grenade_mirv_red"
+				"file"		"sprites/bucket_grenlaunch"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"

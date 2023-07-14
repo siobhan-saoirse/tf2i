@@ -43,7 +43,7 @@
 	{
 		"weapon"
 		{
-				"file"		"sprites/bucket_grenade_nail_red"
+				"file"		"sprites/bucket_grenlaunch"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"
@@ -51,7 +51,7 @@
 		}
 		"weapon_s"
 		{	
-				"file"		"sprites/bucket_grenade_nail_blue"
+				"file"		"sprites/bucket_grenlaunch"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"
