@@ -31,7 +31,7 @@ WeaponData
 	"bucket_position"	"2"
 
 	// Animation.
-	"viewmodel"		"models/weapons/v_models/v_tranq_spy.mdl"
+	"viewmodel"		"models/weapons/v_models/v_revolver_spy.mdl"
 	"playermodel"		"models/weapons/w_models/w_tranq.mdl"
 	"anim_prefix"		"ac"
 
