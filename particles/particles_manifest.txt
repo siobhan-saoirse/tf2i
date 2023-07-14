@@ -68,6 +68,20 @@ particles_manifest
 		"file"		"!particles/flag_particles.pcf"
 		"file"		"!particles/buildingdamage.pcf"
 		"file"		"!particles/water.pcf"
+		"file"		"!particles/spy_gasgrenade.pcf"
+		"file"		"!particles/tranq_sleepy.pcf"
+		"file"		"!particles/teleport_status.pcf"
+		"file"		"!particles/sparks.pcf"
+		"file"		"!particles/nailgrenadejet.pcf"
+		"file"		"!particles/incendiaryrockettrail.pcf"
+		"file"		"!particles/heal_ticker.pcf"
+		"file"		"!particles/heal_grenade.pcf"
+		"file"		"!particles/gas_poison.pcf"
+		"file"		"!particles/fuse_spark.pcf"
+		"file"		"!particles/fuse_napalmspark.pcf"
+		"file"		"!particles/emp_shockwave.pcf"
+		"file"		"!particles/conc_warp.pcf"
+		"file"		"!particles/conc_stars.pcf"
 	// ep2
 
 	//	"file"		"particles/error.pcf"
@@ -114,7 +128,6 @@ particles_manifest
 		"file"		"particles/antlion_blood.pcf"
 		"file"		"particles/grub_blood.pcf"
 		"file"		"particles/grenade_fx.pcf"
-		"file"		"particles/rocket_fx.pcf"	
-		"file"		"particles/impact_fx.pcf"
+		"file"		"particles/rocket_fx.pcf"
 }
 
