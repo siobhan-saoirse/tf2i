@@ -24,7 +24,6 @@ PlayerClass
 	"weapon3"		"TF_WEAPON_SHOTGUN_PRIMARY"
 	"weapon4"		"TF_WEAPON_PDA_ENGINEER_BUILD"
 	"weapon5"		"TF_WEAPON_PDA_ENGINEER_DESTROY"
-	"weapon6"		"TF_WEAPON_NAILGUN"
 	
 	// Buildables
 	"buildable1"	"OBJ_SENTRYGUN"
