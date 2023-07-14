@@ -101,6 +101,8 @@
 	"name" "npc_antlion"
 	"name" "npc_antlionguard"
 	"name" "npc_combine_s"
+	"name" "bot_npc_archer"
+	"name" "YOU BIG HEAD WANKERS"
 	"name" "infected"
 	"name" "unconnected"
 	"name" "The One Free Man"
