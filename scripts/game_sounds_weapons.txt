@@ -1846,9 +1846,7 @@
 	"pitch"			"95,105"
 	"rndwave"
 	{
-		"wave"	"#physics/surfaces/underwater_impact_bullet1.wav"
-		"wave"	"#physics/surfaces/underwater_impact_bullet2.wav"
-		"wave"	"#physics/surfaces/underwater_impact_bullet3.wav"
+		"wave"	")weapons/dartgun.wav"
 	}
 }
 
