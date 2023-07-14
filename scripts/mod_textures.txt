@@ -331,8 +331,8 @@
 		{
 				"file"	"HUD/d_images"
 				"x"		"0"
-				"y"		"64"
-				"width"		"64"
+				"y"		"128"
+				"width"		"96"
 				"height"	"32"
 		}
 		"d_sniperrifle"
@@ -604,8 +604,8 @@
 		{
 				"file"	"HUD/dneg_images"
 				"x"		"0"
-				"y"		"64"
-				"width"		"64"
+				"y"		"128"
+				"width"		"96"
 				"height"	"32"
 		}
 		"dneg_sniperrifle"

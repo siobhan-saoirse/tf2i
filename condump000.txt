@@ -1,0 +1,716 @@
+ory
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nil_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably mising from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to lad sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found for 'scout.painsevere02'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot_crit.wav", file probably missing from disk/repository
+Filed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot_crit.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found for 'scout.painsharp07'
+Failed to load sound ")weapons\nail_gun_shoot_crit.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from dis/repository
+Failed to load sound ")weapons\nail_gun_shoot_crit.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load soun ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", fileprobably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot upate control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzl_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gn_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzlepistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effet 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point  for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update contol point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot udate control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update contrl point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot upate control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzl_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effct 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update conrol point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot pdate control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update contol point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot udate control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzze_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 fr effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update controlpoint 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot updae control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control oint 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot updat control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Canot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pstol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gun_hoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update ontrol point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Faild to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for efect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weaons\nail_gun_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Cannot update control point 4 for effect 'muzzle_pistol'.
+Cannot update control point 4 for effect 'muzzle_pistol'.
+ailed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found for 'scout.painsharp06'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repositry
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found for 'scout.painsharp03'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repsitory
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapon\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably issing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed t load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found for 'scout.painsevere04'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Faied to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_hoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing fro disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found fo 'scout.painsevere03'
+ThatsApplesMate killed rain with nailgun.
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot_crit.wav", file probaly missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot_crit.wav", file probably missing from disk/repository
+No caption found for 'scout.laughlong02'
+No caption found for 'scout.helpmecapture03'
+No caption found for 'scout.helpme02'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probablymissing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found for 'scout.painsevere05'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file proably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Faled to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found for 'scout.painsharp07'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repositor
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nailgun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missin from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+ThatsApplesMate defended TODO: Set Name for team #2
+Xerin killed ThatsApplesMate with nailgun.
+No caption found for 'scout.painsevere02'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably mssing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+rain :  shoot him onc
+No caption found for 'scout.laughlong02'
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_soot.wav", file probably missing from disk/repository
+Failed to load sound ")weapons\nail_gun_shoot.wav", file probably missing from disk/repository
+No caption found for 'scout.thanks01'
+64.130.101.223:27005:reconnect
+Dropped Average_Medal_Enjoyer from server (Connection closing)
+Client "Average_Medal_Enjoyer" connected (64.130.101.223:27005).
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missig from disk/repository
+Average_Medal_Enjoyer connected
+No caption found for 'scout.painsharp02'
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Eddy duarddy killed Xerin with bat.
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repositoryXerin :  aboose
+rain captured TODO: Set Name for team #3
+No caption found for 'scout.jeers03'
+Failed to load sound "vo\scout_incoming02.wav", file probably missing from disk/repository
+ThatsApplesMate suicided.
+No caption found for 'heavy.medic02'
+Average_Medal_Enjoyer :  game crashed
+Xerin, rain captured TODO: Set Name for team #3
+Average_Medal_Enjoyer :  not fair :(
+No caption found for 'scout.laughlong02'
+No caption found for 'scout.medic03'
+No caption found for 'heavy.goodjob03'
+No caption found for 'sout.medic02'
+No caption found for 'heavy.thanks02'
+rain killed Eddy duarddy with scattergun.
+No caption found for 'heavy.helpme03'
+No caption found for 'heavy.helpme01'
+No caption found for 'heavy.battlecry04'
+No caption found for 'scout.battlecry04'
+No caption found for 'scout.medic01'
+No caption found for 'scout.battlecry03'
+Failed to load sound "vo\scout_battlecry03.wav", file probably missing from disk/repository
+Xerin :  devs beaten at their own game ez game ez life
+Xerin :  1
+2033.544910 BlockingGetDtaPointer:  Async I/O Force weapons\nail_gun_shoot.wav (    0.29 msec /     0.24 msec total )
+No caption found for 'scout.medic01'
+No caption found for 'heavy.medic03'
+No caption found for 'scout.jeers02'
+No caption found for 'scout.incoming01'
+No caption found for 'heavy.laughshort02'
+No caption found for 'scout.taunts03'
+No caption found for 'scout.specialcompleted03'
+No caption found for 'heavy.niceshot02'
+No caption found for 'scout.specialcompleted03'
+No caption found for 'scout.cloakedspyidentify03'
+o caption found for 'player.puff'
+No caption found for 'scout.taunts12'
+No caption found for 'scout.specialcompleted03'
+No caption found for 'heavy.niceshot02'
+No caption found for 'player.puff'
+No caption found for 'scout.helpme04'
+(DEV) ThatsApplesMate :  nailguns have a sound now
+No caption found for 'scout.needteleporter01'
+No caption found for 'scout.needsentry01'
+Xerin :  woa
+No caption found for 'demoman.needteleporter01'
+No caption found for 'scout.needdispenser01'
+No caption found for 'heavy.go01'(DEV) ThatsApplesMate :  and its a place holder
+Xerin :  git pull time when
+No caption found for 'scout.needsentry01'
+No caption found for 'heavy.medic02'
+No caption found for 'scout.medic03'
+No caption found for 'demoman.painsevere01'
+No caption found for 'heavy.medic01'
+No caption found for 'demoman.jeers07'
+No caption found for 'demoman.painsharp02'
+No caption found for 'scout.incoming03'
+Failed to load sound "vo\scout_incoming03.wav", file probably missing from disk/repository
+No caption found for 'heay.painsharp04'
+No caption found for 'scout.painsevere03'
+Attempted to create unknown particle system type "error"!
+No caption found for 'scout.painsharp04'
+No caption found for 'demoman.painsharp06'
+Average_Medal_Enjoyer killed Xerin with shotgun_secondary.
+Xerin killed ThatsApplesMate with nailgun.
+No caption found for 'scout.painsharp08'
+No caption found for 'heavy.painsharp01'
+No caption found for 'scout.painsharp02'
+No caption found for 'scout.painsharp03'
+*DEAD* Xerin :  1 down
+*You will spawn as Scou
+No caption found for 'heavy.painsharp02'
+No caption found for 'scout.painsharp01'
+rain killed Average_Medal_Enjoyer with nailgun.
+rain killed Eddy duarddy with nailgun.
+2092.980299 BlockingGetDataPointer:  Async I/O Force weapons\nail_gun_shoot_crit.wav (    0.41 msec /     0.49 msec total )
+rain :  LOL
+ThatsApplesMate killed rain with nailgun.
+Xerin :  nice
+Average_Medal_Enjoyer :  why does the nailgun kill heavy so fast
+(DEV) ThatsApplesMate :  16 hit dmg
+(DEV) ThatsApplesMate :  for nailgun
+No caption ound for 'scout.painsharp07'
+No caption found for 'scout.painsharp06'
+No caption found for 'scout.painsevere06'
+No caption found for 'scout.painsharp04'
+No caption found for 'scout.painsharp03'
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+No caption found for 'scout.painsharp07'
+No caption found for 'scout.painsevere02'
+No caption found for 'scout.painsharp08'
+No aption found for 'scout.painsevere04'
+Xerin killed ThatsApplesMate with scattergun.
+Average_Medal_Enjoyer :  little too much
+(DEV) ThatsApplesMate :  15?
+(DEV) ThatsApplesMate :  or 10
+Xerin :  12
+(DEV) ThatsApplesMate :  12?
+No caption found for 'scout.painsharp01'
+No caption found for 'scout.painsharp07'
+rain killed Eddy duarddy with pistol_scout.
+No caption found for 'scout.painsharp05'
+No caption found for 'scout.painsevere01'
+ThatsApplesMate killed Xerin with nailgun.
+No caption found for 'pyro.painshrp03'
+SV_StartSound: misc/flame_engulf.wav not precached (0)
+No caption found for 'scout.painsharp02'
+No caption found for 'scout.painsharp05'
+No caption found for 'scout.painsharp03'
+*DEAD* Xerin :  it is really strong
+No caption found for 'scout.painsharp06'
+Average_Medal_Enjoyer killed rain with flamethrower.
+No caption found for 'pyro.medic01'
+Average_Medal_Enjoyer :  or 8
+rain :  Pf2 has it at 12
+(DEV) ThatsApplesMate :  no how about 12
+rain :  done
+Average_Medal_Enjoyer :  do it like the tf2c nailgunis
+No caption found for 'pyro.medic01'
+No caption found for 'scout.medic02'
+Xerin :  pf2's feels nice
+Xerin defended TODO: Set Name for team #2
+No caption found for 'scout.taunts02'
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+No caption found for 'pyro.painsharp02'
+SV_StartSound: misc/flame_engulf.wav not precached (0)
+No caption found for 'scout.painsharp04'
+Xern killed Average_Medal_Enjoyer with nailgun.
+No caption found for 'scout.painsharp07'
+No caption found for 'scout.painsharp02'
+Eddy duarddy killed Xerin with scattergun.
+rain defended TODO: Set Name for team #2
+No caption found for 'scout.taunts09'
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+Failed to load sound "misc\hologram_interrupt.wav", file probably missing from disk/repository
+No caption found for 'scout.painsharp01'
+No caption found for 'scout.paisharp08'
+No caption found for 'scout.painsevere05'
+rain killed Eddy duarddy with nailgun.
+No caption found for 'scout.painsharp05'
+No caption found for 'scout.painsevere05'
+No caption found for 'scout.painsharp01'
+ThatsApplesMate killed rain with nailgun.
+(DEV) ThatsApplesMate :  SAPPED
+rain killed ThatsApplesMate with player.
+Xerin :  SAPPED REAL
+No caption found for 'scout.helpme01'
+Xerin :  suggestion
+SV_StartSound: misc/flame_engulf.wav not precached (0)
+(DEV) ThatsApplesMate :  i need to add the beta illicons for nailgun
+Average_Medal_Enjoyer killed rain with shotgun_secondary.
+*DEAD* rain :  medal is low
+Xerin :  super low chance 1/1000 for nailgun kills to be sapper kills once that's fixed
+SV_StartSound: misc/flame_engulf.wav not precached (0)
+Average_Medal_Enjoyer killed Xerin with shotgun_secondary.
+rain killed Eddy duarddy with nailgun.
+Average_Medal_Enjoyer killed rain with shotgun_secondary.
+*DEAD* rain :  godd a
+No caption found for 'scout.go03'
+Failed to load sound "vo\scout_go03.wav", file prbably missing from disk/repository
+SV_StartSound: misc/flame_engulf.wav not precached (0)
+Xerin defended TODO: Set Name for team #2
+Xerin killed Average_Medal_Enjoyer with nailgun.
+Xerin killed Eddy duarddy with nailgun.
+Average_Medal_Enjoyer :  make the nailgun heal friendly buildings on hit
+No caption found for 'pyro.medic01'
+Average_Medal_Enjoyer :  that would be nice
+Average_Medal_Enjoyer :  and would make sense
+(DEV) ThatsApplesMate :  yea
+No caption found for 'pyro.medic01'
+(DEV) ThatsApplesMate :  ican do that
+No caption found for 'pyro.medic01'
+No caption found for 'scout.medic02'
+No caption found for 'scout.medic01'
+No caption found for 'medic.medic02'
+rain :  thats dumb do it
+No caption found for 'soldier.medic01'
+No caption found for 'medic.medic01'
+No caption found for 'soldier.medic02'
+No caption found for 'soldier.painsharp03'
+No caption found for 'scout.painsevere01'
+No caption found for 'scout.thanksfortheheal01'
+No caption found for 'scout.painsharp04'
+No caption found for 'soldier.painshar06'
+No caption found for 'scout.painsharp07'
+No caption found for 'medic.painsharp05'
+Average_Medal_Enjoyer killed rain with tf_projectile_rocket.
+No caption found for 'scout.painsharp06'
+No caption found for 'soldier.painsharp07'
+No caption found for 'medic.helpme01'
+No caption found for 'scout.thanks02'
+No caption found for 'soldier.medic03'
+No caption found for 'scout.painsharp01'
+Attempted to create unknown particle system type "error"!
+No caption found for 'soldier.painsharp01'
+No caption found for 'sout.incoming02'
+Failed to load sound "vo\scout_incoming02.wav", file probably missing from disk/repository
+Average_Medal_Enjoyer killed Xerin with shotgun_secondary.
+*DEAD* Xerin :  aww
+Average_Medal_Enjoyer killed rain with tf_projectile_rocket.
+Average_Medal_Enjoyer killed Xerin with tf_projectile_rocket.
+*DEAD* rain :  why did we stutter
+Average_Medal_Enjoyer killed rain with tf_projectile_rocket.
+Average_Medal_Enjoyer, Eddy duarddy captured TODO: Set Name for team #3
+Average_Medal_Enjoyer killed rain wth shotgun_secondary.
+Xerin :  ahh 75 metal teles my beloved
+rain killed Eddy duarddy with nailgun.
+Average_Medal_Enjoyer killed rain with tf_projectile_rocket.
+(DEV) ThatsApplesMate :  i found it
+rain :  found what
+(DEV) ThatsApplesMate :  the beta kill icons >:D
+Average_Medal_Enjoyer :  damien why do i keep lagging
+No caption found for 'medic.yes01'
+rain killed Average_Medal_Enjoyer with nailgun.
+(DEV) ThatsApplesMate :  idk
+rain killed Eddy duarddy with nailgun.
+No caption found for 'soldier.battlecry05
+No caption found for 'scout.moveup01'
+rain :  give engi a nailgun trust
+Entity 622 (class 'obj_dispenser') reported ENTITY_CHANGE_NONE but '"healing_array"' changed.
+No caption found for 'soldier.go01'
+No caption found for 'scout.jeers11'
+No caption found for 'soldier.go02'
+No caption found for 'scout.jeers10'
+No caption found for 'scout.jeers06'
+Xerin :  lmao
+No caption found for 'soldier.yes04'
+No caption found for 'soldier.medic02'
+No caption found for 'scout.helpme03'
+Xerin :  the dispenser hud
+No capion found for 'soldier.painsharp01'
+Xerin :  is broken
+No caption found for 'soldier.painsharp06'
+No caption found for 'scout.painsharp04'
+No caption found for 'scout.painsharp05'
+No caption found for 'soldier.painsharp03'
+Entity 622 (class 'obj_dispenser') reported ENTITY_CHANGE_NONE but '"healing_array"' changed.
+No caption found for 'scout.painsharp03'
+No caption found for 'scout.painsharp01'
+Xerin killed Average_Medal_Enjoyer with shotgun_primary.
+Xerin killed Eddy duarddy with shotgun_primary.
+*DEAD* verage_Medal_Enjoyer :  god that fucking nailgun
+No caption found for 'scout.medic03'
+Xerin :  look at the dispenser
+Xerin :  display
+No caption found for 'scout.painsharp06'
+rain :  you're soldier you cant excuse yousel
+No caption found for 'scout.painsharp01'
+No caption found for 'scout.painsharp03'
+Xerin killed ThatsApplesMate with obj_sentrygun.
+No caption found for 'engineer.incoming02'
+(DEV)  *SPEC* ThatsApplesMate :  wtf
+No caption found for 'engineer.painsharp01'
+Attempted to create unknown particl system type "error"!
+Average_Medal_Enjoyer killed Xerin with tf_projectile_rocket.
+Xerin killed Average_Medal_Enjoyer with obj_sentrygun.
+] condump
