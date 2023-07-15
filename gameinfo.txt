@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game	"Early Fortress 2"
+	game	"Team Fortress 2: Illustrated"
 	title	""
 	gamelogo 1
 	type multiplayer_only
