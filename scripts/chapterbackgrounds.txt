@@ -7,6 +7,6 @@
 "BackgroundMaps"
 {
 	1	"background01"
-	2	"background01"
-	3	"background01"
+	2	"ctf_2fort"
+	3	"tc_hydro"
 }
