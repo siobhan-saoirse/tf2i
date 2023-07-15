@@ -2139,6 +2139,90 @@
 	"wave"		"weapons/draw_primary.wav"
 }
 
+"Weapon_Grenade_Emp.Bounce"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".5"
+	"pitch" 		"96,100"
+	"soundlevel"	"SNDLVL_74dB"
+	"wave"		"weapons/grenade_impact.wav"
+}
+
+"Weapon_Grenade_Nail.Bounce"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".5"
+	"pitch" 		"96,100"
+	"soundlevel"	"SNDLVL_74dB"
+	"wave"		"weapons/grenade_impact.wav"
+}
+
+"Weapon_Grenade_Heal.Bounce"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".5"
+	"pitch" 		"96,100"
+	"soundlevel"	"SNDLVL_74dB"
+	"wave"		"weapons/grenade_impact.wav"
+}
+
+"Weapon_Grenade_Mirv.Bounce"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".5"
+	"pitch" 		"96,100"
+	"soundlevel"	"SNDLVL_74dB"
+	"wave"		"weapons/grenade_impact.wav"
+}
+
+"Weapon_Grenade_MirvBomb.Bounce"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".5"
+	"pitch" 		"96,100"
+	"soundlevel"	"SNDLVL_74dB"
+	"wave"		"weapons/grenade_impact.wav"
+}
+
+"Weapon_Grenade_Caltrop.Bounce"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".5"
+	"pitch" 		"96,100"
+	"soundlevel"	"SNDLVL_74dB"
+	"wave"		"weapons/grenade_impact.wav"
+}
+
+"Weapon_Grenade_Concussion.Bounce"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".5"
+	"pitch" 		"96,100"
+	"soundlevel"	"SNDLVL_74dB"
+	"wave"		"weapons/grenade_impact.wav"
+}
+
+"Weapon_Grenade_Gas.Bounce"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		".5"
+	"pitch" 		"96,100"
+	"soundlevel"	"SNDLVL_74dB"
+	"wave"		"weapons/grenade_impact.wav"
+}
+
+"Weapon_Grenade_Emp.Explode"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_95dB"
+	"pitch"		"PITCH_NORM"
+	"volume"	"1.0"
+	"rndwave"
+	{
+		"wave"		")ambient/energy/weld1.wav"
+		"wave"		")ambient/energy/weld2.wav"
+	}
+}
 // ------------------------------------------------------------------------------------ //
 // DET PACK GRENADE
 // ------------------------------------------------------------------------------------ //
