@@ -14,7 +14,7 @@
 	}
 	"3"
 	{
-		"label" "🔍 Mute Players"
+		"label" "X Mute Players"
 		"command" "OpenPlayerListDialog"
 		"OnlyInGame" "1"
 	} 
@@ -26,7 +26,7 @@
 	}
 	"4"
 	{
-		"label" "🔍 Find Servers" 
+		"label" "✓ Find Servers" 
 		"command" "OpenServerBrowser"
 	} 
 	"5"
