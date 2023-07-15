@@ -515,6 +515,8 @@ Response PlayerYesSoldier
 	scene "scenes/Player/Soldier/low/Yes02.vcd" 
 	scene "scenes/Player/Soldier/low/Yes03.vcd" 
 	scene "scenes/Player/Soldier/low/Yes04.vcd" 
+	scene "scenes/Player/Soldier/low/PositiveVocalization04.vcd" 
+	scene "scenes/Player/Soldier/low/PositiveVocalization05.vcd" 
 }
 Rule PlayerYesSoldier
 {
