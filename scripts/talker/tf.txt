@@ -48,7 +48,7 @@ criterion "IsFiringMinigun" "minigunfiretime" ">0.0" required
 	}
 	rule PyroTauntPlayerSecondary
 	{
-		criteria ConceptPlayerTaunt IsPyro WeaponIsShotgun
+		criteria ConceptPlayerTaunt IsPyro WeaponIsShotgunPyro
 		response PyroTauntSecondary
 	}
 	rule PyroTauntPlayerMelee
@@ -89,7 +89,7 @@ criterion "IsFiringMinigun" "minigunfiretime" ">0.0" required
 	}
 	rule HeavyTauntPlayerSecondary
 	{
-		criteria ConceptPlayerTaunt IsHeavy WeaponIsShotgun
+		criteria ConceptPlayerTaunt IsHeavy WeaponIsShotgunHwg
 		response HeavyTauntSecondary
 	}
 	rule HeavyTauntPlayerMelee

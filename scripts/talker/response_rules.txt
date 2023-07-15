@@ -294,6 +294,8 @@ criterion "IsOnCappableControlPoint"  "OnCappableControlPoint"	"1"   required
 
 criterion "WeaponIsMinigun" "playerweapon" "tf_weapon_minigun" "required"
 criterion "WeaponIsShotgun" "playerweapon" "tf_weapon_shotgun_secondary" "required"
+criterion "WeaponIsShotgunPyro" "playerweapon" "tf_weapon_shotgun_pyro" "required"
+criterion "WeaponIsShotgunHwg" "playerweapon" "tf_weapon_shotgun_hwg" "required"
 criterion "WeaponIsFists" "playerweapon" "tf_weapon_fists" "required"
 criterion "WeaponIsFlamethrower" "playerweapon" "tf_weapon_flamethrower" "required"
 criterion "WeaponIsAxe" "playerweapon" "tf_weapon_fireaxe" "required"

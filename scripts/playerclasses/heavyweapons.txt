@@ -20,7 +20,7 @@ PlayerClass
 
 	// Weapons.
 	"weapon1"		"TF_WEAPON_FISTS"
-	"weapon2"		"TF_WEAPON_SHOTGUN_SECONDARY"
+	"weapon2"		"TF_WEAPON_SHOTGUN_HWG"
 	"weapon3"		"TF_WEAPON_MINIGUN"
 	
 
