@@ -18,12 +18,15 @@
 
 "demoman_grenade"
 {
-	"base"		"metal"
+	"base"		"grenade"
+	"friction"		"0.05"
+	"elasticity"	"2"
+//	"base"		"metal"
 
-	"bulletimpact"	"Grenade.ImpactHard"
-	"scraperough"	"Grenade.ScrapeRough"
-	"scrapesmooth"	"Grenade.ScrapeSmooth"
-	"impacthard"	"Grenade.ImpactHard"
-	"impactsoft"	"Grenade.ImpactSoft"
-	"rolling"	"Grenade.Roll"
+//	"bulletimpact"	"Grenade.ImpactHard"
+//	"scraperough"	"Grenade.ScrapeRough"
+//	"scrapesmooth"	"Grenade.ScrapeSmooth"
+//	"impacthard"	"Grenade.ImpactHard"
+//	"impactsoft"	"Grenade.ImpactSoft"
+//	"rolling"	"Grenade.Roll"
 }
