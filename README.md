@@ -1,4 +1,4 @@
-# tfi
+# tf2i
 Team Fortress 2 Illustrated, postal 3 leak of tf2 but better
 
 ## DO NOT DOWNLOAD WITH ZIP. CLONE THIS REPOSITORY WITH GITHUB DESKTOP. YOU MUST PULL CHANGES FREQUENTLY IN ORDER TO NOT GET "Server uses different class tables" ERRORS.
