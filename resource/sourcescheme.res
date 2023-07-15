@@ -16,7 +16,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"TF2 Build"
+				"name"		"TF2 Professor"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
