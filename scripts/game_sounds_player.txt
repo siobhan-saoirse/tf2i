@@ -995,6 +995,8 @@
 	"volume"	"1"
 	"soundlevel"  	"SNDLVL_75dB"		
 	"wave"	"player/taunt_helmet_hit.wav"
+	"wave"	"player/taunt_helmet_hit2.wav"
+	"wave"	"player/taunt_helmet_hit3.wav"
 }
 
 "Taunt.Soldier03ClothesSwipe"

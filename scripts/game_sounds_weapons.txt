@@ -1535,6 +1535,8 @@
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
 	"wave"		"weapons/shotgun_reload.wav"
+	"wave"		"weapons/shotgun_reload2.wav"
+	"wave"		"weapons/shotgun_reload3.wav"
 }
 
 "Weapon_Shotgun.WorldReload"
@@ -1543,6 +1545,8 @@
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
 	"wave"		"weapons/shotgun_worldreload.wav"
+	"wave"		"weapons/shotgun_worldreload2.wav"
+	"wave"		"weapons/shotgun_worldreload3.wav"
 }
 
 "Weapon_Shotgun.Pump"
