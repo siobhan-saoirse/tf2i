@@ -117,4 +117,7 @@
 	"name" "Vance"
 	"name" "Uriah"
 	"name" "Oppossing Force"
+	"name" "Enforcer"
+	"name" "Manhack"
+	"name"	"DR. HAAAAX!!!"
 }
