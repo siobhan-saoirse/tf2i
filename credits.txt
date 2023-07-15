@@ -4,4 +4,4 @@ Cryptical - Contributor
 rainerlutcha - Contributor
 Lambdagon - Developer
 Average-Medal-Enjoyer - Developer & Contributor
-PF2 Team or TF2C Team - Viewmodels for Tranqulizer and Nailgun
+PF2 Team or TF2C Team - Viewmodels for Tranqulizer and Nailgun  
