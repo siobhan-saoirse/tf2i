@@ -16,7 +16,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"TF2 Professor"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -35,6 +35,6 @@ Scheme
 	CustomFontFiles
 	{
 		"9"		"resource/TF2Build.ttf"
-		"10"		"resource/TF2Professor.ttf"
+		"10"		"resource/TF2Secondary.ttf"
 	}
 }

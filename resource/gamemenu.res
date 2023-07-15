@@ -8,19 +8,19 @@
 	}
 	"2"
 	{
-		"label" "X Disconnect"
+		"label" "- Disconnect"
 		"command" "Disconnect"
 		"OnlyInGame" "1"
 	}
 	"3"
 	{
-		"label" "X Mute Players"
+		"label" "⚠ Mute Players"
 		"command" "OpenPlayerListDialog"
 		"OnlyInGame" "1"
 	} 
 	"3.1"
 	{
-		"label" "---------------------------"
+		"label" "[---------------------------]"
 		"command" ""
 		"OnlyInGame" "1"
 	}
@@ -36,7 +36,7 @@
 	}
 	"5.1"
 	{
-		"label" "---------------------------"
+		"label" "[---------------------------]"
 		"command" ""
 	}
 	"9.2"
@@ -46,38 +46,38 @@
 	}
 	"9.1"
 	{
-		"label" "---------------------------"
+		"label" "[---------------------------]"
 		"command" ""
 	}
 	"9"
 	{
-		"label" "Achievements"
+		"label" "# Achievements"
 		"command" "OpenAchievementsDialog"
 	}
 	"10"
 	{
-		"label" "Stats"
+		"label" "* Stats"
 		"command" "engine showstatsdlg"
 	}
 	"10.1"
 	{
-		"label" "---------------------------"
+		"label" "[---------------------------]"
 		"command" ""
 	}
 	"11"
 	{
-		"label" "#GameUI_Controller"
+		"label" "& Controller Options"
 		"command" "OpenControllerDialog"
 		"ConsoleOnly" "1"
 	}
 	"12"
 	{
-		"label" "🔧 Options"
+		"label" "% Options"
 		"command" "OpenOptionsDialog"
 	}
 	"13"
 	{
-		"label" "X Quit"
+		"label" "- Quit"
 		"command" "Quit"
 	}
 }
