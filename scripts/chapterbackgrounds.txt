@@ -3,12 +3,14 @@
 	1	"background01" 
 	2	"background02"
 	3	"background03"
-	4	"title_blue"
+	4	"background04"
+	5	"title_blue"
 }
 "BackgroundMaps"
 {
 	1	"background01"
 	2	"ctf_2fort"
 	3	"cp_well"
-	4	"tc_hydro"
+	4	"cp_granary"
+	5	"tc_hydro"
 }
