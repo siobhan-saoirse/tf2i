@@ -549,7 +549,7 @@
 	"pitch"		"PITCH_NORM"
 	"rndwave"
 	{
-		"wave"		"#vo/announcer_failed_prepare_sudden_death.mp3"
+		"wave"		"#vo/announcer_failed_prepare_sudden_death.wav"
 	}
 }
 
@@ -561,7 +561,7 @@
 	"pitch"		"PITCH_NORM"
 	"rndwave"
 	{
-		"wave"		"#vo/announcer_failed_stalemate.mp3"
+		"wave"		"#vo/announcer_failed_stalemate.wav"
 	}
 }
 
@@ -584,8 +584,8 @@
 //	"wave"		"#misc/your_team_lost.mp3"
 	"rndwave"
 	{
-		"wave"		"#vo/announcer_you_failed.mp3"
-		"wave"		"#vo/announcer_failure.mp3"
+		"wave"		"#vo/announcer_you_failed.wav"
+		"wave"		"#vo/announcer_failure.wav"
 	}
 }
 
@@ -599,10 +599,9 @@
 //	"wave"		"#misc/your_team_won.mp3"
 	"rndwave"
 	{
-		"wave"		"#vo/announcer_victory.mp3"
-		"wave"		"#vo/announcer_we_succeeded.mp3"
-		"wave"		"#vo/announcer_success.mp3"
-		"wave"		"#vo/announcer_we_succeeded.mp3"
+		"wave"		"#vo/announcer_victory.wav"
+		"wave"		"#vo/announcer_we_succeeded.wav"
+		"wave"		"#vo/announcer_success.wav"
 	}
 }
 
