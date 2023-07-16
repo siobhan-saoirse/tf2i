@@ -111,7 +111,8 @@
 	"volume"	"VOL_NORM"
 	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
-	"wave"		"items/smallmedkit1.wav"
+//	"wave"		"items/smallmedkit1.wav"
+	"wave"		"items/medshot4.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -123,7 +124,8 @@
 	"volume"	"VOL_NORM"
 	"soundlevel"	"SNDLVL_NONE"
 	"pitch"		"PITCH_NORM"
-	"wave"		"items/gunpickup2.wav"
+//	"wave"		"items/gunpickup2.wav"
+	"wave"		"items/ammo_pickup.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -255,7 +257,7 @@
 	"soundlevel"  "SNDLVL_NONE"
 	"pitch"	"PITCH_NORM"
 
-	"wave"	"vo/null.wav"
+	"wave"	"misc/talk.wav"
 }
 
 "Hud.Hint"
@@ -545,7 +547,10 @@
 	"volume"	"1"
 	"soundlevel"	"SNDLVL_140dB"
 	"pitch"		"PITCH_NORM"
-	"wave"		"#misc/your_team_suddendeath.mp3"
+	"rndwave"
+	{
+		"wave"		"#vo/announcer_failed_prepare_sudden_death.mp3"
+	}
 }
 
 "Game.Stalemate"
@@ -554,7 +559,10 @@
 	"volume"	"1"
 	"soundlevel"	"SNDLVL_140dB"
 	"pitch"		"PITCH_NORM"
-	"wave"		"#misc/your_team_stalemate.mp3"
+	"rndwave"
+	{
+		"wave"		"#vo/announcer_failed_stalemate.mp3"
+	}
 }
 
 "Game.Overtime"
@@ -573,7 +581,12 @@
 	"soundlevel"	"SNDLVL_140dB"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"#misc/your_team_lost.mp3"
+//	"wave"		"#misc/your_team_lost.mp3"
+	"rndwave"
+	{
+		"wave"		"#vo/announcer_you_failed.mp3"
+		"wave"		"#vo/announcer_failure.mp3"
+	}
 }
 
 "Game.YourTeamWon"
@@ -583,7 +596,14 @@
 	"soundlevel"	"SNDLVL_140dB"
 	"pitch"		"PITCH_NORM"
 
-	"wave"		"#misc/your_team_won.mp3"
+//	"wave"		"#misc/your_team_won.mp3"
+	"rndwave"
+	{
+		"wave"		"#vo/announcer_victory.mp3"
+		"wave"		"#vo/announcer_we_succeeded.mp3"
+		"wave"		"#vo/announcer_success.mp3"
+		"wave"		"#vo/announcer_we_succeeded.mp3"
+	}
 }
 
 
