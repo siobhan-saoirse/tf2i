@@ -1,0 +1,3 @@
+Objective: Enter the enemy Base and make your way to where their Flag resides. Grab it and bring it back to your Base to capture it. 
+
+Other Notes: Flag carriers drop the Flag when they die. Dropped flags return to their Base after 60 seconds.

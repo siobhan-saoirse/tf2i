@@ -1,0 +1,3 @@
+Objective: The Blu team pushes forward to capture the marked areas. The map is played in three rounds, with the contested areas advancing on the map after each round. The Red team fights to prevent the points from being captured.
+
+Other Notes: Red team cannot regain control of a point once Blu has captured it.
