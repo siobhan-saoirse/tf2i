@@ -13,6 +13,9 @@
 	"Y"			"Impact.Glass"
 	"F"			"Impact.Flesh"
 	"B"			"Impact.BloodyFlesh"
+	"H"			"Impact.AlienFlesh"
+	"A"			"Impact.Antlion"
+	"E"			"Impact.Antlion"
 	"N"			"Impact.Sand"
 	"V"			"Impact.Metal"
 	"D"			"Impact.Dirt"
@@ -106,16 +109,6 @@
 {
 	"decals/scorch1_subrect" "1"
 	"decals/scorch2_subrect" "1"
-}
-
-"footprintL_snow"
-{
-	"decals/footprintL_snow_subrect" "1"
-}
-
-"footprintR_snow"
-{
-	"decals/footprintR_snow_subrect" "1"
 }
 
 "Blood"
