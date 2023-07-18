@@ -15,6 +15,6 @@ stuffcmds
 
 // display the startup level
 // UNCOMMENT THIS TO ENABLE BACKGROUND MAPS
-startupmenu
+//startupmenu
 
 sv_unlockedchapters 99
