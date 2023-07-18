@@ -1,5 +1,46 @@
 "Resource/HudLayout.res"
 {
+	HudHealth
+	{
+		"fieldName"		"HudHealth"
+		"xpos"	"8"
+		"ypos"	"446"
+		"zpos"	"0"
+ 		"wide"	"80"
+		"tall"  "25"
+		"visible" "1"
+		"enabled" "1"
+
+		"PaintBackgroundType"	"2"
+		"bgcolor_override"		"0 0 0 96"
+		
+		"icon_xpos"	"8"
+		"icon_ypos"	"-4"
+		"digit_xpos" "35"
+		"digit_ypos" "-4"
+		"LowHealthColor"	"HudIcon_Red"
+	}
+	
+	HudArmor
+	{
+		"fieldName"		"HudArmor"
+		"xpos"	"148"
+		"ypos"	"446"
+		"zpos"	"1"
+		"wide"	"80"
+		"tall"  "25"
+		"visible" "1"
+		"enabled" "1"
+
+		"PaintBackgroundType"	"2"
+ 		"bgcolor_override"		"0 0 0 96"
+		
+		"icon_xpos"	"8"
+		"icon_ypos"	"-4"
+		"digit_xpos" "34"
+		"digit_ypos" "-4"
+	}
+
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
