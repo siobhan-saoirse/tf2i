@@ -1,0 +1,2 @@
+Objective: Get the enemy flag and prepare to capture it in the gas chambers. The nerve gas will be released once the flag is captured.
+Players in their spawn and gas chambers won't be affected by the deadly nerve gas.
