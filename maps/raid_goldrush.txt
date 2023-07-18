@@ -1,0 +1,15 @@
+Goldrush - Invade/Defend
+
+Objective: Blue team must cap all 3 RED points to
+Red team's Headquarters to win the game. 
+There are two command points on the way 
+which must be secured in order.
+
+Scoring: Red team - 5 points per minute
+	 Blue team - 30 points per capture
+		   - 50 points for HQ
+
+Other Notes: When a capture point is secured, 
+spawn points are revised.
+
+The map is an early version of Goldrush and looks very unfinished.
