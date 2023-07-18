@@ -14,6 +14,8 @@ PlayerClass
 	"armor_max"		"0"
 
 	// Grenades.
+	"grenade1"		"TF_WEAPON_BOTTLE"
+	"grenade2"		"TF_WEAPON_BOTTLE"
 
 	// Weapons.
 //	"weapon3"		"TF_WEAPON_BAT"
