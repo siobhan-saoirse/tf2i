@@ -26,7 +26,7 @@
 	}
 	"4"
 	{
-		"label" "✓ Find Servers" 
+		"label" "✓Find Servers" 
 		"command" "OpenServerBrowser"
 	} 
 	"5"
