@@ -2611,6 +2611,8 @@
 	"volume"		"1.0"
 	"soundlevel"		"SNDLVL_88dB"
 	"wave"			"weapons/sentry_spot.wav"
+	"wave"			"weapons/sentry_spot2.wav"
+	"wave"			"weapons/sentry_spot3.wav"
 }
 
 "Building_Sentrygun.AlertTarget"
