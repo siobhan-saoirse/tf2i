@@ -7,14 +7,17 @@ PlayerClass
 	"name"			"civilian"
 	"model"			"models/player/scout.mdl"
 	"localize_name"	"TF_Class_Name_Civilian"
-	"speed_max"		"240"
-	"health_max"		"50"
+//	"speed_max"		"240"
+//	"health_max"		"50"
+	"speed_max"		"320"
+	"health_max"		"200"
 	"armor_max"		"0"
 
 	// Grenades.
 
 	// Weapons.
-	"weapon3"		"TF_WEAPON_BAT"
+//	"weapon3"		"TF_WEAPON_BAT"
+	"weapon3"		"TF_WEAPON_BOTTLE"
 
 	// Ammo.
 	AmmoMax
