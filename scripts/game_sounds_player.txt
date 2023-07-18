@@ -204,6 +204,33 @@
 	"wave"	"ambient/water/underwater.wav"
 }
 
+"ResupplyLocker.Open"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"1"
+	"soundlevel"  "SNDLVL_75dB"
+	"pitch"	"95,105"
+	"wave"	"items/locker_open.wav"
+}
+
+"ResupplyLocker.Closing"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"1"
+	"soundlevel"  "SNDLVL_75dB"
+	"pitch"	"95,105"
+	"wave"	"items/locker_closing.wav"
+}
+
+"ResupplyLocker.Close"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"1"
+	"soundlevel"  "SNDLVL_75dB"
+	"pitch"	"95,105"
+	"wave"	"items/locker_close.wav"
+}
+
 "Player.PickupWeapon"
 {
 	"channel"	"CHAN_BODY"
