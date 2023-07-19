@@ -24,7 +24,8 @@
 
 	// Model & Animation
 	"viewmodel"			"models/weapons/v_models/v_fist_heavy.mdl"
-	"playermodel"			""
+//	"playermodel"			""
+	"playermodel"			"models/weapons/w_models/w_leadpipe.mdl"
 	"anim_prefix"			"pipe"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
