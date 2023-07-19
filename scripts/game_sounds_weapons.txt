@@ -2936,7 +2936,7 @@
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_74dB"
 //	"wave"		")weapons/teleporter_ready.wav"
-	"wave"		")misc/teleporter_ready.wav"
+	"wave"		")misc/teleport_ready.wav"
 }
 
 "Building_Teleporter.Send"
@@ -2946,7 +2946,7 @@
 	"pitch"		"PITCH_NORM"
 	"volume"	"1.0"
 //	"wave"		")weapons/teleporter_send.wav"
-	"wave"		")misc/teleporter_out.wav"
+	"wave"		")misc/teleport_out.wav"
 }
 
 "Building_Teleporter.Receive"
@@ -2955,7 +2955,7 @@
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_74dB"
 //	"wave"		")weapons/teleporter_receive.wav"
-	"wave"		")misc/teleporter_in.wav"
+	"wave"		")misc/teleport_in.wav"
 }
 
 "Building_Teleporter.Build1"
