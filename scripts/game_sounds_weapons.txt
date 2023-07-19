@@ -2935,7 +2935,8 @@
 	"channel"	"CHAN_ITEM"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_74dB"
-	"wave"		")weapons/teleporter_ready.wav"
+//	"wave"		")weapons/teleporter_ready.wav"
+	"wave"		")misc/teleporter_ready.wav"
 }
 
 "Building_Teleporter.Send"
@@ -2944,7 +2945,8 @@
 	"soundlevel"	"SNDLVL_74dB"
 	"pitch"		"PITCH_NORM"
 	"volume"	"1.0"
-	"wave"		")weapons/teleporter_send.wav"
+//	"wave"		")weapons/teleporter_send.wav"
+	"wave"		")misc/teleporter_out.wav"
 }
 
 "Building_Teleporter.Receive"
@@ -2952,7 +2954,8 @@
 	"channel"	"CHAN_STATIC"
 	"volume"	"1.0"
 	"soundlevel"	"SNDLVL_74dB"
-	"wave"		")weapons/teleporter_receive.wav"
+//	"wave"		")weapons/teleporter_receive.wav"
+	"wave"		")misc/teleporter_in.wav"
 }
 
 "Building_Teleporter.Build1"
