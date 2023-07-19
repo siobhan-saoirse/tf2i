@@ -639,7 +639,12 @@
  	"volume"  "1"
  	"pitch"  "100"
  	"soundlevel"   "SNDLVL_87dB"
-	"wave"  "misc/happy_birthday.wav"
+//	"wave"  "misc/happy_birthday.wav"
+	"rndwave"
+	{
+		"wave"	"misc/party1.wav"
+		"wave"	"misc/party2.wav"
+	}
 }
 
 
