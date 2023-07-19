@@ -24,8 +24,7 @@
 
 	// Model & Animation
 	"viewmodel"			"models/weapons/v_models/v_fireaxe_pyro.mdl"
-//	"playermodel"			"models/weapons/w_models/w_fireaxe.mdl"
-	"playermodel"			"models/weapons/w_models/w_brandingiron.mdl"
+	"playermodel"			"models/weapons/w_models/w_fireaxe.mdl"
 	"anim_prefix"			"brandingiron"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)

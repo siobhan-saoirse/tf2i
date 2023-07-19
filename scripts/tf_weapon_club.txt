@@ -24,17 +24,16 @@
 
 	// Model & Animation
 	"viewmodel"			"models/weapons/v_models/v_machete_sniper.mdl"
-//	"playermodel"			"models/weapons/w_models/w_machete.mdl"
-	"playermodel"			"models/weapons/w_models/w_club.mdl"
+	"playermodel"			"models/weapons/w_models/w_machete.mdl"
 	"anim_prefix"			"club"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
 	{
-		"melee_miss"		"Weapon_Club.Miss"
-		"melee_hit"		"Weapon_Club.HitFlesh"
-		"melee_hit_world"	"Weapon_Club.HitWorld"
-		"burst"			"Weapon_Club.MissCrit"
+		"melee_miss"		"Weapon_Machete.Miss"
+		"melee_hit"		"Weapon_Machete.HitFlesh"
+		"melee_hit_world"	"Weapon_Machete.HitWorld"
+		"burst"			"Weapon_Machete.MissCrit"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.
