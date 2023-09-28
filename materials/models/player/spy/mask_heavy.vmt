@@ -6,7 +6,7 @@
 	
 	"$phong" "1"
 	"$phongboost" ".2"	
-	//"$phongexponent" "10"
+	"$phongexponent" "10"
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
 	"$phongfresnelranges"	"[.7 15 20]"
 	"$halflambert" "1"
