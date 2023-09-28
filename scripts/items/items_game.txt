@@ -2221,7 +2221,7 @@
 					"attribute_class"	"mult_dmg"
 					"value"	"1.2"
 				}
-				"Projectile speed decreased"
+				"Projectile speed increased"
 				{
 					"attribute_class"	"mult_projectile_speed"
 					"value"	"1.8"
