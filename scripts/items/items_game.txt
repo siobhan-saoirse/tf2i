@@ -2403,6 +2403,7 @@
 			"image_inventory"	"backpack/player/items/spy/firesuit"
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
+			"model_player"		"models/empty.mdl"
 			"used_by_classes"
 			{
 				"spy"	"1"
