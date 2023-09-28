@@ -2416,8 +2416,8 @@
 					"value"	"0.1"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
-			"drop_sound"	"ui/item_heavy_gun_drop.wav"
+			"mouse_pressed_sound"	"ui/item_hat_drop.wav"
+			"drop_sound"	"ui/item_hat_drop.wav"
 		}
 		"735"
 		{
