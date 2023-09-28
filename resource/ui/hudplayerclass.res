@@ -77,7 +77,7 @@
 		"enabled"		"1"
 		"image"			"../hud/class_spy_outline"
 		"scaleImage"	"1"	
-	}		
+	}		 
 	"PlayerStatusClassImageBG"
 	{
 		"ControlName"	"CTFImagePanel"

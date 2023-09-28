@@ -39,23 +39,6 @@
 		"teambg_5"		"../hud/ammo_yellow_bg"
 		"teambg_5_lodef"	"../hud/ammo_yellow_bg_lodef"	
 	}	
-	"HudColoredBG"
-	{
-		"ControlName"	"CTFImageColoredPanel"
-		"fieldName"		"HudColoredBG"
-		"xpos"			"24"
-		"xpos_minmode"	"48"
-		"ypos"			"10"
-		"ypos_minmode"	"17"
-		"zpos"			"-2"
-		"wide"			"90"
-		"tall"			"45"
-		"visible"		"1"
-		"enabled"		"1"
-		"alpha"			"230"
-		"image"			"../hud/ammo_custom_bg"
-		"scaleImage"	"1"	
-	}
 	"HudWeaponLowAmmoImage"
 	{
 		"ControlName"	"ImagePanel"
