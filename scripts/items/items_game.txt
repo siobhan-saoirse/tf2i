@@ -2413,7 +2413,7 @@
 			"item_class"	"tf_weapon_shovel"
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
-			"item_type_name"	"#TF_Weapon_Medigun"
+			"item_type_name"	"#TF_Weapon_Pickaxe"
 			"item_name"	"#TF_Beta_Split_Equalizer"
 			"item_slot"	"melee"
 			"item_quality"	"normal"
@@ -2581,6 +2581,69 @@
 			}
 			"mouse_pressed_sound"	"ui/item_hat_drop.wav"
 			"drop_sound"	"ui/item_hat_drop.wav"
+		}
+		"41"
+		{
+			"capabilities"
+			{
+				"nameable"	"1"
+			}
+			"tags"
+			{
+				"can_deal_gib_damage"	"1"
+				"can_deal_damage"	"1"
+				"can_be_equipped_by_soldier_or_demo"	"1"
+				"can_deal_posthumous_damage"	"1"
+				"can_deal_critical_damage"	"1"
+				"can_deal_long_distance_damage"	"1"
+			}
+			"item_class"	"tf_weapon_club"
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
+			"item_type_name"	"#TF_Weapon_Club"
+			"item_name"	"#TF_Beta_Sniper_Club"
+			"item_slot"	"melee"
+			"item_quality"	"normal"
+			"baseitem"	"0"
+			"show_in_armory"	"1"
+			"min_ilevel"	"1"
+			"max_ilevel"	"1"
+			"image_inventory" "backpack/weapons/c_models/c_scimitar/c_scimitar"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"inspect_panel_dist" 			  "50"			
+			"model_player"	"models/workshop/weapons/c_models/c_scimitar/c_scimitar.mdl"
+			"attach_to_hands"	"1"
+			"attach_to_hands" "1"
+			"used_by_classes"
+			{
+				"sniper"	"1"
+			}
+			"attributes"
+			{
+				"provide on active"
+				{
+					"attribute_class"	"provide_on_active"
+					"value"	"1.0"
+				}
+				"reduced_healing_from_medics"
+				{
+					"attribute_class"	"mult_healing_from_medics"
+					"value"	"0.1"
+				}
+				"move speed bonus"
+				{
+					"attribute_class"	"mult_player_movespeed"
+					"value"	"1.3"
+				}
+				"damage bonus"
+				{
+					"attribute_class"	"mult_dmg"
+					"value"	"1.25"
+				}
+			}
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
+			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"735"
 		{
