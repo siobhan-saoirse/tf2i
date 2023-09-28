@@ -2149,8 +2149,9 @@
 			"image_inventory"	"backpack/weapons/c_models/c_w_ludmila/c_w_ludmila"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
-			"model_world"	"models/weapons/c_models/c_minigun/c_minigun_natascha.mdl"
+			"model_player"	"models/weapons/c_models/c_minigun/c_minigun_natascha.mdl"
 			"show_in_armory"	"1"
+			"attach_to_hands"	"1"
 			"baseitem"	"0"
 			"item_name"	"#TF_Ludmila"
 			"visuals"
@@ -2223,7 +2224,7 @@
 				"Projectile speed decreased"
 				{
 					"attribute_class"	"mult_projectile_speed"
-					"value"	"0.75"
+					"value"	"1.8"
 				}
 				"Blast radius decreased"
 				{
