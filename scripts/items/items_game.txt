@@ -2608,7 +2608,7 @@
 			"show_in_armory"	"1"
 			"min_ilevel"	"1"
 			"max_ilevel"	"1"
-			"image_inventory" "backpack/weapons/c_models/c_scimitar/c_scimitar"
+			"image_inventory" "backpack/workshop/weapons/c_models/c_scimitar/c_scimitar"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
 			"inspect_panel_dist" 			  "50"			
