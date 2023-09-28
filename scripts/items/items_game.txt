@@ -2621,21 +2621,6 @@
 			}
 			"attributes"
 			{
-				"provide on active"
-				{
-					"attribute_class"	"provide_on_active"
-					"value"	"1.0"
-				}
-				"reduced_healing_from_medics"
-				{
-					"attribute_class"	"mult_healing_from_medics"
-					"value"	"0.1"
-				}
-				"move speed bonus"
-				{
-					"attribute_class"	"mult_player_movespeed"
-					"value"	"1.3"
-				}
 				"damage bonus"
 				{
 					"attribute_class"	"mult_dmg"
