@@ -2631,6 +2631,51 @@
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
+		"42"
+		{
+			// tmp model
+			"capabilities"
+			{
+				"nameable"	"1"
+			}
+			"tags"
+			{
+				"can_deal_gib_damage"	"1"
+				"can_deal_damage"	"1"
+				"can_be_equipped_by_soldier_or_demo"	"1"
+				"can_deal_posthumous_damage"	"1"
+				"can_deal_critical_damage"	"1"
+				"can_deal_long_distance_damage"	"1"
+			}
+			"item_class"	"tf_weapon_club"
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
+			"item_type_name"	"#TF_Weapon_Club2"
+			"item_name"	"#TF_Weapon_Club2"
+			"item_slot"	"melee"
+			"anim_slot"	"melee_allclass"
+			"item_quality"	"normal"
+			"baseitem"	"0"
+			"show_in_armory"	"1"
+			"min_ilevel"	"1"
+			"max_ilevel"	"1"	
+			"image_inventory"	"backpack/weapons/c_models/c_wooden_bat/c_wooden_bat"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"model_player"	"models/weapons/c_models/c_wooden_bat/c_wooden_bat.mdl"
+			"attach_to_hands"	"1"
+			"used_by_classes"
+			{
+				"sniper"	"1"
+			}
+			"visuals"
+			{
+				"sound_melee_hit"	"Weapon_BaseballBat.HitFlesh"
+				"sound_melee_hit_world"	"Weapon_BaseballBat.HitWorld"
+			}
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
+			"drop_sound"	"ui/item_heavy_gun_drop.wav"
+		}
 		"735"
 		{
 			"name"	"TF_WEAPON_BUILDER_SPY"
