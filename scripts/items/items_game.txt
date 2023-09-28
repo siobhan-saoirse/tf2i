@@ -2390,7 +2390,7 @@
 				"can_deal_critical_damage"	"1"
 				"can_deal_long_distance_damage"	"1"
 			}
-			"item_class"	"tf_wearable"
+			"item_class"	"tf_weapon_invis"
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
 			"item_name"	"#TF_Suit"
@@ -2403,7 +2403,9 @@
 			"image_inventory"	"backpack/player/items/spy/firesuit"
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
-			"model_player"		"models/empty.mdl"
+			"attach_to_hands"	"0"
+			"model_player"	"models/weapons/v_models/v_watch_spy.mdl"
+			"model_world"		"models/empty.mdl"
 			"used_by_classes"
 			{
 				"spy"	"1"
