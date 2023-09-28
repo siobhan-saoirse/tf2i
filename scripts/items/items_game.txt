@@ -360,7 +360,7 @@
 			"drop_type"	"none"
 			"craft_class"	"hat"
 			"craft_material_type"	"hat"
-			"mouse_pressed_sound"	"ui/item_default_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_default_drop.wav"
 			"drop_sound"	"ui/item_default_drop.wav"
 		}
 		"misc"
@@ -384,7 +384,7 @@
 					"hat"	"1"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_hat_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_hat_drop.wav"
 			"drop_sound"	"ui/item_hat_drop.wav"
 		}
 		"taunt"
@@ -443,7 +443,7 @@
 			"item_type_name"	"#TF_Wearable_Hat"
 			"item_slot"	"head"
 			"equip_region"	"hat"
-			"mouse_pressed_sound"	"ui/item_hat_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_hat_drop.wav"
 			"drop_sound"	"ui/item_hat_drop.wav"
 		}
 		"mask"
@@ -529,7 +529,7 @@
 				"sound_special2"	"MVM.GiantHeavyGunWindDown"
 				"sound_special3"	"MVM.GiantHeavyGunSpin"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_rocketlauncher"
@@ -573,7 +573,7 @@
 				"sound_burst"	"MVM.GiantSoldierRocketShootCrit"
 				"sound_special1"	"MVM.GiantSoldierRocketExplode"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_stickybomb_launcher"
@@ -612,7 +612,7 @@
 			{
 				"demoman"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_grenade_launcher"
@@ -650,7 +650,7 @@
 			{
 				"demoman"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_flamethrower"
@@ -689,7 +689,7 @@
 			{
 				"pyro"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_medigun"
@@ -736,7 +736,7 @@
 					"value"	"2"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_knife"
@@ -771,7 +771,7 @@
 			{
 				"spy"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_knife_small_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_knife_small_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 		"weapon_wrench"
@@ -820,7 +820,7 @@
 					"value"	"0"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 		"weapon_scattergun"
@@ -856,7 +856,7 @@
 			{
 				"scout"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_sniperrifle"
@@ -892,7 +892,7 @@
 			{
 				"sniper"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_bat"
@@ -926,7 +926,7 @@
 			{
 				"scout"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 		"weapon_shotgun"
@@ -955,7 +955,7 @@
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
 			"model_world"	"models/weapons/w_models/w_shotgun.mdl"
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 			"model_player_per_class"
 			{
@@ -1024,7 +1024,7 @@
 			"visuals"
 			{
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 		"weapon_flaregun"
@@ -1078,7 +1078,7 @@
 					"value"	"1"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 			"xifier_class_remap"	"flaregun"
 		}
@@ -1135,7 +1135,7 @@
 				}
 			}
 			"mouse_pressed_sound"	"ui/item_sandwich_drop.wav"
-			"drop_sound"	"ui/item_sandwich_pickup.wav"
+			"drop_sound"	"ui/item_sandwich_drop.wav"
 		}
 		"weapon_huntsman"
 		{
@@ -1201,7 +1201,7 @@
 					"arrows"	"1"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_wood_pole_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_wood_pole_drop.wav"
 			"drop_sound"	"ui/item_wood_pole_drop.wav"
 		}
 		"weapon_crowbar"
@@ -1236,7 +1236,7 @@
 			{
 				"mercenary"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 		"weapon_nailgun"
@@ -1275,7 +1275,7 @@
 				"scout"	"primary"
 				"mercenary"	"secondary"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"weapon_tranq"
@@ -1321,7 +1321,7 @@
 					"value"	"4.0"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
 	}
@@ -1376,7 +1376,7 @@
 			{
 				"demoman"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_bottle_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_bottle_drop.wav"
 			"drop_sound"	"ui/item_bottle_drop.wav"
 		}
 		"2"
@@ -1411,7 +1411,7 @@
 			{
 				"pyro"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 		"3"
@@ -1446,7 +1446,7 @@
 			{
 				"sniper"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_knife_small_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_knife_small_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 		"4"
@@ -1541,7 +1541,7 @@
 			{
 				"soldier"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_shovel_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_shovel_drop.wav"
 			"drop_sound"	"ui/item_shovel_drop.wav"
 		}
 		"7"
@@ -1582,7 +1582,7 @@
 			{
 				"medic"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 		"9"
@@ -1688,7 +1688,7 @@
 			{
 				"sniper"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
 		"17"
@@ -1725,7 +1725,7 @@
 			{
 				"medic"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
 		"18"
@@ -1787,7 +1787,7 @@
 				"engineer"	"1"
 				"mercenary"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
 		"23"
@@ -1825,7 +1825,7 @@
 			{
 				"scout"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
 		"24"
@@ -1862,7 +1862,7 @@
 			{
 				"spy"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
 		"25"
@@ -1911,7 +1911,7 @@
 					"value"	"60"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 			"visuals"
 			{
@@ -1946,7 +1946,7 @@
 			{
 				"engineer"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 			"visuals"
 			{
@@ -2007,7 +2007,7 @@
 			{
 				"engineer"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 			"visuals"
 			{
@@ -2062,7 +2062,7 @@
 					"value"	"58"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_watch_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_watch_drop.wav"
 			"drop_sound"	"ui/item_watch_drop.wav"
 		}
 		"31"
@@ -2099,7 +2099,7 @@
 			{
 				"scout"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
 		"32"
@@ -2137,7 +2137,7 @@
 			{
 				"spy"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_light_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
 		"33"
@@ -2173,7 +2173,7 @@
  					"model" "models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl"
  				}
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
 		}
 
@@ -2206,28 +2206,19 @@
 			"image_inventory"	"backpack/weapons/c_models/c_directhit/c_directhit"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
-			"attach_to_hands"	"1"
-			"model_player"	"models/weapons/c_models/c_directhit/c_directhit.mdl"
+			"attach_to_hands"	"0"
+			"model_world"	"models/weapons/c_models/c_directhit/c_directhit.mdl"
+			"model_player"	"models/weapons/v_models/v_rocketlauncher_soldier.mdl"
 			"used_by_classes"
 			{
 				"soldier"	"1"
 			}
 			"attributes"
 			{
-				"damage penalty"
-				{
-					"attribute_class"	"mult_dmg"
-					"value"	"0.75"
-				}
-				"Projectile speed increased"
-				{
-					"attribute_class"	"mult_projectile_speed"
-					"value"	"1.3"
-				}
-				"minicritboost on kill"
+				"damage bonus"
 				{
 					"attribute_class"	"add_onkill_minicritboost_time"
-					"value"	"6.0"
+					"value"	"1.2"
 				}
 			}
 			"visuals"
@@ -2267,7 +2258,7 @@
 			{
 				"spy"	"1"
 			}
-			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
 		}
 	}
