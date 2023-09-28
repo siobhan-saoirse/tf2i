@@ -29,8 +29,7 @@ PlayerClass
 	// Buildables
 	"buildable1"	"OBJ_SENTRYGUN"
 	"buildable2"	"OBJ_DISPENSER"
-	"buildable3"	"OBJ_TELEPORTER_ENTRANCE"
-	"buildable4"	"OBJ_TELEPORTER_EXIT"
+	"buildable3"	"OBJ_TELEPORTER"
 	
 	AmmoMax
 	{
