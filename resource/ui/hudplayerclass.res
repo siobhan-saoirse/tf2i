@@ -106,23 +106,4 @@
 		"teambg_5"		"../hud/character_yellow_bg"
 		"teambg_5_lodef"	"../hud/character_yellow_bg_lodef"
 	}	
-	"HudColoredBG"
-	{
-		"ControlName"	"CTFImageColoredPanel"
-		"fieldName"		"HudColoredBG"
-		"xpos"			"9"		[$WIN32]
-		"xpos_minmode"	"-10"		[$WIN32]
-		"ypos"			"r60"	[$WIN32]
-		"ypos_minmode"		"r40"	[$WIN32]
-		"xpos"			"41"	[$X360]
-		"ypos"			"r82"	[$X360]
-		"zpos"			"1"		
-		"wide"			"100"
-		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
-		"alpha"			"230"
-		"image"			"../hud/character_custom_bg"
-		"scaleImage"	"1"	
-	}
 }
