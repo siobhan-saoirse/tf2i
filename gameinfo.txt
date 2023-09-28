@@ -69,6 +69,7 @@
 			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_textures.vpk"
 			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_sound_vo_english.vpk"
 			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_sound_misc.vpk"
+			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_misc.vpk"
 			game				"|all_source_engine_paths|..\Counter-Strike Source\cstrike\cstrike_pak.vpk"
 		}
 	}
