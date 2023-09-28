@@ -486,26 +486,6 @@
 				"imagewidth"		"55"
 			}
 		}
-	
-		"merc"
-		{
-			"ControlName"		"CTFButton"
-			"fieldName"			"merc"
-			"scaleimage"		"0"	
-			"visible"			"1"
-			"enabled"			"1"
-			"command"			"select_merc"
-			"labelText" 		""
-			"image_armedcolor"		"HudProgressBarActive"
-			"bordervisible"		"0"
-			
-			"SubImage"
-			{
-				"image" 			"class_icons/allclass"
-				"scaleImage"		"1"
-				"imagewidth"		"55"
-			}
-		}
 	}
 
 	
