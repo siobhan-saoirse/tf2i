@@ -7,6 +7,7 @@ PlayerClass
 	"name"			"sniper"
 	"model"			"models/player/sniper.mdl"
 	"model_hwm"		"models/player/hwm/sniper.mdl"
+	"model_hands"		"models/weapons/c_models/c_sniper_arms.mdl"
 	"localize_name"	"TF_Class_Name_Sniper"
 	"speed_max"		"300"
 //	"health_max"		"95"

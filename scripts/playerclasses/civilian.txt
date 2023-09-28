@@ -6,6 +6,7 @@ PlayerClass
 	// Attributes.
 	"name"			"civilian"
 	"model"			"models/player/scout.mdl"
+	"model_hands"		"models/weapons/c_models/c_medic_arms.mdl"
 	"localize_name"	"TF_Class_Name_Civilian"
 //	"speed_max"		"240"
 //	"health_max"		"50"

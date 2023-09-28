@@ -7,6 +7,7 @@ PlayerClass
 	"name"			"scout"
 	"model"			"models/player/scout.mdl"
 	"model_hwm"		"models/player/hwm/scout.mdl"
+	"model_hands"		"models/weapons/c_models/c_scout_arms.mdl"
 	"localize_name"	"TF_Class_Name_Scout"
 	"speed_max"		"450"
 //	"speed_max"		"400"

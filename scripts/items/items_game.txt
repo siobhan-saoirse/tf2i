@@ -2206,9 +2206,8 @@
 			"image_inventory"	"backpack/weapons/c_models/c_directhit/c_directhit"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
-			"attach_to_hands"	"0"
-			"model_world"	"models/weapons/c_models/c_directhit/c_directhit.mdl"
-			"model_player"	"models/weapons/v_models/v_rocketlauncher_soldier.mdl"
+			"attach_to_hands"	"1"
+			"model_player"	"models/weapons/c_models/c_directhit/c_directhit.mdl"
 			"used_by_classes"
 			{
 				"soldier"	"1"
@@ -2217,7 +2216,7 @@
 			{
 				"damage bonus"
 				{
-					"attribute_class"	"add_onkill_minicritboost_time"
+					"attribute_class"	"mult_dmg"
 					"value"	"1.2"
 				}
 			}
