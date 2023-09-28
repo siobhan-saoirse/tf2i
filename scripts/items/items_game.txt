@@ -2085,7 +2085,7 @@
 			"craft_material_type"	"weapon"
 			"item_type_name"	"#TF_Weapon_Nailgun"
 			"item_name"	"#TF_Weapon_Nailgun"
-			"item_slot"	"secondary"
+			"item_slot"	"primary"
 			"item_quality"	"normal"
 			"show_in_armory"	"1"
 			"min_ilevel"	"1"
