@@ -2497,12 +2497,6 @@
 					"value" "0.67"
 				}
 			}
-			"visuals"
-			{
-				"sound_melee_miss"	"Weapon_PickAxe.Swing"
-				"sound_melee_hit"	"Weapon_PickAxe.HitFlesh"
-				"sound_burst"		"Weapon_PickAxe.SwingCrit"
-			}
 			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
