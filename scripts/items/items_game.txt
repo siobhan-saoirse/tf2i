@@ -2673,7 +2673,7 @@
 				"sound_melee_hit"	"Weapon_BaseballBat.HitFlesh"
 				"sound_melee_hit_world"	"Weapon_BaseballBat.HitWorld"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
+			"mouse_pressed_sound"	"ui/item_wood_pole_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
 		"735"
