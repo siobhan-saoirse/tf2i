@@ -38,7 +38,7 @@
 	}
 	"soldier"
 	{
-		"primary"		"0"
+		"primary"		"1"
 		"secondary"		"0"
 		"melee"		"0"
 		"pda"		"0"
@@ -74,7 +74,7 @@
 	}
 	"heavy"
 	{
-		"primary"		"0"
+		"primary"		"1"
 		"secondary"		"0"
 		"melee"		"0"
 		"pda"		"0"
