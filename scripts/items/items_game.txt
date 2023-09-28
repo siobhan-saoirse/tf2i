@@ -2228,6 +2228,57 @@
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 		}
+		"35"
+		{
+			"capabilities"
+			{
+				"nameable"	"1"
+			}
+			"tags"
+			{
+				"can_deal_gib_damage"	"1"
+				"can_deal_damage"	"1"
+				"can_be_equipped_by_soldier_or_demo"	"1"
+				"can_deal_posthumous_damage"	"1"
+				"can_deal_critical_damage"	"1"
+				"can_deal_long_distance_damage"	"1"
+			}
+			"item_class"	"tf_weapon_shotgun"
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
+			"item_type_name"	"#TF_Weapon_Shotgun"
+			"item_name"	"#TF_Beta_Pocket_Shotgun"
+			"item_slot"	"secondary"
+			"item_quality"	"normal"
+			"baseitem"	"0"
+			"show_in_armory"	"1"
+			"min_ilevel"	"1"
+			"max_ilevel"	"1"
+			"image_inventory"	"backpack/weapons/w_models/w_shotgun"
+			"image_inventory_size_w"		"128" 
+			"image_inventory_size_h"		"82"
+			"attach_to_hands"	"1"
+			"model_player"	"models/weapons/c_models/c_shotgun/c_shotgun.mdl"
+			"used_by_classes"
+			{
+				"soldier"	"1"
+			}
+			"attributes"
+			{
+				"damage bonus"
+				{
+					"attribute_class"	"mult_dmg"
+					"value"	"1.2"
+				}
+			}
+			"visuals"
+			{
+				"sound_single_shot"	"Weapon_RPG_DirectHit.Single"
+				"sound_burst"	"Weapon_RPG_DirectHit.SingleCrit"
+			}
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
+			"drop_sound"	"ui/item_heavy_gun_drop.wav"
+		}
 		"735"
 		{
 			"name"	"TF_WEAPON_BUILDER_SPY"
