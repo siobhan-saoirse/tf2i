@@ -1,0 +1,44 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$baseTexture" "hud\class_zombiecustom"
+	"$envmap" "models/items/berserk_glow"
+	"$envmapmask" "hud\class_merccustom_mask"
+//	"$detail" "hud\class_merccustom_detail"
+//	"$detailscale" 1
+//	"$detailblendmode" 2
+	"$vertexcolor" 1
+
+	"$envmapoptional" 80
+
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+
+	"$colortint_base"		"{180 180 180}"
+	"$envmaptint"		"{180 180 180}"
+	"$envmaptint_mul"		"[1.5 1.5 1.5]"
+	"$colortint_tmp"		"[0 0 0]"
+
+	"Proxies"
+	{
+		"LocalPlayerTintColor"
+		{
+			"resultVar"		"$colortint_tmp"
+		}
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"		"$colortint_tmp"
+			"srcVar2"		"$colortint_base"
+			"resultVar"		"$envmaptint"
+		}
+//		"Multiply"
+//		{
+//			"srcVar1"		"$envmaptint"
+//			"srcVar2"		"$envmaptint_mul"
+//			"resultVar"		"$envmaptint"
+//		}
+	}
+}
+
+

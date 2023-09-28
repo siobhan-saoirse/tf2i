@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "HUD/objectives_bloodmoney_meter_left"
+	$translucent 1
+	"$vertexcolor" 1
+
+}

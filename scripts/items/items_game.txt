@@ -2079,7 +2079,7 @@
 				"can_deal_long_distance_damage"	"1"
 			}
 			"first_sale_date"	"2010/09/29"
-			"item_class"	"tf_weapon_smg"
+			"item_class"	"tf_weapon_nailgun"
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
 			"item_type_name"	"#TF_Weapon_Nailgun"
@@ -2093,7 +2093,7 @@
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
 			"model_world"	"models/weapons/w_models/w_nailgun.mdl"
-			"model_player"	"models/weapons/v_models/v_nailgun_scout.mdl"
+			"model_player"	"models/weapons/v_models/v_syringegun_medic.mdl"
 			"attach_to_hands"	"0"
 			"used_by_classes"
 			{
@@ -2121,7 +2121,8 @@
 			"craft_material_type"	"weapon"
 			"item_type_name"	"#TF_Weapon_Tranq"
 			"item_name"	"#TF_Weapon_Tranq"
-			"item_slot"	"primary"
+			"item_slot"	"secondary"
+			"anim_slot"	"primary"
 			"item_quality"	"normal"
 			"min_ilevel"	"1"
 			"max_ilevel"	"1"
@@ -2130,7 +2131,7 @@
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
 			"model_world"	"models/weapons/w_models/w_tranq.mdl"
-			"model_player"	"models/weapons/v_models/v_tranq_spy.mdl"
+			"model_player"	"models/weapons/v_models/v_revolver_spy.mdl"
 			"attach_to_hands"	"0"
 			"used_by_classes"
 			{
