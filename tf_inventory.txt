@@ -1,6 +1,6 @@
 "Inventory"
 {
-	"Undefined"
+	"undefined"
 	{
 		"primary"		"0"
 		"secondary"		"0"
@@ -14,7 +14,7 @@
 	}
 	"scout"
 	{
-		"primary"		"0"
+		"primary"		"1"
 		"secondary"		"0"
 		"melee"		"0"
 		"pda"		"0"
@@ -99,7 +99,7 @@
 	"spy"
 	{
 		"primary"		"0"
-		"secondary"		"0"
+		"secondary"		"1"
 		"melee"		"0"
 		"pda"		"0"
 		"pda2"		"0"

@@ -89,3 +89,4 @@ tf_coop_lambda_gamestats.dat
 *.ztmp
 sound/sound.cache
 sound/sound.cache
+tf_inventory.txt
