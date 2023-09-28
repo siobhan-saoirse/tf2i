@@ -3,7 +3,7 @@
 //	game	"Team Fortress 2: Illustrated"
 	game 	"Early Fortress 2"
 	title	""
-	gamelogo 1
+	gamelogo 0
 	type multiplayer_only
 	nomodels 1
 	nohimodel 1
@@ -65,10 +65,10 @@
 			// The map search pack is mounted at the top of the search path list,
 			// but only while you are connected that server and on that map.
 			game+download			|gameinfo_path|download
-			game				"|all_source_engine_paths|..\Team Fortress 2\tf"
-			game				"|all_source_engine_paths|..\Team Fortress 2\tf\tf2_misc.vpk"
-			game				"|all_source_engine_paths|..\Team Fortress 2\tf\tf2_sound_misc.vpk"
-			game				"|all_source_engine_paths|..\Team Fortress 2\tf\tf2_textures.vpk"
+			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf"
+			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_textures.vpk"
+			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_sound_vo_english.vpk"
+			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_sound_misc.vpk"
 			game				"|all_source_engine_paths|..\Counter-Strike Source\cstrike\cstrike_pak.vpk"
 		}
 	}

@@ -54,7 +54,9 @@
 		"image"			"../hud/class_spyred"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/class_spyred"
-		"teambg_3"		"../hud/class_spyblue"			
+		"teambg_3"		"../hud/class_spyblue"	
+		"teambg_4"		"../hud/class_spygreen"
+		"teambg_5"		"../hud/class_spyyellow"			
 	}	
 	"PlayerStatusSpyOutlineImage"
 	{
@@ -91,11 +93,36 @@
 		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/character_red_bg"
+		"image"			"../hud/character_black_bg"
 		"scaleImage"	"1"	
+		"teambg_0"		"../hud/character_null_bg"
+		"teambg_1"		"../hud/character_black_bg"
 		"teambg_2"		"../hud/character_red_bg"
 		"teambg_2_lodef"	"../hud/character_red_bg_lodef"
 		"teambg_3"		"../hud/character_blue_bg"
 		"teambg_3_lodef"	"../hud/character_blue_bg_lodef"
+		"teambg_4"		"../hud/character_green_bg"
+		"teambg_4_lodef"	"../hud/character_green_bg_lodef"
+		"teambg_5"		"../hud/character_yellow_bg"
+		"teambg_5_lodef"	"../hud/character_yellow_bg_lodef"
+	}	
+	"HudColoredBG"
+	{
+		"ControlName"	"CTFImageColoredPanel"
+		"fieldName"		"HudColoredBG"
+		"xpos"			"9"		[$WIN32]
+		"xpos_minmode"	"-10"		[$WIN32]
+		"ypos"			"r60"	[$WIN32]
+		"ypos_minmode"		"r40"	[$WIN32]
+		"xpos"			"41"	[$X360]
+		"ypos"			"r82"	[$X360]
+		"zpos"			"1"		
+		"wide"			"100"
+		"tall"			"50"
+		"visible"		"1"
+		"enabled"		"1"
+		"alpha"			"230"
+		"image"			"../hud/character_custom_bg"
+		"scaleImage"	"1"	
 	}
 }

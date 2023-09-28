@@ -41,8 +41,8 @@
 	}
 	"9.2"
 	{
-		"label" "Character and Loadout Menu (coming soon)"
-		"command" ""
+		"label" "# Character and Loadout Menu"
+		"command" "engine openloadout"
 	}
 	"9.1"
 	{

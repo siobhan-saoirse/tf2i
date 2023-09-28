@@ -18,7 +18,7 @@
 	
 	"titlelabel"
 	{
-		"ControlName"		"CTFLabel"
+		"ControlName"		"CExLabel"
 		"fieldName"			"titlelabel"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -33,7 +33,7 @@
 
 	"Skip" [$WIN32] 
 	{
-		"ControlName"		"CTFButton"
+		"ControlName"		"CExButton"
 		"fieldName"		"Skip"
 		"xpos"			"r190"
 		"xpos_lodef"			"r222"
@@ -60,7 +60,7 @@
 	
 	"Back" [$WIN32] 
 	{
-		"ControlName"	"CTFButton"
+		"ControlName"	"CExButton"
 		"fieldName"		"Back"
 		"xpos"			"40"
 		"xpos_hidef"			"50"
@@ -101,9 +101,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
-		"fillcolor"		"0 0 0 180"
+		"image"			"loadout_bottom_gradient"
+		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
-	}		
+	}			
 	
 	"VideoPanel"
 	{
@@ -173,7 +174,7 @@
 	
 	"VideoCaption"
 	{
-		"ControlName"	"CTFLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"VideoCaption"
 		"xpos"			"c-145"
 		"ypos"			"c40"

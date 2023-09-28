@@ -1,0 +1,3 @@
+"Resource/UI/HudCondStatus.res"
+{
+}
