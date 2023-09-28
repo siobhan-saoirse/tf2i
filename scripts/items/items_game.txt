@@ -2220,6 +2220,21 @@
 					"attribute_class"	"mult_dmg"
 					"value"	"1.2"
 				}
+				"Projectile speed decreased"
+				{
+					"attribute_class"	"mult_projectile_speed"
+					"value"	"0.75"
+				}
+				"Blast radius decreased"
+				{
+					"attribute_class"	"mult_explosion_radius"
+					"value"	"0.75"
+				}
+				"Reload time increased"
+				{
+					"attribute_class"	"mult_reload_time"
+					"value"	"1.25"
+				}
 			}
 			"visuals"
 			{
@@ -2276,6 +2291,11 @@
 				{
 					"attribute_class"	"mult_deploy_time"
 					"value"	"1.3"
+				}
+				"crit mod disabled"
+				{
+					"attribute_class"	"mult_crit_chance"
+					"value"	"0.0"
 				}
 			}
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
@@ -2497,6 +2517,11 @@
 					"attribute_class"	"mult_dmg_vs_buildings"
 					"value" "0.67"
 				}
+				"crit mod disabled"
+				{
+					"attribute_class"	"mult_crit_chance"
+					"value"	"0.0"
+				}
 			}
 			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
@@ -2520,7 +2545,7 @@
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
 			"item_name"	"#TF_Suit"
-			"item_slot"	"secondary"
+			"item_slot"	"pda2"
 			"item_quality"	"normal"
 			"baseitem"	"0"
 			"show_in_armory"	"1"
@@ -2542,6 +2567,16 @@
 				{
 					"attribute_class"	"mult_dmgtaken_from_fire"
 					"value"	"0.1"
+				}
+				"dmg taken increased"
+				{
+					"attribute_class"	"mult_dmgtaken"
+					"value"	"1.5"
+				}
+				"move speed penalty"
+				{
+					"attribute_class"	"mult_player_movespeed"
+					"value"	"0.8"
 				}
 			}
 			"mouse_pressed_sound"	"ui/item_hat_drop.wav"
