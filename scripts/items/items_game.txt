@@ -2877,7 +2877,7 @@
 				"sound_special1"	"Weapon_BackBurner.FireLoop"
 				"sound_burst"	"Weapon_BackBurner.FireLoopCrit"
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
 		}
 		"47"
@@ -2929,7 +2929,7 @@
 					"value"	"1.2"
 				}
 			}
-			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
 		}
 		"48"
