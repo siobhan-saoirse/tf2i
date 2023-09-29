@@ -2153,6 +2153,14 @@
 			"attach_to_hands"	"1"
 			"baseitem"	"0"
 			"item_name"	"#TF_Ludmila"
+			"item_slot"	"primary"
+			"anim_slot"	"primary"
+			"item_quality"	"normal"
+
+			"used_by_classes"
+			{
+				"heavy"	"1"
+			}
 			"visuals"
 			{
 				"sound_reload"	"Weapon_Minifun.Reload"
@@ -3092,6 +3100,14 @@
 			"baseitem"	"0"
 			"model_player"	"models/workshop/weapons/c_models/c_assault_minigun/c_assault_minigun.mdl"
 			"item_name"	"#TF_Live_AssaultCannon"
+			"item_slot"	"primary"
+			"anim_slot"	"primary"
+			"item_quality"	"normal"
+
+			"used_by_classes"
+			{
+				"heavy"	"1"
+			}
 			"attributes"
 			{
 				"damage penalty"
