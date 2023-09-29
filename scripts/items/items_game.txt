@@ -2834,6 +2834,8 @@
 				"can_deal_critical_damage"	"1"
 				"is_flamethrower" "1"
 			}
+			"item_slot"	"primary"
+			"anim_slot"	"primary"
 			"item_class"	"tf_weapon_flamethrower"
 			"item_name"	"#TF_Unique_Achievement_Flamethrower"
 			"image_inventory"	"backpack/weapons/c_models/c_backburner/c_backburner"
@@ -2897,6 +2899,8 @@
 			}
 			"item_class"	"tf_weapon_flamethrower"
 			"item_name"	"#TF_Live_Afterburner"
+			"item_slot"	"primary"
+			"anim_slot"	"primary"
 			"image_inventory"	"backpack/weapons/c_models/c_backburner/c_backburner"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
