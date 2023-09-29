@@ -577,7 +577,7 @@
 	"channel"	"CHAN_ITEM"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"pitch"		"80"
+	"pitch"		"100"
 	"rndwave"
 	{
 		"wave"		"weapons/bat_baseball_hit_flesh.wav"
