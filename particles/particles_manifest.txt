@@ -129,5 +129,6 @@ particles_manifest
 		"file"		"particles/grub_blood.pcf"
 		"file"		"particles/grenade_fx.pcf"
 		"file"		"particles/rocket_fx.pcf"
+		"file"		"!particles/live/rockettrail.pcf"
 }
 
