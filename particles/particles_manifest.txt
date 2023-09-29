@@ -39,6 +39,7 @@ particles_manifest
 		"file"		"!particles/2007/buildingdamage.pcf"
 		"file"		"!particles/2007/shellejection.pcf"
 		"file"		"!particles/2007/impact_fx.pcf"
+		"file"		"!particles/live/rockettrail.pcf"
 		"file"		"!particles/rockettrail.pcf"
 		"file"		"particles/smoke_blackbillow.pcf"
 		"file"		"!particles/teleport_status.pcf"
@@ -129,6 +130,5 @@ particles_manifest
 		"file"		"particles/grub_blood.pcf"
 		"file"		"particles/grenade_fx.pcf"
 		"file"		"particles/rocket_fx.pcf"
-		"file"		"!particles/live/rockettrail.pcf"
 }
 
