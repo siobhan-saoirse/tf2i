@@ -2542,11 +2542,11 @@
 				"can_deal_critical_damage"	"1"
 				"can_deal_long_distance_damage"	"1"
 			}
-			"item_class"	"tf_weapon_invis"
+			"item_class"	"tf_weapon_revolver"
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
 			"item_name"	"#TF_Suit"
-			"item_slot"	"pda2"
+			"item_slot"	"secondary"
 			"item_quality"	"normal"
 			"baseitem"	"0"
 			"show_in_armory"	"1"
@@ -2556,7 +2556,7 @@
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
 			"attach_to_hands"	"0"
-			"model_player"	"models/weapons/v_models/v_watch_spy.mdl"
+			"model_player"	"models/weapons/v_models/v_revolver_spy.mdl"
 			"model_world"		"models/empty.mdl"
 			"used_by_classes"
 			{
@@ -2573,6 +2573,16 @@
 				{
 					"attribute_class"	"mult_dmgtaken"
 					"value"	"1.5"
+				}
+				"clip size penalty"
+				{
+					"attribute_class"	"mult_clip"
+					"value"	"0.0"
+				}
+				"maxammo secondary reduced"
+				{
+					"attribute_class"	"mult_maxammo_secondary"
+					"value"	"0.0"
 				}
 				"move speed penalty"
 				{
