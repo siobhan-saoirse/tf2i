@@ -2705,6 +2705,7 @@
 			"item_type_name"	"#TF_Weapon_BrandingIron"
 			"item_name"	"#TF_Weapon_BrandingIron"
 			"item_slot"	"melee"
+			"anim_slot"	"melee_allclass"
 			"item_quality"	"normal"
 			"baseitem"	"0"
 			"show_in_armory"	"1"
