@@ -2819,7 +2819,8 @@
 		}
 		"46"
 		{
-			"enabled"	"1"	
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
 			"capabilities"
 			{
 				"nameable"		"1"
@@ -2833,6 +2834,7 @@
 				"can_deal_critical_damage"	"1"
 				"is_flamethrower" "1"
 			}
+			"item_class"	"tf_weapon_flamethrower"
 			"item_name"	"#TF_Unique_Achievement_Flamethrower"
 			"image_inventory"	"backpack/weapons/c_models/c_backburner/c_backburner"
 			"image_inventory_size_w"		"128"
@@ -2843,6 +2845,7 @@
 			"propername"	"1"
 			"min_ilevel"	"1"
 			"max_ilevel"	"99"
+			"baseitem"	"0"
 			"show_in_armory"	"1"
 			"used_by_classes"
 			{
@@ -2877,7 +2880,8 @@
 		}
 		"47"
 		{
-			"enabled"	"1"	
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
 			"capabilities"
 			{
 				"nameable"		"1"
@@ -2891,7 +2895,7 @@
 				"can_deal_critical_damage"	"1"
 				"is_flamethrower" "1"
 			}
-			"show_in_armory"	"1"
+			"item_class"	"tf_weapon_flamethrower"
 			"item_name"	"#TF_Live_Afterburner"
 			"image_inventory"	"backpack/weapons/c_models/c_backburner/c_backburner"
 			"image_inventory_size_w"		"128"
@@ -2900,7 +2904,8 @@
 			"attach_to_hands"	"1"
 			"propername"	"1"
 			"min_ilevel"	"1"
-			"max_ilevel"	"99"
+			"max_ilevel"	"99" 
+			"baseitem"	"0"
 			"show_in_armory"	"1"
 			"item_quality"	"normal"
 			"used_by_classes"
