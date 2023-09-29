@@ -2145,7 +2145,6 @@
 		{
 			"name"	"Ludmila"
 			"first_sale_date"	"2010/09/29"
-			"prefab"	"weapon_minigun"
 			"image_inventory"	"backpack/weapons/c_models/c_w_ludmila/c_w_ludmila"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
@@ -3085,7 +3084,6 @@
 		{
 			"name"	"Assault Cannon"
 			"first_sale_date"	"2010/09/29"
-			"prefab"	"weapon_minigun"
 			"image_inventory"	"backpack/weapons/c_models/c_w_ludmila/c_w_ludmila"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
