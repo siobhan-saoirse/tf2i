@@ -2131,8 +2131,7 @@
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
 			"model_world"	"models/weapons/w_models/w_tranq.mdl"
-			"model_player"	"models/weapons/v_models/v_revolver_spy.mdl"
-			"attach_to_hands"	"0"
+			"attach_to_hands"	"1"
 			"used_by_classes"
 			{
 				"spy"	"1"
