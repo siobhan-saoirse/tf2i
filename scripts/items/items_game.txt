@@ -2817,6 +2817,105 @@
 			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
 		}
+		"46"
+		{
+			"enabled"	"1"	
+			"capabilities"
+			{
+				"nameable"		"1"
+			}
+			"tags"
+			{
+				"can_deal_damage"			"1"
+				"can_reflect_projectiles"	"1"
+				"can_extinguish"			"1"
+				"can_deal_posthumous_damage"	"1"
+				"can_deal_critical_damage"	"1"
+				"is_flamethrower" "1"
+			}
+			"base_item_name"	"The Backburner"
+			"show_in_armory"	"1"
+			"item_name"	"#TF_Unique_Achievement_Flamethrower"
+			"image_inventory"	"backpack/weapons/c_models/c_backburner/c_backburner"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"model_player"	"models/weapons/c_models/c_flamethrower/c_backburner.mdl"
+			"attach_to_hands"	"1"
+			"item_quality"	"unique"
+			"propername"	"1"
+			"min_ilevel"	"1"
+			"max_ilevel"	"99"
+			"attributes"
+			{
+				"airblast cost increased"
+				{
+					"attribute_class"	"mult_airblast_cost"
+					"value"	"2.5"
+				}
+				"mod flamethrower back crit"
+				{
+					"attribute_class"	"set_flamethrower_back_crit"	
+					"value"	"1"
+				}
+				"crit mod disabled"	
+				{			
+					"attribute_class"	"mult_crit"
+					"value" "0"
+				}
+			}
+			"visuals"
+			{
+				"sound_single_shot"	"Weapon_BackBurner.FireStart"
+				"sound_special1"	"Weapon_BackBurner.FireLoop"
+				"sound_burst"	"Weapon_BackBurner.FireLoopCrit"
+			}
+			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"drop_sound"		"ui/item_heavy_gun_drop.wav"
+		}
+		"47"
+		{
+			"enabled"	"1"	
+			"capabilities"
+			{
+				"nameable"		"1"
+			}
+			"tags"
+			{
+				"can_deal_damage"			"1"
+				"can_reflect_projectiles"	"1"
+				"can_extinguish"			"1"
+				"can_deal_posthumous_damage"	"1"
+				"can_deal_critical_damage"	"1"
+				"is_flamethrower" "1"
+			}
+			"base_item_name"	"The Afterburner"
+			"show_in_armory"	"1"
+			"item_name"	"#TF_Live_Afterburner"
+			"image_inventory"	"backpack/weapons/c_models/c_backburner/c_backburner"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"model_player"	"models/workshop/weapons/c_models/c_pilotflamer/c_pilotflamer.mdl"
+			"attach_to_hands"	"1"
+			"item_quality"	"unique"
+			"propername"	"1"
+			"min_ilevel"	"1"
+			"max_ilevel"	"99"
+			"attributes"
+			{
+				"charged airblast"
+				{
+					"attribute_class"	"set_charged_airblast"
+					"value"	"1.0"
+				}
+				"damage bonus"
+				{
+					"attribute_class"	"mult_dmg"	
+					"value"	"1.2"
+				}
+			}
+			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"drop_sound"		"ui/item_heavy_gun_drop.wav"
+		}
 		"735"
 		{
 			"name"	"TF_WEAPON_BUILDER_SPY"
