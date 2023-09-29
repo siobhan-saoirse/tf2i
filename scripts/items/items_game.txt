@@ -2833,18 +2833,21 @@
 				"can_deal_critical_damage"	"1"
 				"is_flamethrower" "1"
 			}
-			"base_item_name"	"The Backburner"
-			"show_in_armory"	"1"
 			"item_name"	"#TF_Unique_Achievement_Flamethrower"
 			"image_inventory"	"backpack/weapons/c_models/c_backburner/c_backburner"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
 			"model_player"	"models/weapons/c_models/c_flamethrower/c_backburner.mdl"
 			"attach_to_hands"	"1"
-			"item_quality"	"unique"
+			"item_quality"	"normal"
 			"propername"	"1"
 			"min_ilevel"	"1"
 			"max_ilevel"	"99"
+			"show_in_armory"	"1"
+			"used_by_classes"
+			{
+				"pyro"	"1"
+			}
 			"attributes"
 			{
 				"airblast cost increased"
@@ -2855,15 +2858,14 @@
 				"mod flamethrower back crit"
 				{
 					"attribute_class"	"set_flamethrower_back_crit"	
-					"value"	"1"
+					"value"	"1.0"
 				}
 				"crit mod disabled"	
 				{			
 					"attribute_class"	"mult_crit"
-					"value" "0"
+					"value" "0.0"
 				}
 			}
-			"show_in_armory"	"1"
 			"visuals"
 			{
 				"sound_single_shot"	"Weapon_BackBurner.FireStart"
@@ -2889,7 +2891,6 @@
 				"can_deal_critical_damage"	"1"
 				"is_flamethrower" "1"
 			}
-			"base_item_name"	"The Afterburner"
 			"show_in_armory"	"1"
 			"item_name"	"#TF_Live_Afterburner"
 			"image_inventory"	"backpack/weapons/c_models/c_backburner/c_backburner"
@@ -2897,11 +2898,15 @@
 			"image_inventory_size_h"		"82"
 			"model_player"	"models/workshop/weapons/c_models/c_pilotflamer/c_pilotflamer.mdl"
 			"attach_to_hands"	"1"
-			"item_quality"	"unique"
 			"propername"	"1"
 			"min_ilevel"	"1"
 			"max_ilevel"	"99"
 			"show_in_armory"	"1"
+			"item_quality"	"normal"
+			"used_by_classes"
+			{
+				"pyro"	"1"
+			}
 			"attributes"
 			{
 				"charged airblast"
@@ -2920,7 +2925,6 @@
 		}
 		"48"
 		{
-			"enabled"	"1"
 			"item_class"	"tf_weapon_flaregun"
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
@@ -2936,8 +2940,6 @@
 				"can_deal_long_distance_damage"	"1"
 				"can_deal_taunt_damage"		"1"
 			}
-			"base_item_name"	"The Flare Gun"
-			"show_in_armory"	"1"
 			"item_type_name"	"#TF_Weapon_Flaregun"
 			"item_name"	"#TF_Unique_Achievement_Flaregun"
 			"item_description"	"#TF_Unique_Achievement_Flaregun_desc"
@@ -2946,11 +2948,10 @@
 			"image_inventory"	"backpack/weapons/c_models/c_flaregun_pyro/c_flaregun_pyro"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
-			"inspect_panel_dist" "40"
 			"model_player"	"models/weapons/c_models/c_flaregun_pyro/c_flaregun_pyro.mdl"
 			"attach_to_hands"	"1"
-			"inspect_panel_dist" "30"
-			"item_quality"	"unique"
+			"baseitem"	"0"
+			"item_quality"	"normal"
 			"propername"	"1"
 			"min_ilevel"	"10"
 			"max_ilevel"	"10"
@@ -2962,7 +2963,7 @@
 			"static_attrs"
 			{
 				"min_viewmodel_offset"					"10 0 -10"
-			}
+			} 
 			"attributes"
 			{
 				"hidden secondary max ammo penalty"
@@ -3017,7 +3018,7 @@
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
 			"attach_to_hands"	"0"
-			"model_world"	"models/weapons/w_models/w_sapper.mdl"
+			"model_world"	"models/weapons/c_models/c_sapper/c_sapper.mdl"
 			"model_player"	"models/weapons/v_models/v_sapper_spy.mdl"
 			"used_by_classes"
 			{
