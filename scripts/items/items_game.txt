@@ -2691,7 +2691,7 @@
 			}
 			"attributes"
 			{
-				"fire rate penalty"
+				"fire rate bonus"
 				{
 					"attribute_class"	"mult_postfiredelay"
 					"value"	"0.75"
