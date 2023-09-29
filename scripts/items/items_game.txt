@@ -3029,7 +3029,7 @@
 			"image_inventory"	"backpack/weapons/c_models/c_flaregun_pyro/c_flaregun_pyro"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
-			"model_player"	"models/workshop/weapons/c_models/c_pilot_flaregun/c_pilot_flaregun.mdl"
+			"model_player"	"models/workshop/weapons/c_models/c_pilot_flaregun/c_spitfire_flaregun.mdl"
 			"attach_to_hands"	"1"
 			"baseitem"	"0"
 			"item_quality"	"normal"
@@ -3061,6 +3061,11 @@
 				{
 					"attribute_class"	"crit_vs_burning_FLARES_DISPLAY_ONLY"
 					"value"	"1"
+				}
+				"custom projectile model"
+				{
+					"attribute_class"	"custom_projectile_model"
+					"value" "models/workshop/weapons/c_models/c_pilot_flaregun/w_spitfire_shell.mdl"
 				}
 			}
 			"visuals"
