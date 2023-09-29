@@ -2576,7 +2576,7 @@
 				}
 				"clip size penalty"
 				{
-					"attribute_class"	"mult_clip"
+					"attribute_class"	"mult_clipsize"
 					"value"	"0.0"
 				}
 				"maxammo secondary reduced"
