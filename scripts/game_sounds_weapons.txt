@@ -577,11 +577,10 @@
 	"channel"	"CHAN_ITEM"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
+	"pitch"		"80"
 	"rndwave"
 	{
-		"wave"		"weapons/cbar_hitbod1.wav"
-		"wave"		"weapons/cbar_hitbod2.wav"
-		"wave"		"weapons/cbar_hitbod3.wav"
+		"wave"		"weapons/bat_baseball_hit_flesh.wav"
 	}
 }
 
@@ -590,10 +589,11 @@
 	"channel"	"CHAN_ITEM"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
+	"pitch"		"80"
 	"rndwave"
 	{
-		"wave"		"weapons/cbar_hit1.wav"
-		"wave"		"weapons/cbar_hit2.wav"
+		"wave"		"weapons/bat_baseball_hit_world1.wav"
+		"wave"		"weapons/bat_baseball_hit_world2.wav"
 	}
 }
 
