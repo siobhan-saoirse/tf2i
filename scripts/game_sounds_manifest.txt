@@ -20,8 +20,6 @@ game_sounds_manifest
 	"precache_file"		"scripts/game_sounds_world.txt"
 	"precache_file"		"scripts/game_sounds_ambient_generic.txt"
 	"precache_file"		"scripts/game_sounds_items.txt"
-	"precache_file"		"scripts/hl2/game_sounds_physics.txt"
-	"precache_file"		"scripts/hl2/game_sounds_weapons.txt"
 	"precache_file"		"scripts/game_sounds_vehicles.txt"
 
 	// Episodic content sounds
@@ -142,4 +140,6 @@ game_sounds_manifest
 	"precache_file"		"scripts/tf/game_sounds_vo_tough_break.txt"
 
 	"precache_file"  	"scripts/tf/game_sounds_passtime.txt"
+	"precache_file"		"scripts/hl2/game_sounds_physics.txt"
+	"precache_file"		"scripts/hl2/game_sounds_weapons.txt"
 }
