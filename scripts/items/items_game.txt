@@ -3029,7 +3029,7 @@
 			"image_inventory"	"backpack/weapons/c_models/c_flaregun_pyro/c_flaregun_pyro"
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
-			"model_player"	"models/weapons/c_models/c_pilot_flaregun/c_pilot_flaregun.mdl"
+			"model_player"	"models/workshp/weapons/c_models/c_pilot_flaregun/c_pilot_flaregun.mdl"
 			"attach_to_hands"	"1"
 			"baseitem"	"0"
 			"item_quality"	"normal"
