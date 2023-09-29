@@ -97,6 +97,11 @@ criterion "IsFiringMinigun" "minigunfiretime" ">0.0" required
 		criteria ConceptPlayerTaunt IsHeavy WeaponIsFists
 		response HeavyTauntMelee
 	}
+	rule HeavyTauntPlayerMelee2
+	{
+		criteria ConceptPlayerTaunt IsHeavy WeaponIsAxe
+		response HeavyTauntMelee
+	}
 
 	Response PlayerExpressionIdleHeavy
 	{
@@ -544,6 +549,12 @@ criterion "IsFiringMinigun" "minigunfiretime" ">0.0" required
 		scene "scenes/Player/Spy/low/taunt04_v3.vcd"
 		scene "scenes/Player/Spy/low/taunt04_v4.vcd"
 		scene "scenes/Player/Spy/low/taunt04_v5.vcd"
+	}
+
+	rule SpyTauntPlayerPrimary
+	{
+		criteria ConceptPlayerTaunt IsSpy WeaponIsTranq
+		response SpyTauntPrimary
 	}
 
 	rule SpyTauntPlayerPrimary
