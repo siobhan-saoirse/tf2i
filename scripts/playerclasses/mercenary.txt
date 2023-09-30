@@ -4,11 +4,11 @@
 PlayerClass
 {
 	// Attributes.
-	"name"			"mercenary"
-	"model"			"models/player/merc_deathmatch.mdl"
-	"model_hwm"		"models/player/hwm/merc_deathmatch.mdl"
-	"model_hands"		"models/weapons/c_models/c_merc_arms.mdl"
-	"localize_name"		"TF_Class_Name_Mercenary"
+	"name"			"commander"
+	"model"			"models/player/soldier.mdl"
+	"model_hwm"		"models/player/hwm/soldier.mdl"
+	"model_hands"		"models/weapons/c_models/c_soldier_arms.mdl"
+	"localize_name"		"TF_Class_Name_Commander"
 	"speed_max"		"320"
 	"health_max"		"150"
 	"armor_max"		"0"

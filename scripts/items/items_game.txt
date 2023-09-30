@@ -1222,20 +1222,27 @@
 			"item_type_name"	"#TF_Weapon_Crowbar"
 			"item_name"	"#TF_Weapon_Crowbar"
 			"item_slot"	"melee"
-			"anim_slot"	"melee"
+			"anim_slot"	"melee_allclass"
 			"item_quality"	"normal"
-			"baseitem"	"1"
 			"min_ilevel"	"1"
 			"max_ilevel"	"1"
 			"image_inventory"	"backpack/weapons/w_models/w_crowbar"
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82"
 			"attach_to_hands"	"0"
-			"model_world"	"models/weapons/w_models/w_crowbar.mdl"
-			"model_player"	"models/weapons/v_models/v_crowbar_mercenary.mdl"
+			"show_in_armory"	"1"
+			"model_world"	"models/weapons/w_crowbar.mdl"
+			"model_player"	"models/weapons/v_crowbar.mdl"
 			"used_by_classes"
 			{
 				"mercenary"	"1"
+				"scout"		"1"
+				"soldier"		"1"
+				"pyro"		"1"
+				"demoman"		"1"
+				"heavy"		"1"
+				"medic"		"1"
+				"sniper"		"1"
 			}
 			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
 			"drop_sound"	"ui/item_metal_weapon_drop.wav"
@@ -3462,7 +3469,7 @@
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
 			"item_type_name"	"#TF_Weapon_SuperSMG"
-			"item_name"	"#TF_Weapon_superSMG"
+			"item_name"	"#TF_Weapon_SuperSMG"
 			"item_slot"	"primary"
 			"anim_slot"	"primary"
 			"item_quality"	"normal"
@@ -3481,6 +3488,12 @@
 			}
 			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
+		}
+		"58"
+		{
+			"name"	"TF_WEAPON_CROWBAR"
+			"prefab"	"weapon_crowbar"		
+			"baseitem"	"0"
 		}
 		"735"
 		{
