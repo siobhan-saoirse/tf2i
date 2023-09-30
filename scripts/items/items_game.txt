@@ -2833,7 +2833,7 @@
 			"item_type_name"	"#TF_Weapon_SMG"
 			"item_name"	"#TF_Weapon_SMG"
 			"item_slot"	"secondary"
-			"anim_slot"	"item3"
+			"anim_slot"	"secondary2" 
 			"item_quality"	"normal"
 			"show_in_armory"	"1"
 			"min_ilevel"	"1"
