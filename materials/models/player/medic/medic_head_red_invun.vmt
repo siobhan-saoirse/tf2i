@@ -34,7 +34,7 @@
 	"$phong" "1"
 	"$phongexponent"  "35"
 	"$phongboost" "1"	
-	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$lightwarptexture" "models\player\medic\medic_head_lightwarp"
 	"$phongfresnelranges"	"[11 1 8]"
 	
 	// Rim lighting parameters
