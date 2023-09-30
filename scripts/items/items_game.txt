@@ -3236,11 +3236,6 @@
 					"value"				"1.45"
  				}
 			}
-			"visuals"
-			{
-				"sound_single_shot"	"Weapon_SniperRailgun.Single"
-				"sound_burst"		"Weapon_SniperRailgun.SingleCrit"
-			}
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
 		}
@@ -3297,6 +3292,46 @@
 			{
 				"sound_single_shot" "Weapon_Ambassador.Single"
 				"sound_burst" "Weapon_Ambassador.SingleCrit"
+			}
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
+			"drop_sound"		"ui/item_heavy_gun_drop.wav"
+		}
+		"54"
+		{
+			"first_sale_date"	"2010/09/29"
+			"image_inventory"	"backpack/weapons/w_models/w_sniperrifle"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"show_in_armory"	"1"
+			"baseitem"	"0"
+			"attach_to_hands"	"1"
+			"model_player"	"models/workshop/weapons/c_models/c_sniperrifle_tv/c_sniperrifle_tv.mdl"
+			"item_class"	"tf_weapon_sniperrifle"
+			"item_name"	"#TF_Live_Viewfinder"
+			"item_slot"	"primary"
+			"anim_slot"	"primary"
+			"item_quality"	"normal"
+			"used_by_classes"
+			{
+				"sniper"	"1"
+			}
+			"attributes"
+			{
+				"damage bonus"
+				{
+					"attribute_class"	"mult_dmg"
+					"value"				"1.25"
+ 				}
+				"fire rate penalty"
+				{
+					"attribute_class"	"mult_postfiredelay"
+					"value"				"1.45"
+ 				}
+			}
+			"visuals"
+			{
+				"sound_single_shot"	"Weapon_SniperRailgun_Large.Single"
+				"sound_burst"		"Weapon_SniperRailgun_Large.SingleCrit"
 			}
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
