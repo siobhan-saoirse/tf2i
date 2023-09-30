@@ -506,6 +506,18 @@
 	"volume"	".5"
 	"wave"		"weapons/draw_melee.wav"
 }
+"Weapon_BrandingIron.HitFlesh"
+{
+	"channel"	"CHAN_ITEM"
+	"soundlevel"	"SNDLVL_NORM"
+	"volume"	"1.0"
+	"rndwave"
+	{
+		"wave"		")weapons/brandiron_hit_flesh1.wav"
+		"wave"		")weapons/brandiron_hit_flesh2.wav"
+		"wave"		")weapons/brandiron_hit_flesh3.wav"
+	}
+}
 
 // ------------------------------------------------------------------------------------ //
 // BONESAW

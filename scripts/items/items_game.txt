@@ -2753,7 +2753,7 @@
 			}
 			"visuals"
 			{
-				"sound_melee_hit"	"TFPlayer.FlareImpact"
+				"sound_melee_hit"	"Weapon_BrandingIron.HitFlesh"
 				"sound_melee_hit_world"	"Weapon_Machete.HitWorld"
 			}
 			"mouse_pressed_sound"	"ui/item_metal_weapon_drop.wav"
