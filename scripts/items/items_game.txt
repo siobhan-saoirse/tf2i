@@ -2745,11 +2745,6 @@
 					"attribute_class"	"set_dmgtype_ignite"
 					"value"	"1.0"
 				}
-				"crit mod disabled"
-				{
-					"attribute_class"	"mult_crit_chance"
-					"value"	"0.0"
-				}
 			}
 			"visuals"
 			{
@@ -2801,11 +2796,6 @@
 				{
 					"attribute_class"	"mult_dmg"
 					"value"	"1.3"
-				}
-				"crit mod disabled"
-				{
-					"attribute_class"	"mult_crit_chance"
-					"value"	"0.0"
 				}
 			}
 			"visuals"

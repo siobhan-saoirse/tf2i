@@ -86,6 +86,7 @@
 			"menu_label"				"#Voice_Menu_Yes"
 			"show_subtitle"				"1"
 			"subtitle"				"Yes"
+			"activity"				"ACT_MP_GESTURE_VC_NODYES"
 		}
 		
 		"item_8"
@@ -94,6 +95,7 @@
 			"menu_label"				"#Voice_Menu_No"	
 			"show_subtitle"				"1"
 			"subtitle"				"No"
+			"activity"				"ACT_MP_GESTURE_VC_NODNO"
 		}
 		
 		"item_9"
@@ -213,18 +215,21 @@
 		{
 			"concept"				"TLK_PLAYER_JEERS"	
 			"menu_label"				"#Voice_Menu_Jeers"
+			"activity"				"ACT_MP_GESTURE_VC_NODNO"
 		}
 		
 		"item_5"
 		{
 			"concept"				"TLK_PLAYER_POSITIVE"		
 			"menu_label"				"#Voice_Menu_Positive"
+			"activity"				"ACT_MP_GESTURE_VC_NODYES"
 		}
 		
 		"item_6"
 		{
 			"concept"				"TLK_PLAYER_NEGATIVE"		
 			"menu_label"				"#Voice_Menu_Negative"
+			"activity"				"ACT_MP_GESTURE_VC_NODNO"
 		}
 		
 		"item_7"
