@@ -3408,12 +3408,22 @@
 				"clip size penalty"
 				{
 					"attribute_class"	"mult_clipsize"
-					"value" "0.45"
+					"value" "0.35"
 				}
 				"damage bonus"
 				{
 					"attribute_class"	"mult_dmg"
 					"value"	"1.2"
+				}
+				"Projectile speed increased"
+				{
+					"attribute_class"	"mult_projectile_speed"
+					"value" "1.25"
+				}
+				"Blast radius decreased"
+				{
+					"attribute_class"	"mult_explosion_radius"
+					"value"	"0.75"
 				}
 			}
 			"visuals"
