@@ -6,7 +6,7 @@
 	"$phong" "1"
 	"$phongexponent" "80"
 	"$phongboost" ".2"	
-	"$lightwarptexture" "models\player\engineer\engineer_hands_lightwarp"
+	"$lightwarptexture" "models\player\medic\medic_head_lightwarp"
 	"$phongfresnelranges"	"[1 5 10]"
 	"$halflambert" "1"
 	
