@@ -3365,6 +3365,14 @@
 			{
 				"demoman"	"1"
 			}
+			"attributes"
+			{
+				"clip size penalty"
+				{
+					"attribute_class"	"mult_clipsize"
+					"value" "0.65"
+				}
+			}
 			"attach_to_hands"	"0"
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
@@ -3400,32 +3408,12 @@
 				"clip size penalty"
 				{
 					"attribute_class"	"mult_clipsize"
-					"value" "0.65"
+					"value" "0.55"
 				}
-				"dmg bonus vs buildings"
+				"damage bonus"
 				{
-					"attribute_class"	"mult_dmg_vs_buildings"
+					"attribute_class"	"mult_dmg"
 					"value"	"1.2"
-				}
-				"Projectile speed increased"
-				{
-					"attribute_class"	"mult_projectile_speed"
-					"value" "1.25"
-				}
-				"Blast radius decreased"
-				{
-					"attribute_class"	"mult_explosion_radius"
-					"value"	"0.75"
-				}
-				"sticky air burst mode"
-				{
-					"attribute_class"	"set_detonate_mode"
-					"value"	"2"
-				}
-				"grenade no spin"
-				{
-					"attribute_class"	"grenade_no_spin"
-					"value"	"1"
 				}
 			}
 			"visuals"
