@@ -3370,7 +3370,7 @@
 				"clip size penalty"
 				{
 					"attribute_class"	"mult_clipsize"
-					"value" "0.65"
+					"value" "0.75"
 				}
 			}
 			"attach_to_hands"	"0"
@@ -3408,7 +3408,7 @@
 				"clip size penalty"
 				{
 					"attribute_class"	"mult_clipsize"
-					"value" "0.55"
+					"value" "0.45"
 				}
 				"damage bonus"
 				{
