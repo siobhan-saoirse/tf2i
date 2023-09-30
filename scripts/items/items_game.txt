@@ -3349,7 +3349,7 @@
 			"first_sale_date"	"2010/09/29"
 			"show_in_armory"	"1"
 			"baseitem"	"0"
-			"attach_to_hands"	"1"
+			"attach_to_hands"	"0"
 			"item_class"	"tf_weapon_pipebomblauncher"
 			"item_type_name"	"#TF_Weapon_PipeBombLauncher2"
 			"item_name"		"#TF_Weapon_PipeBombLauncher2"
@@ -3361,6 +3361,10 @@
 			"image_inventory_size_h"	"82"
 			"model_world"	"models/weapons/w_models/w_grenadelauncher.mdl"
 			"model_player"	"models/weapons/v_models/v_grenadelauncher_demo.mdl"
+			"used_by_classes"
+			{
+				"demoman"	"1"
+			}
 			"attach_to_hands"	"0"
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
