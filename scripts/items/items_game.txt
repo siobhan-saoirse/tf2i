@@ -1625,6 +1625,7 @@
 			"hidden"	"1"
 			"item_slot"	"secondary"
 			"model_player"	"models/weapons/v_models/v_shotgun_heavy.mdl"
+			"model_world"	"models/weapons/w_models/w_shotgun_heavy.mdl"
 			"used_by_classes"
 			{
 				"heavy"	"1"
@@ -1637,7 +1638,8 @@
 			"prefab"	"weapon_shotgun"
 			"hidden"	"1"
 			"item_slot"	"secondary"
-			"model_player"	"models/weapons/v_models/v_shotgun_pyro.mdl"
+			"attach_to_hands"	"1"
+			"model_player"	"models/weapons/w_models/w_shotgun.mdl"
 			"used_by_classes"
 			{
 				"pyro"	"1"
@@ -2840,7 +2842,7 @@
 			"max_ilevel"	"1"
 			"image_inventory"	"backpack/weapons/w_models/w_smg"
 			"image_inventory_size_w"	"128"
-			"image_inventory_size_h"	"82"
+			"image_inventory_size_h"	"82" 
 			"model_world"	"models/weapons/w_models/w_smg_scout.mdl"
 			"model_player"	"models/weapons/v_models/v_smg_sniper.mdl"
 			"attach_to_hands"	"0"
