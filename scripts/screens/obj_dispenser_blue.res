@@ -1,5 +1,6 @@
 "obj_dispenser.res"
 {
+/*
 	"MeterBG"
 	{
 		"ControlName"	"CIconPanel"
@@ -35,4 +36,5 @@
 		"rotating_wide"		"50"
 		"rotating_tall"		"200"
 	}	
+*/
 }
