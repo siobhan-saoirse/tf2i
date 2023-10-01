@@ -6,3 +6,4 @@ Lambdagon - Developer
 Average-Medal-Enjoyer - Developer & Contributor
 PF2 Team or TF2C Team - Viewmodels for Tranqulizer and Nailgun 
 Odessit - Logo 
+Harvey - Maker of EF2 Devtest map

@@ -1416,6 +1416,7 @@
 			"used_by_classes"
 			{
 				"demoman"	"1"
+				"civilian"	"1"
 			}
 			"mouse_pressed_sound"	"ui/item_bottle_drop.wav"
 			"drop_sound"	"ui/item_bottle_drop.wav"
