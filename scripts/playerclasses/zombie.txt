@@ -7,7 +7,7 @@ PlayerClass
 	"name"			"zombie"
 	"model"			"models/bots/skeleton_sniper/skeleton_sniper.mdl"
 	"model_hwm"		"models/bots/skeleton_sniper/skeleton_sniper.mdl"
-	"model_hands"		"models/weapons/c_models/c_sniper_arms.mdl"
+	"model_hands"		"models/bots/skeleton_sniper/skeleton_sniper.mdl"
 	"localize_name"	"TF_Class_Name_Zombie"
 	"speed_max"		"280"
 //	"health_max"		"95"
