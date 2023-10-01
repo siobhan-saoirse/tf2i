@@ -1,5 +1,8 @@
-"VertexLitGeneric"
+"Refract"
 {
-	"$basetexture"	"models/buildables/dispenser/dispenser_screen"
-	"$surfaceprop"	"default"
+	"$basetexture"	"models/props_c17/fisheyelensdx7"	
+	$refracttint "[1 1 1]"
+ 	"$refractamount" .298
+	$bluramount .75	
+
 }
