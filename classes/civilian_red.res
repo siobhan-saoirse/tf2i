@@ -15,9 +15,11 @@
 	{
 		"model"
 		{
+			"modelname"	"models/player/scout.mdl"
+			"modelname_hwm"	"models/player/hwm/scout.mdl"
 			"attached_model"
 			{
-				"modelname" "models/empty.mdl"
+				"modelname" "models/weapons/w_bottle.mdl"
 				"skin"		"0"
 			}
 		}

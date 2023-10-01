@@ -1,6 +1,6 @@
 #base "default.res"
 
-"classes/Civilian_blue.res"
+"classes/Civilian_red.res"
 {
 	"classNameLabel"
 	{
@@ -15,14 +15,12 @@
 	{
 		"model"
 		{
-			"skin" "1"
+			"modelname"	"models/player/scout.mdl"
+			"modelname_hwm"	"models/player/hwm/scout.mdl"
+			"skin"		"1"
 			"attached_model"
 			{
-				"skin"		"1"
-			}
-			"attached_model"
-			{
-				"modelname" "models/empty.mdl"
+				"modelname" "models/weapons/w_bottle.mdl"
 				"skin"		"1"
 			}
 		}
