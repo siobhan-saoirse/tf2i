@@ -1348,7 +1348,7 @@
 		"weapon_force_a_nature_demoman"
 		{
 			"enabled"	"1"
-			"item_class"	"tf_weapon_scattergun"
+			"item_class"	"tf_weapon_shotgun_primary"
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
 			"capabilities"
@@ -1367,8 +1367,6 @@
 			"item_type_name"	"#TF_Weapon_Scattergun"
 			"item_name"	"#TF_Unique_Achievement_Scattergun_Double"
 			"item_description"	"#TF_Unique_Achievement_Scattergun_Double_desc"
-			"item_logname"	"force_a_nature"
-			"item_iconname"	"force_a_nature"
 			"item_slot"	"secondary"
 			"anim_slot"	"secondary"
 			"item_quality"	"unique"
@@ -1380,7 +1378,7 @@
 			"image_inventory_size_h"		"82"
 			"model_player"	"models/weapons/v_models/v_fan_demo.mdl"
 			"model_world"	"models/weapons/c_models/c_double_barrel.mdl"
-			"attach_to_hands" "0"
+			"attach_to_hands" "2"
 			"inspect_panel_dist" "38"
 			"used_by_classes"
 			{
