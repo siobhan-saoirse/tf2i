@@ -960,7 +960,7 @@
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
 			"model_player_per_class"
 			{
-				"mercenary"	"models/weapons/v_models/v_shotgun_merc.mdl"
+				"commander"	"models/weapons/v_models/v_shotgun_merc.mdl"
 			}
 		}
 		"weapon_ubersaw"
@@ -1315,7 +1315,7 @@
 			"used_by_classes"
 			{
 				"scout"	"primary"
-				"mercenary"	"secondary"
+				"commander"	"secondary"
 			}
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
@@ -1829,7 +1829,7 @@
 			"used_by_classes"
 			{
 				"engineer"	"1"
-				"mercenary"	"1"
+				"commander"	"1"
 			}
 			"mouse_pressed_sound"	"ui/item_light_gun_drop.wav"
 			"drop_sound"	"ui/item_light_gun_drop.wav"
