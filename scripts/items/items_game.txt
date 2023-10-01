@@ -1348,7 +1348,7 @@
 		"weapon_force_a_nature_demoman"
 		{
 			"enabled"	"1"
-			"item_class"	"tf_weapon_shotgun_primary"
+			"item_class"	"tf_weapon_shotgun_secondary"
 			"craft_class"	"weapon"
 			"craft_material_type"	"weapon"
 			"capabilities"
@@ -1363,9 +1363,8 @@
 				"can_deal_mvm_penetration_damage"	"1"
 				"can_deal_long_distance_damage"	"1"
 			}
-			"base_item_name"	"The Force-a-Nature"
 			"item_type_name"	"#TF_Weapon_Scattergun"
-			"item_name"	"#TF_Unique_Achievement_Scattergun_Double"
+			"item_name"	"Double Barreled Shotgun"
 			"item_description"	"#TF_Unique_Achievement_Scattergun_Double_desc"
 			"item_slot"	"secondary"
 			"anim_slot"	"secondary"
@@ -1377,7 +1376,7 @@
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
 			"model_player"	"models/weapons/v_models/v_fan_demo.mdl"
-			"model_world"	"models/weapons/c_models/c_double_barrel.mdl"
+			"model_world"	"models/weapons/w_models/w_shotgun_heavy.mdl"
 			"attach_to_hands" "2"
 			"inspect_panel_dist" "38"
 			"used_by_classes"
