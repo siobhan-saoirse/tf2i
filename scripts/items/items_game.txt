@@ -3068,7 +3068,7 @@
 			"show_in_armory"	"1"
 			"min_ilevel"	"1"
 			"max_ilevel"	"1"
-			"image_inventory"	"backpack/weapons/w_models/w_smg"
+			"image_inventory"	"backpack/weapons/w_models/w_smg_scout"
 			"image_inventory_size_w"	"128"
 			"image_inventory_size_h"	"82" 
 			"model_world"	"models/weapons/w_models/w_smg.mdl"
