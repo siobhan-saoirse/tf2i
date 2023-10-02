@@ -3850,6 +3850,454 @@
 			"baseitem"	"0"
 			"show_in_armory"	"1"
 		}
+		"63"
+		{
+			"capabilities"
+			{
+				"nameable"	"1"
+			}
+			"tags"
+			{
+				"can_deal_gib_damage"	"1"
+				"can_deal_damage"	"1"
+				"can_be_equipped_by_soldier_or_demo"	"1"
+				"can_deal_posthumous_damage"	"1"
+				"can_deal_critical_damage"	"1"
+				"can_deal_long_distance_damage"	"1"
+			}
+			"item_class"	"tf_weapon_rocketlauncher"
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
+			"item_type_name"	"#TF_Weapon_RocketLauncher"
+			"item_name"	"#TF_LibertyLauncher"
+			"item_slot"	"primary"
+			"item_quality"	"normal"
+			"baseitem"	"0"
+			"show_in_armory"	"1"
+			"min_ilevel"	"1"
+			"max_ilevel"	"1"
+			"image_inventory"	"backpack/workshop/weapons/c_models/c_liberty_launcher/c_liberty_launcher"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"model_player"	"models/workshop/weapons/c_models/c_liberty_launcher/c_liberty_launcher.mdl"
+			"attach_to_hands"	"1"
+			"used_by_classes"
+			{
+				"soldier"	"1"
+			}
+			"attributes"
+			{
+				"Projectile speed increased"
+				{
+					"attribute_class"	"mult_projectile_speed"
+					"value"	"1.4"
+				}
+				"clip size penalty"
+				{
+					"attribute_class"	"mult_clipsize"
+					"value" "0.75"
+				}
+			}
+			"visuals"
+			{
+				"sound_single_shot"	"Weapon_RPG_DirectHit.Single"
+				"sound_burst"	"Weapon_RPG_DirectHit.SingleCrit"
+			}
+			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
+			"drop_sound"	"ui/item_heavy_gun_drop.wav"
+		}
+		"64"
+		{
+			"name"	"Rocket Jumper"
+			"prefab"	"valve"
+			"first_sale_date"	"2010/09/29"
+			"item_class"	"tf_weapon_rocketlauncher"
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
+			"capabilities"
+			{
+				"nameable"		"1"
+			}
+			"show_in_armory"	"1"
+			"item_type_name"	"#TF_Weapon_RocketLauncher"
+			"item_name"	"#TF_Weapon_RocketLauncher_Jump"
+			"item_description"	"#TF_Weapon_RocketLauncher_Jump_Desc"
+			"item_slot"	"primary"
+			"item_quality"	"unique"
+			"show_in_armory"	"1"
+			"baseitem" "0"
+			"min_ilevel"	"1"
+			"max_ilevel"	"1"
+			"propername" 	"1"
+			"image_inventory"	"backpack/weapons/c_models/c_rocketjumper/c_rocketjumper"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"model_player"	"models/weapons/c_models/c_rocketjumper/c_rocketjumper.mdl"
+			"attach_to_hands" "1"
+			"used_by_classes"
+			{
+				"soldier"	"1"
+			}
+			"static_attrs"
+			{
+				"min_viewmodel_offset"		"10 -3 -10"				
+			}
+			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
+			"drop_sound"		"ui/item_heavy_gun_drop.wav"
+			"attributes"
+			{
+				"damage penalty"
+				{
+					"attribute_class"	"mult_dmg"
+					"value"	"0"
+				}
+				"crit mod disabled"
+				{
+					"attribute_class"	"mult_crit_chance"
+					"value"	"0"
+				}
+				"no self blast dmg"
+				{
+					"attribute_class"	"no_self_blast_dmg"
+					"value" "2"
+				}
+				"maxammo primary increased"
+				{
+					"attribute_class"	"mult_maxammo_primary"
+					"value" "3.0"
+				}
+				"cannot pick up intelligence"
+				{
+					"attribute_class"	"cannot_pick_up_intelligence"
+					"value"				"1"
+				}
+			}
+			"visuals"
+			{
+				"sound_single_shot"	"Weapon_Rocket_Jumper.Single"
+				"sound_special1"		"Weapon_Rocket_Jumper.Explode"
+			}
+		}
+		"65"
+		{
+			"name"	"Gloves of Running Urgently"
+			"item_class"	"tf_weapon_fists"
+			"craft_class"	""		
+			"craft_material_type"	""	
+			"capabilities"
+			{
+				"nameable"		"1"
+			}
+			"tags"
+			{
+				"can_deal_damage"			"1"
+				"can_deal_critical_damage"	"1"
+			}
+			"show_in_armory"	"1"
+			"item_type_name"	"#TF_Weapon_Gloves"
+			"item_name"	"#TF_Unique_Gloves_of_Running_Urgently"
+			"item_slot"	"melee"
+			"item_logname"	"gloves_running_urgently"
+			"item_iconname"	"gloves_running_urgently"
+			"image_inventory"	"backpack/weapons/c_models/c_boxing_gloves_urgency/c_boxing_gloves_urgency"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"model_player"	"models/weapons/c_models/c_boxing_gloves/c_boxing_gloves.mdl"
+			"attach_to_hands"	"1"
+			"show_in_armory"	"1"
+			"item_quality"	"unique"
+			"min_ilevel"	"10"
+			"max_ilevel"	"10"
+			"used_by_classes"
+			{
+				"heavy"	"1"
+			}
+			"static_attrs"
+			{
+				"min_viewmodel_offset"		"10 0 -10"
+			}
+			"attributes"
+			{
+				"move speed bonus"
+				{
+					"attribute_class"	"mult_player_movespeed"
+					"value"	"1.3"
+				}
+				"damage penalty"
+				{
+					"attribute_class"	"mult_dmg"
+					"value"	"0.75"
+				}
+				"provide on active"
+				{
+					"attribute_class"	"provide_on_active"
+					"value" "1"
+				}
+				"lunchbox adds minicrits"
+				{
+					"attribute_class"	"set_weapon_mode"
+					"value" "2"
+				}
+				"self mark for death"
+				{
+					"attribute_class"	"self_mark_for_death"
+					"value"	"3"
+				}
+				"single wep holster time increased"
+				{
+					"attribute_class"	"mult_switch_from_wep_deploy_time"
+					"value"				"1.5"
+				}
+			}
+			"hide_bodygroups_deployed_only"	"1"
+			"visuals"
+			{
+				"player_bodygroups"
+				{
+					"hands"			"1"
+				}
+				"sound_melee_miss"	"Weapon_BoxingGloves.Miss"
+				"sound_melee_hit"	"Weapon_BoxingGloves.HitFlesh"
+				"sound_melee_hit_world"	"Weapon_BoxingGloves.HitWorld"
+				"sound_burst"	"Weapon_BoxingGloves.MissCrit"
+			}
+			"visuals_red"
+			{
+				"use_visualsblock_as_base"	"visuals"
+				"skin"	"2"
+			}
+			"visuals_blu"
+			{
+				"use_visualsblock_as_base"	"visuals"
+				"skin"	"3"
+			}
+			"mouse_pressed_sound" "ui/item_boxing_gloves_pickup.wav"
+			"drop_sound" "ui/item_boxing_gloves_drop.wav"
+			"xifier_class_remap"	"gru"
+		}
+		"66"
+		{
+			"name"	"The Killing Gloves of Boxing"
+			"prefab"	"valve"
+			"first_sale_date"	"2010/09/29"
+			"item_class"	"tf_weapon_fists"
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
+			"capabilities"
+			{
+				"nameable"		"1"
+			}
+			"tags"
+			{
+				"can_deal_damage"			"1"
+				"can_deal_critical_damage"	"1"
+			}
+			"show_in_armory"	"1"
+			"item_type_name"	"#TF_Weapon_Gloves"
+			"item_name"	"#TF_Unique_Achievement_Fists"
+			"item_slot"	"melee"
+			"item_logname"	"gloves"
+			"item_iconname"	"gloves"
+			"image_inventory"	"backpack/weapons/c_models/c_boxing_gloves/c_boxing_gloves"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"inspect_panel_dist" 				"53"					
+			"model_player"	"models/weapons/c_models/c_boxing_gloves/c_boxing_gloves.mdl"
+			"attach_to_hands"	"1"
+			"item_quality"	"unique"
+			"propername"	"1"
+			"min_ilevel"	"7"
+			"max_ilevel"	"7"
+			"used_by_classes"
+			{
+				"heavy"	"1"
+			}
+			"static_attrs"
+			{
+				"min_viewmodel_offset"		"10 0 -10"
+			}
+			"attributes"
+			{
+				"critboost on kill"
+				{
+					"attribute_class"	"add_onkill_critboost_time"
+					"value"	"5"
+				}
+				"fire rate penalty"
+				{
+					"attribute_class"	"mult_postfiredelay"
+					"value"	"1.2"
+				}
+			}
+			"hide_bodygroups_deployed_only"	"1"
+			"visuals"
+			{
+				"player_bodygroups"
+				{
+					"hands"		"1"
+				}
+				"sound_melee_miss"	"Weapon_BoxingGloves.Miss"
+				"sound_melee_hit"	"Weapon_BoxingGloves.HitFlesh"
+				"sound_melee_hit_world"	"Weapon_BoxingGloves.HitWorld"
+				"sound_burst"	"Weapon_BoxingGloves.MissCrit"
+				"animation_replacement"
+				{
+					"ACT_MELEE_VM_INSPECT_START"	"ACT_MELEE_ALT1_VM_INSPECT_START"
+					"ACT_MELEE_VM_INSPECT_IDLE"		"ACT_MELEE_ALT1_VM_INSPECT_IDLE"
+					"ACT_MELEE_VM_INSPECT_END"		"ACT_MELEE_ALT1_VM_INSPECT_END"
+				}
+			}
+			"mouse_pressed_sound" 	"ui/item_boxing_gloves_pickup.wav"
+			"drop_sound" 		"ui/item_boxing_gloves_drop.wav"
+		}
+		"67"
+		{
+			"name"	"The Sandman"
+			"prefab"	"valve"
+			"first_sale_date"	"2010/09/29"
+			"item_class"	"tf_weapon_bat"
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
+			"capabilities"
+			{
+				"nameable"		"1"
+				"can_collect"	"1"
+			}
+			"tags"
+			{
+				"can_deal_damage"			"1"
+				"can_deal_critical_damage"	"1"
+				"can_deal_posthumous_damage"	"1"
+				"can_deal_long_distance_damage"	"1"
+				"can_deal_taunt_damage" "1"
+				"can_be_festivized"		"1"
+			}
+			"show_in_armory"	"1"
+			"item_type_name"	"#TF_Weapon_Bat"
+			"item_name"	"#TF_Unique_Achievement_Bat"
+			"item_logname"	"sandman"
+			"item_iconname"	"sandman"
+			"item_slot"	"melee"
+			"item_quality"	"unique"
+			"propername"	"1"
+			"min_ilevel"	"15"
+			"max_ilevel"	"15"
+			"inspect_panel_dist" "45"
+			"attach_to_hands"	"1"
+			"image_inventory"	"backpack/weapons/c_models/c_wooden_bat/c_wooden_bat"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"model_player"	"models/weapons/c_models/c_wooden_bat/c_wooden_bat.mdl"
+			"visuals"
+			{
+				"styles"
+				{
+					"0"
+					{
+						"skin_red"		"0"
+						"skin_blu"		"1"
+					}
+				}
+				"attached_models_festive"
+				{
+					"0"
+					{
+						"model"	"models/weapons/c_models/c_wooden_bat/c_wooden_bat_festivizer.mdl"
+					}
+				}
+			}
+			"used_by_classes"
+			{
+				"scout"	"1"
+			}
+			"static_attrs"
+			{
+				"min_viewmodel_offset"					"10 0 -6"
+			}
+			"attributes"
+			{
+				"mod bat launches balls"
+				{
+					"attribute_class"	"set_weapon_mode"
+					"value"	"1"
+				}
+				"max health additive penalty"
+				{
+					"attribute_class"	"add_maxhealth"
+					"value" "-15"
+				}
+				"special taunt"
+				{
+					"attribute_class"	"special_taunt"
+					"value" "1"
+				}
+			}
+			"mouse_pressed_sound"	"ui/item_wood_pole_pickup.wav"
+			"drop_sound"		"ui/item_wood_pole_drop.wav"
+		}
+		"68"
+		{
+			"name"	"The Market Gardener"
+			"first_sale_date"	"2011/03/23"
+			"item_class"	"tf_weapon_shovel"
+			"craft_class"	"weapon"
+			"craft_material_type"	"weapon"
+			"capabilities"
+			{
+				"nameable"		"1"
+				"can_craft_count"	"1"
+			}
+			"tags"
+			{
+				"can_deal_damage"			"1"
+				"can_be_equipped_by_soldier_or_demo"	"1"
+				"can_deal_critical_damage"	"1"
+			}
+			"show_in_armory"	"1"
+			"item_type_name"	"#TF_Weapon_Shovel"
+			"item_name"	"#TF_MarketGardener"
+			"item_logname"	"market_gardener"
+			"item_iconname"	"market_gardener"
+			"item_slot"	"melee"
+			"item_quality"	"unique"
+			"propername"	"1"
+			"min_ilevel"	"10"
+			"max_ilevel"	"10"
+			"image_inventory" "backpack/workshop/weapons/c_models/c_market_gardener/c_market_gardener"
+			"image_inventory_size_w"		"128"
+			"image_inventory_size_h"		"82"
+			"inspect_panel_dist" 				"45"
+			"model_player"	"models/workshop/weapons/c_models/c_market_gardener/c_market_gardener.mdl"
+			"attach_to_hands" "1"
+			"used_by_classes"
+			{
+				"soldier"	"1"
+			}
+			"static_attrs"
+			{
+				"min_viewmodel_offset"					"10 -3 -11"
+			}
+			"attributes"
+			{
+				"fire rate penalty"
+				{
+					"attribute_class"	"mult_postfiredelay"
+					"value"	"1.2"
+				}
+				"mod crit while airborne"
+				{
+					"attribute_class"	"crit_while_airborne"
+					"value"	"1"
+				}
+				"crit mod disabled"
+				{
+					"attribute_class"	"mult_crit_chance"
+					"value"	"0"
+				}
+			}
+			"mouse_pressed_sound"	"ui/item_shovel_pickup.wav"
+			"drop_sound"		"ui/item_shovel_drop.wav"
+		}
 		"735"
 		{
 			"name"	"TF_WEAPON_BUILDER_SPY"
