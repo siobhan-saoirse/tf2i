@@ -3900,8 +3900,8 @@
 			}
 			"visuals"
 			{
-				"sound_single_shot"	"Weapon_RPG_DirectHit.Single"
-				"sound_burst"	"Weapon_RPG_DirectHit.SingleCrit"
+				"sound_single_shot"	"Weapon_Liberty_Launcher.Single"
+				"sound_burst"	"Weapon_Liberty_Launcher.SingleCrit"
 			}
 			"mouse_pressed_sound"	"ui/item_heavy_gun_drop.wav"
 			"drop_sound"	"ui/item_heavy_gun_drop.wav"
