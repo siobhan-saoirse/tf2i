@@ -3920,8 +3920,7 @@
 			}
 			"show_in_armory"	"1"
 			"item_type_name"	"#TF_Weapon_RocketLauncher"
-			"item_name"	"#TF_Weapon_RocketLauncher_Jump"
-			"item_description"	"#TF_Weapon_RocketLauncher_Jump_Desc"
+			"item_name"	"#TF_TheBlackBox"
 			"item_slot"	"primary"
 			"item_quality"	"unique"
 			"show_in_armory"	"1"
