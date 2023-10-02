@@ -1546,19 +1546,14 @@
 	"channel"	"CHAN_ITEM"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		"weapons/shotgun_reload.wav"
-	"wave"		"weapons/shotgun_reload2.wav"
-	"wave"		"weapons/shotgun_reload3.wav"
-}
+	"wave"		"weapons/default_reload.wav"
 
 "Weapon_Shotgun.WorldReload"
 {
 	"channel"	"CHAN_ITEM"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"1.0"
-	"wave"		"weapons/shotgun_worldreload.wav"
-	"wave"		"weapons/shotgun_worldreload2.wav"
-	"wave"		"weapons/shotgun_worldreload3.wav"
+	"wave"		"weapons/default_reload.wav"
 }
 
 "Weapon_Shotgun.Pump"
@@ -1582,7 +1577,7 @@
 	"channel"	"CHAN_AUTO"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	".5"
-	"wave"		"weapons/draw_shotgun_pyro.wav"
+	"wave"		"weapons/draw_secondary.wav"
 }
 
 "Weapon_ShotgunEngineer.Cock_Back"
