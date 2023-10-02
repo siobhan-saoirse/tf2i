@@ -44,7 +44,7 @@
 		}
 		"BurnLevel"
 		{
-			"resultVar" "$burnlevel"
+			"resultVar" "$detailblendfactor"
 		}
 		"Equals"
 		{
