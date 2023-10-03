@@ -42,6 +42,18 @@
 			game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
 			game				|all_source_engine_paths|hl2/hl2_misc.vpk
 			platform			|all_source_engine_paths|platform/platform_misc.vpk
+			game+mod			"|all_source_engine_paths|../Team Fortress 2/tf/tf2_textures.vpk"
+			game+mod			"|all_source_engine_paths|../Team Fortress 2/tf/tf2_sound_vo_english.vpk"
+			game+mod			"|all_source_engine_paths|../Team Fortress 2/tf/tf2_sound_misc.vpk"
+			game+mod			"|all_source_engine_paths|../Team Fortress 2/tf/tf2_misc.vpk"
+			game+mod+vgui		"|all_source_engine_paths|../Team Fortress 2/tf/tf2_misc.vpk"
+
+			game+mod			"C:/Program Files (x86)\Steam\steamapps\common\Team Fortress 2/tf/tf2_textures.vpk"
+			game+mod			"C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2_sound_vo_english.vpk"
+			game+mod			"C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2_sound_misc.vpk"
+			game+mod			"C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2_misc.vpk"
+			game+mod+vgui		"C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2_misc.vpk"	
+			
 			//Episode 2	
 			game "|all_source_engine_paths|..\Source SDK Base 2013 Singleplayer\ep2\ep2_sound_vo_english.vpk"	
 			game "|all_source_engine_paths|..\Source SDK Base 2013 Singleplayer\ep2\ep2_pak.vpk"
