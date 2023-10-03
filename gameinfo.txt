@@ -67,6 +67,16 @@
 			// but only while you are connected that server and on that map.
 			game+download			|gameinfo_path|download
 			game				"|all_source_engine_paths|..\Counter-Strike Source\cstrike\cstrike_pak.vpk"
+			game+mod			"C:/Program Files (x86)\Steam\steamapps\common\Team Fortress 2/tf/tf2_textures.vpk"
+			game+mod			"C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2_sound_vo_english.vpk"
+			game+mod			"C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2_sound_misc.vpk"
+			game+mod			"C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2_misc.vpk"
+			game+mod+vgui		"C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2_misc.vpk"	
+			game+mod			"|all_source_engine_paths|../Team Fortress 2/tf/tf2_textures.vpk"
+			game+mod			"|all_source_engine_paths|../Team Fortress 2/tf/tf2_sound_vo_english.vpk"
+			game+mod			"|all_source_engine_paths|../Team Fortress 2/tf/tf2_sound_misc.vpk"
+			game+mod			"|all_source_engine_paths|../Team Fortress 2/tf/tf2_misc.vpk"
+			game+mod+vgui		"|all_source_engine_paths|../Team Fortress 2/tf/tf2_misc.vpk"	
 		}
 	}
 }
