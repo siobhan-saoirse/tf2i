@@ -3768,16 +3768,6 @@
 					"attribute_class"	"disable_fancy_class_select_anim"
 					"value"	"1"
 				}
-				"Projectile speed increased HIDDEN"
-				{
-					"attribute_class"	"mult_projectile_speed"
-					"value"	"1.5"
-				}
-				"damage bonus HIDDEN"
-				{
-					"attribute_class" 	"mult_dmg"
-					"value" "1.2"
-				}
 			}
 			"visuals"
 			{
